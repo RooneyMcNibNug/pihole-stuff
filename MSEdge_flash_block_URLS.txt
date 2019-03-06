@@ -10,7 +10,7 @@
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
-#@ GitHub : https://raw.githubusercontent.com/
+#@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/MSEdge_flash_block_URLS.txt
 #Updated: 06 March 2019
 #
 #
@@ -37,7 +37,7 @@ empire.goodgamestudios.com
 www.friv.com
 video.baomihua.com
 hiztesti.turktelekom.com.tr
-www.scholastic.com
+#www.scholastic.com
 www.viz.com
 www.dilidili.wang
 games.aarp.org
