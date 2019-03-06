@@ -4,9 +4,9 @@
 ##and load Flash content without getting user confirmation in Microsoft Edge. This is a binary file containing multiple records
 ##and the format of each record is: - (32 bytes) sha256 hash of the domain name represented as a wide char string - (4 bytes) 
 ##32-bit permission flags describing in what cases Flash is allowed to load"
-##Temporary "solution" here was this - sed out all the domain names from list and created a DNS-level blocklist for pihole.
-##I've examined these URLs and most of them seem like garbage anyways, but I have commented out ones that I might want to 
-##actually resolve to for now.
+##A "solution" (lol) here was this - sed out all the domain names from list and created a DNS-level blocklist for pihole.
+##I've examined these URLs & consider most of them trash/spam anyways, but I have commented out ones that I might want to 
+##actually resolve to for now. Of course, you could please just not use Edge...
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
