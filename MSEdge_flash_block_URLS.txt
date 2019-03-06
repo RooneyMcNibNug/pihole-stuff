@@ -55,7 +55,7 @@ www.stupidvideos.com
 entitlement.auth.adobe.com
 video.fc2.com
 www.ontvtime.ru
-#apps.facebook.com
+apps.facebook.com
 www.totaljerkface.com
 www.hungamatv.com
 edu.glogster.com
@@ -64,7 +64,7 @@ life.pigg.ameba.jp
 www.panda.tv
 www.vudu.com
 www.nseindia.com
-#music.microsoft.com
+music.microsoft.com
 en.ikariam.gameforge.com
 www.deraktionaer.tv
 www.a1.net
