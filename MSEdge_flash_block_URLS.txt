@@ -1,10 +1,19 @@
 #Title: MS Edge Flash Click2Play Windows Bullshit Blocklist
-#Description: https://bugs.chromium.org/p/project-zero/issues/detail?id=1722 or the readme at Home
+#Description: From https://bugs.chromium.org/p/project-zero/issues/detail?id=1722 - "In Microsoft Windows, there is a file
+##C:\Windows\system32\edgehtmlpluginpolicy.bin that contains the default whitelist of domains that can bypass Flash click2play
+##and load Flash content without getting user confirmation in Microsoft Edge. This is a binary file containing multiple records
+##and the format of each record is: - (32 bytes) sha256 hash of the domain name represented as a wide char string - (4 bytes) 
+##32-bit permission flags describing in what cases Flash is allowed to load"
+##Temporary "solution" here was this - sed out all the domain names from list and created a DNS-level blocklist for pihole.
+##I've examined these URLs and most of them seem like garbage anyways, but I have commented out ones that I might want to 
+##actually resolve to for now.
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/
 #Updated: 06 March 2019
+#
+#
 www.pogo.com
 www.wasu.cn
 www.tvnow.de
@@ -46,7 +55,7 @@ www.stupidvideos.com
 entitlement.auth.adobe.com
 video.fc2.com
 www.ontvtime.ru
-apps.facebook.com
+#apps.facebook.com
 www.totaljerkface.com
 www.hungamatv.com
 edu.glogster.com
@@ -55,7 +64,7 @@ life.pigg.ameba.jp
 www.panda.tv
 www.vudu.com
 www.nseindia.com
-music.microsoft.com
+#music.microsoft.com
 en.ikariam.gameforge.com
 www.deraktionaer.tv
 www.a1.net
