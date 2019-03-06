@@ -1,0 +1,62 @@
+#Title: MS Edge Flash Click2Play Windows Bullshit Blocklist
+#Description: https://bugs.chromium.org/p/project-zero/issues/detail?id=1722 or the readme at Home
+#Author: RooneyMcNibNug
+#License: WTFPL (http://www.wtfpl.net/about/)
+#Home: https://github.com/RooneyMcNibNug/pihole-stuff
+#@ GitHub : https://raw.githubusercontent.com/
+#Updated: 06 March 2019
+www.pogo.com
+www.wasu.cn
+www.tvnow.de
+chushou.tv
+more2.starfall.com
+loa.gtarcade.com
+nseindia.com
+www.wgt.com
+netgauge.unitel.ao
+www.icourses.cn
+www.la7.it
+www.dgestilistas.es
+www.zxxk.com
+weathernews.jp
+bigfarm.goodgamestudios.com
+www.deezer.com
+yahoo-mbga.jp
+ok.ru
+seer.61.com
+empire.goodgamestudios.com
+www.friv.com
+video.baomihua.com
+hiztesti.turktelekom.com.tr
+www.scholastic.com
+www.viz.com
+www.dilidili.wang
+games.aarp.org
+www.douyu.com
+rc.qzone.qq.com
+www.nicovideo.jp
+www.mynet.com
+www.hotstar.com
+www.4399.com
+www.bilibili.com
+www.msn.com
+zone.msn.com
+www.worldsurfleague.com
+www.stupidvideos.com
+entitlement.auth.adobe.com
+video.fc2.com
+www.ontvtime.ru
+apps.facebook.com
+www.totaljerkface.com
+www.hungamatv.com
+edu.glogster.com
+v.pptv.com
+life.pigg.ameba.jp
+www.panda.tv
+www.vudu.com
+www.nseindia.com
+music.microsoft.com
+en.ikariam.gameforge.com
+www.deraktionaer.tv
+www.a1.net
+www.poptropica.com
