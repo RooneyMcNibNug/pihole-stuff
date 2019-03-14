@@ -3,7 +3,7 @@
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
-#@ GitHub : 
+#@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 #Updated: 14 March 2019
 #
 bridge.sfo1.admarketplace.net
