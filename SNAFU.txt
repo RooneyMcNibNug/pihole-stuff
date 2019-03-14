@@ -1,0 +1,9 @@
+### A general domain blocklist for pihole (https://pi-hole.net/)
+### work in progress - will be adding new domains as I find them through a number of ways
+#Author: RooneyMcNibNug
+#License: WTFPL (http://www.wtfpl.net/about/)
+#Home: https://github.com/RooneyMcNibNug/pihole-stuff
+#@ GitHub : 
+#Updated: 14 March 2019
+#
+bridge.sfo1.admarketplace.net
