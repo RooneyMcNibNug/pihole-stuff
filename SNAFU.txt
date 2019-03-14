@@ -7,3 +7,11 @@
 #Updated: 14 March 2019
 #
 bridge.sfo1.admarketplace.net
+bridge2.sfo1.admarketplace.net
+bridge.lga1.admarketplace.net
+bridge.sf.admarketplace.net
+bridge2.lga1.admarketplace.net
+bridge.ame.admarketplace.net
+in.treasuredata.com
+api.redshell.io
+redshell.io
