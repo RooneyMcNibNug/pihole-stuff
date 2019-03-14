@@ -15,3 +15,17 @@ bridge.ame.admarketplace.net
 in.treasuredata.com
 api.redshell.io
 redshell.io
+b2c-msm.marketo.com
+munchkin.marketo.net
+na-sj13.marketo.com
+na-ab20.marketo.com
+na-ab15.marketo.com
+na-ab14.marketo.com
+na-ab17.marketo.com
+na-ab12.marketo.com
+na-ab19.marketo.com
+app-f.marketo.com
+app-c.marketo.com
+app-g.marketo.com
+app-sj01.marketo.com
+launchpoint.marketo.com
