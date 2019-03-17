@@ -49,3 +49,5 @@ dnserrorassist.att.net
 email.quantcast.com
 ak.quantcast.com
 hlsioscwtv.warnerbros.com
+analytics.spotify.com
+v.jwpcdn.com
