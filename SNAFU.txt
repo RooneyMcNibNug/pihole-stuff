@@ -1,10 +1,10 @@
-### A general domain blocklist for pihole (https://pi-hole.net/)
+### A general tracking domain blocklist for pihole (https://pi-hole.net/)
 ### work in progress - will be adding new domains as I find them through a number of ways
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 17 March 2019
+#Updated: 18 March 2019
 #
 bridge.sfo1.admarketplace.net
 bridge2.sfo1.admarketplace.net
@@ -51,3 +51,8 @@ ak.quantcast.com
 hlsioscwtv.warnerbros.com
 analytics.spotify.com
 v.jwpcdn.com
+v2.zopim.com
+us34.zopim.com
+rs.fullstory.com
+adblockext.com
+i.trackmytarget.com
