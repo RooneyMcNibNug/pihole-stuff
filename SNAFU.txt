@@ -1,5 +1,6 @@
-### A general tracking domain blocklist for pihole (https://pi-hole.net/)
-### work in progress - will be adding new domains as I find them through a number of ways
+### A general tracking domain blocklist for pihole. (https://pi-hole.net/)                    ###
+### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
+### Work in progress - will be adding new domains as I find them through a number of methods. ###
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
