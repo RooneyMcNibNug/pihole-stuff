@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 18 March 2019
+#Updated: 22 March 2019
 #
 bridge.sfo1.admarketplace.net
 bridge2.sfo1.admarketplace.net
@@ -57,3 +57,5 @@ us34.zopim.com
 rs.fullstory.com
 adblockext.com
 i.trackmytarget.com
+justwatch.us
+ivpnmac.com
