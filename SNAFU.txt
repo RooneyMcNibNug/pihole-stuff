@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 24 March 2019
+#Updated: 25 March 2019
 #
 bridge.sfo1.admarketplace.net
 bridge2.sfo1.admarketplace.net
@@ -82,17 +82,38 @@ hlsioscwtv.warnerbros.com
 v.jwpcdn.com
 v2.zopim.com
 us34.zopim.com
+r.fullstory.com
 rs.fullstory.com
+app.fullstory.com
+internal.fullstory.com
+services.fullstory.com
+prometheus.fullstory.com
 adblockext.com
 i.trackmytarget.com
+c.trackmytarget.com
 justwatch.us
 ivpnmac.com
+6152651.collect.igodigital.com
+6234512.collect.igodigital.com
+7287793.collect.igodigital.com
 7003765.collect.igodigital.com
+7230959.collect.igodigital.com
+7214679.collect.igodigital.com
+7233492.collect.igodigital.com
+7227561.collect.igodigital.com
+7263995.collect.igodigital.com
+7276180.collect.igodigital.com
 7209235.collect.igodigital.com
 1049174.collect.igodigital.com
+10676440.collect.igodigital.com
+10963276.collect.igodigital.com
+calamos.collect.igodigital.com
+1ef80c94c65fbc10d54a7ca3c.litix.io
+247eda56317d1549491233a36.litix.io
 fg8vvsvnieiv3ej16jby.litix.io
 i.clean.gg
 ws.sessioncam.com
+api.sessioncam.com
 unilever.demdex.net
 unilever2.demdex.net
 webmasterpro.de
@@ -266,3 +287,24 @@ q017o-xooze.ads.tremorhub.com
 bis.vidazoo.com
 static.vidazoo.com
 5363519.fls.doubleclick.net
+elastic05.decibelinsight.net
+api.decibelinsight.net
+liadm.com
+p.liadm.com
+ci.liadm.com
+d.liadm.com
+b-code.liadm.com
+youtube.imrworldwide.com
+push.bluekai.com
+push02.wdc.bluekai.com
+push01.wdc.bluekai.com
+campaign-push.bluekai.com
+mobileproxy.bluekai.com
+dmpstats.bluekai.com
+appnexus-bkapp.bluekai.com
+wdc.bluekai.com
+db01.wdc.bluekai.com
+dmpstats01.wdc.bluekai.com
+dmpsoak.bluekai.com
+ps2254.wdc.bluekai.com
+noscript.shinystat.com
