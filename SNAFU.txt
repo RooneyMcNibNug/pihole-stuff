@@ -494,3 +494,5 @@ disney-o.scene7.com
 macys-o.na.scene7.com
 ibm.scene7.com
 boulanger.scene7.com
+sspinc.io
+revolve.sspinc.io
