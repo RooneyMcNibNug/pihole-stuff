@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 25 March 2019
+#Updated: 26 March 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -574,3 +574,38 @@ piano.io
 i.piano.io
 traffic.piano.io
 dev.piano.io
+collector-pxhyx10rg3.perimeterx.net
+collector-pxhmjy2xc9.perimeterx.net
+collector-pxel3l4xih.perimeterx.net
+collector-pxeatbe0im.perimeterx.net
+collector-pxj770cp7y.perimeterx.net
+collector-pxyo6yjwlb.perimeterx.net
+collector-pxzhh9f9x0.perimeterx.net
+collector-px3vk96i6i.perimeterx.net
+collector-pxxgcxm9by.perimeterx.net
+collector-pxo97ybh4j.perimeterx.net
+collector-pxa3zjcxzu.perimeterx.net
+collector-pxszbkva5m.perimeterx.net
+collector-px3cvqbi14.perimeterx.net
+collector-pxrf8vapwa.perimeterx.net
+collector-px0lizzs6w.perimeterx.net
+collector-pxqukd4lo9.perimeterx.net
+collector-px35v5ygcp.perimeterx.net
+collector-pxpmp8ilui.perimeterx.net
+collector-px69t0ouvr.perimeterx.net
+collector-pxev56my37.perimeterx.net
+collector-pxy5lkfmw7.perimeterx.net
+collector-pxvnpbbfwe.perimeterx.net
+collector-pxhf9ns48h.perimeterx.net
+collector-px1uglztko.perimeterx.net
+collector-pxm636svr4.perimeterx.net
+collector-pxajdckzhd.perimeterx.net
+collector-px27m703hm.perimeterx.net
+collector-pxzkfhwd1c.perimeterx.net
+collector-px46uwk7he.perimeterx.net
+collector-global-http-lb-dsr-poc.perimeterx.net
+data.zqtk.net
+t.zqtk.net
+api-us-east.zqtk.net
+segment-data.zqtk.net
+segment-data-us-east.zqtk.net
