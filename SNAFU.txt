@@ -7,6 +7,13 @@
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 #Updated: 25 March 2019
 #
+#
+### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
+### i began to see that i had commodified myself. commodification means that you turn         ###
+### something into a product which has a money-value." - humdog (1994)                        ###
+#
+#
+#BEGIN BLOCKLIST#
 bridge.sfo1.admarketplace.net
 bridge2.sfo1.admarketplace.net
 bridge.lga1.admarketplace.net
