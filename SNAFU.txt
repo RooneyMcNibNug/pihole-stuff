@@ -965,3 +965,6 @@ myfamilycominc.tt.omtrdc.net
 sailthru.com
 api.sailthru.com
 horizon.sailthru.com
+tray.io
+woopra.com
+static.woopra.com
