@@ -49,6 +49,8 @@ abrca11.marketo.com
 abrtp1.marketo.com
 app-gusw1int002.marketo.com
 snrca02.marketo.com
+gainsight.com
+api.gainsight.com
 unigymboom.com
 visualrates.com
 az315059.vo.msecnd.net 	 	
@@ -960,3 +962,6 @@ costco.tt.omtrdc.net
 kohls.tt.omtrdc.net
 mboxedge20.tt.omtrdc.net
 myfamilycominc.tt.omtrdc.net
+sailthru.com
+api.sailthru.com
+horizon.sailthru.com
