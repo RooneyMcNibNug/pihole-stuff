@@ -20,6 +20,7 @@ bridge.lga1.admarketplace.net
 bridge.sf.admarketplace.net
 bridge2.lga1.admarketplace.net
 bridge.ame.admarketplace.net
+location.l.force.com
 foodanddrink.tile.appex.bing.com
 travel.tile.appex.bing.com
 in.treasuredata.com
@@ -1023,3 +1024,8 @@ evolok.com
 evolok.net
 jps.evolok.net
 vice-web-statics-cdn.vice.com
+o0bc.com
+c.o0bc.com
+listgrowth.ctctcdn.com
+coveo.com
+cloud.coveo.com
