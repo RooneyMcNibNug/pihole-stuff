@@ -1019,3 +1019,7 @@ sdkproxy.ir.prod.clicktale.net
 nv.prod.clicktale.net
 vulcan.ir.prod.clicktale.net
 pipe.dev.clicktale.net
+evolok.com
+evolok.net
+jps.evolok.net
+vice-web-statics-cdn.vice.com
