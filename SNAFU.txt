@@ -2427,3 +2427,4 @@ a1.lc.clevertap.com
 mac-mini.clevertap.com
 www.mac-mini.clevertap.com
 a1.mail.clevertap.com
+forwrdnow.com
