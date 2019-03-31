@@ -2428,3 +2428,9 @@ mac-mini.clevertap.com
 www.mac-mini.clevertap.com
 a1.mail.clevertap.com
 forwrdnow.com
+en-us.appex-rf.msn.com
+dns.msftncsi.com
+trafficshaping.dsp.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+analytics.shopify.com
+a.s.thebrighttag.com
