@@ -1,0 +1,1 @@
+tshark -i wlan0 -f "src port 53" -n -T fields -e dns.qry.name
