@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 31 March 2019
+#Updated: 2 April 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -2571,3 +2571,12 @@ wfgv096.youbora.com
 fld.vmmpxl.com
 icon.vmmpxl.com
 track.reson8.com
+l.heatmap.it
+www.l.heatmap.it
+l2.heatmap.it
+shopify-app.heatmap.it
+www.shopify-app.heatmap.it
+www.u.heatmap.it
+us1.heatmap.it
+us2.heatmap.it
+us4.heatmap.it
