@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 4 April 2019
+#Updated: 5 April 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -4320,3 +4320,9 @@ st-flip-flipflop.pingdom.net
 st-rbc-api-data.pingdom.net
 st-www-4.pingdom.net
 www-4.pingdom.net
+www.vidyard.com
+assets.vidyard.com
+cdn.vidyard.com
+embed.vidyard.com
+play.vidyard.com
+vidyardwebsite.wpengine.com
