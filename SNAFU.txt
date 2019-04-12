@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 11 April 2019
+#Updated: 12 April 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -5230,3 +5230,67 @@ pages.reachforce.com
 web1.reachforce.com
 web2.reachforce.com
 ws.reachforce.com
+tapad.com
+www.tapad.com
+adsrv.tapad.com
+adsrv-ap-southeast.tapad.com
+adsrv-eu.tapad.com
+adsrv-eu-ssl.tapad.com
+adsrv-us-east.tapad.com
+adsrv-us-west.tapad.com
+adsrv-us-west-ssl.tapad.com
+adsrv1.tapad.com
+analytics.tapad.com
+assets.tapad.com
+audience.tapad.com
+bd.tapad.com
+creative-services.tapad.com
+data.tapad.com
+data-ingress-ae1.tapad.com
+data-ingress-euw1.tapad.com
+digi.tapad.com
+dtac.tapad.com
+engineering.tapad.com
+www.engineering.tapad.com
+eqix-ema-dc.tapad.com
+eqix-ema-ny.tapad.com
+go.tapad.com
+pixel.tapad.com
+pixel-test.tapad.com
+privacy.tapad.com
+direct.rtb.tapad.com
+rtb-ca1.tapad.com
+rtb-eq.tapad.com
+rtb-eu.tapad.com
+rtb-us-east.tapad.com
+sdkw.tapad.com
+sep.tapad.com
+stg.tapad.com
+www.stg.tapad.com
+svc.tapad.com
+bell-canada.svc.tapad.com
+brand-networks.svc.tapad.com
+dataplatform-stg.svc.tapad.com
+identity-prd.svc.tapad.com
+staging.svc.tapad.com
+telenor-bangladesh.svc.tapad.com
+telenor-sweden.svc.tapad.com
+tmobile.svc.tapad.com
+swappit.tapad.com
+tap.tapad.com
+tapestry.tapad.com
+tapestry-ap.tapad.com
+tapestry-eu.tapad.com
+tapestry-us-east.tapad.com
+tapestry-us-west.tapad.com
+taptalks.tapad.com
+unify.tapad.com
+vhosts.tapad.com
+vhosts-am1.tapad.com
+vhosts-ap.tapad.com
+vhosts-ca1.tapad.com
+vhosts-eu.tapad.com
+vhosts-nj1.tapad.com
+vhosts-sg1.tapad.com
+vhosts-us-east.tapad.com
+vhosts-us-west.tapad.com
