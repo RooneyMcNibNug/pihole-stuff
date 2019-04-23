@@ -12378,3 +12378,5 @@ cdn.listenloop.com
 get.listenloop.com
 lookup.listenloop.com
 v2.listenloop.com
+sts.stackpath.com
+tracking.stackpath.com
