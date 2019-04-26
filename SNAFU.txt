@@ -13147,3 +13147,6 @@ ff39aa661bf05e1d3f843e7e1f915900.nrb.footprintdns.com
 ns1.footprintdns.com
 ns2.footprintdns.com
 report.footprintdns.com
+hotjar.io
+vc.hotjar.io
+so.rlcdn.com
