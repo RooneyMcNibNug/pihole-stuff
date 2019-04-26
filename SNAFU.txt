@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 23 April 2019
+#Updated: 26 April 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -12380,3 +12380,5 @@ lookup.listenloop.com
 v2.listenloop.com
 sts.stackpath.com
 tracking.stackpath.com
+clo.footprintdns.com
+nrb.footprintdns.com
