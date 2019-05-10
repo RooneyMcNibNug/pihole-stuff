@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 9 May 2019
+#Updated: 10 May 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -13151,3 +13151,26 @@ hotjar.io
 vc.hotjar.io
 so.rlcdn.com
 magento-analytics.com
+pulseinsights.com
+www.pulseinsights.com
+app.pulseinsights.com
+www.app.pulseinsights.com
+c.pulseinsights.com
+monit.console.pulseinsights.com
+munin.console.pulseinsights.com
+js.pulseinsights.com
+js-staging.pulseinsights.com
+s.pulseinsights.com
+status.pulseinsights.com
+survey.pulseinsights.com
+www.survey.pulseinsights.com
+monit.survey.pulseinsights.com
+munin.survey.pulseinsights.com
+adassets.ooyala.com
+audiencebuilder.ooyala.com
+ingest.ooyala.com
+www.ingest.ooyala.com
+ingest-apac.ooyala.com
+ingest-eu.ooyala.com
+ingest-syd.ooyala.com
+ingest-us.ooyala.com
