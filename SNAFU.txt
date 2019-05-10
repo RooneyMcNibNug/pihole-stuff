@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 26 April 2019
+#Updated: 9 May 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -13150,3 +13150,4 @@ report.footprintdns.com
 hotjar.io
 vc.hotjar.io
 so.rlcdn.com
+magento-analytics.com
