@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 10 May 2019
+#Updated: 14 May 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -13174,3 +13174,12 @@ ingest-apac.ooyala.com
 ingest-eu.ooyala.com
 ingest-syd.ooyala.com
 ingest-us.ooyala.com
+stash.qubitproducts.com
+pixel.getchute.com
+jssdkcdns.mparticle.com
+identity.mparticle.com
+openx.net
+ibt-d.openx.net
+aaaecommerce.com
+www.aaaecommerce.com
+announcement.aaaecommerce.com
