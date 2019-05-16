@@ -1,4 +1,4 @@
-### A general ad & tracking domain blocklist for pihole. (https://pi-hole.net/)               ###
+### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)               ###
 ### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
 #Author: RooneyMcNibNug
@@ -26,6 +26,10 @@ travel.tile.appex.bing.com
 in.treasuredata.com
 api.redshell.io
 redshell.io
+tracking-api.redshell.io
+application-api.redshell.io
+t.redshell.io
+www.t.redshell.io
 b2c-msm.marketo.com
 munchkin.marketo.net
 na-sj13.marketo.com
