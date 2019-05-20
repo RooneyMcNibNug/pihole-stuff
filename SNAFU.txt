@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 14 May 2019
+#Updated: 19 May 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -73,25 +73,25 @@ gainsight.com
 api.gainsight.com
 unigymboom.com
 visualrates.com
-az315059.vo.msecnd.net 	 	
-az833846.vo.msecnd.net 	 	
-az834917.vo.msecnd.net 	 	
+az315059.vo.msecnd.net
+az833846.vo.msecnd.net
+az834917.vo.msecnd.net
 az827921.vo.msecnd.net
-az749841.vo.msecnd.net 	 	
-az616578.vo.msecnd.net 	 	
-az29176.vo.msecnd.net 	 	
-az452423.vo.msecnd.net 	 	
+az749841.vo.msecnd.net
+az616578.vo.msecnd.net
+az29176.vo.msecnd.net
+az452423.vo.msecnd.net
 az781957.vo.msecnd.net	
 az601263.vo.msecnd.net
-az745681.vo.msecnd.net 	 	
-az685612.vo.msecnd.net 	
+az745681.vo.msecnd.net
+az685612.vo.msecnd.net 
 az804378.vo.msecnd.net	
-az310865.vo.msecnd.net 	
+az310865.vo.msecnd.net
 az745087.vo.msecnd.net
 az274650.vo.msecnd.net
-az835984.vo.msecnd.net 	 	
-az837173.vo.msecnd.net 	 	
-az745193.vo.msecnd.net 	 	
+az835984.vo.msecnd.net
+az837173.vo.msecnd.net
+az745193.vo.msecnd.net
 az717401.vo.msecnd.net
 az416426.vo.msecnd.net
 az31823.vo.msecnd.net
@@ -354,9 +354,6 @@ api.internal.k8s.cph.liveintent.com
 brsrvr.com
 certona.net
 edge1.certona.net
-ns1.certona.net
-ns2.certona.net
-ns3.certona.net
 s.certona.net
 stat.flashtalking.com
 stat1.flashtalking.com
@@ -376,9 +373,6 @@ elb.flashtalking.com
 autodiscover.flashtalking.com
 failover.flashtalking.com
 yottaa.net
-ns2.yottaa.net
-ns4.yottaa.net
-ns6.yottaa.net
 api.kampyle.com
 cf.kampyle.com
 eu.kampyle.com
