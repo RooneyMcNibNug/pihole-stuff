@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 27 May 2019
+#Updated: 28 May 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -14168,3 +14168,16 @@ www.app.linksense.io
 developers.linksense.io
 new.linksense.io
 pages.linksense.io
+infinigrow.com
+www.infinigrow.com
+app.infinigrow.com
+sp.infinigrow.com
+sc.sp.infinigrow.com
+snowplowanalytics.snowplow
+snowplowanalytics.com
+app.snowplowanalytics.com
+static.snowplowanalytics.com
+cdn.lift.acquia.com
+api.company-target.com
+segments.company-target.com
+visitor.reactful.com
