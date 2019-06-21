@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 20 June 2019
+#Updated: 21 June 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -17408,3 +17408,10 @@ edge.meta.lightstep.com
 ingest.meta.lightstep.com
 research.lightstep.com
 status.lightstep.com
+static.scroll.com
+connect.scroll.com
+z-na.amazon-adsystem.com
+prd.jwpltx.com
+c.sharethis.mgr.consensu.org
+collect.albacross.com
+collect.zoho.com
