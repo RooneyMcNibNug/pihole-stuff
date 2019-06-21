@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 18 June 2019
+#Updated: 20 June 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -17385,3 +17385,26 @@ plugin5.reactful.com
 sltracking.reactful.com
 tracking.reactful.com
 visitor.reactful.com
+lightstep.com
+www.lightstep.com
+api.lightstep.com
+api-latest.lightstep.com
+api2.lightstep.com
+app.lightstep.com
+collector.lightstep.com
+collector-http.lightstep.com
+collector-latest.lightstep.com
+collector-medium.lightstep.com
+collector-meta.lightstep.com
+edge.lightstep.com
+meet.lightstep.com
+meta.lightstep.com
+ambassador.meta.lightstep.com
+api.meta.lightstep.com
+api-grpc.meta.lightstep.com
+app.meta.lightstep.com
+collector.meta.lightstep.com
+edge.meta.lightstep.com
+ingest.meta.lightstep.com
+research.lightstep.com
+status.lightstep.com
