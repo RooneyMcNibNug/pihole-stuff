@@ -17516,3 +17516,6 @@ webshotcdn-eu.dynamicyield.com
 www.webshotcdn-eu.dynamicyield.com
 www-origin.dynamicyield.com
 www2.dynamicyield.com
+clickerheroestracker.azurewebsites.net
+etitrack.azurewebsites.net
+ipl-easytracker.azurewebsites.net
