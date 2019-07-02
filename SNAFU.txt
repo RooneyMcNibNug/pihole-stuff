@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 27 June 2019
+#Updated: 01 July 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -17653,3 +17653,66 @@ safeprice-coupons.ciuvo.com
 secure.ciuvo.com
 static.ciuvo.com
 mntr.static.ciuvo.com
+alignable.com
+www.alignable.com
+assets.alignable.com
+aws.alignable.com
+capuchin.alignable.com
+www.capuchin.alignable.com
+click.invites.alignable.com
+langur.alignable.com
+lemur.alignable.com
+macaque.alignable.com
+click.marketing.alignable.com
+o1.sg.marketing.alignable.com
+o2.sg.marketing.alignable.com
+o3.sg.marketing.alignable.com
+o4.sg.marketing.alignable.com
+o5.sg.marketing.alignable.com
+marmoset.alignable.com
+www.marmoset.alignable.com
+nps.alignable.com
+partner.alignable.com
+www.partner.alignable.com
+saki.alignable.com
+silverback.alignable.com
+site.alignable.com
+spidermonkey.alignable.com
+www.spidermonkey.alignable.com
+tamarin.alignable.com
+transactional.alignable.com
+click.transactional.alignable.com
+o6.sg.transactional.alignable.com
+o7.sg.transactional.alignable.com
+wrr.alignable.com
+wwww.alignable.com
+beeketing.com
+www.beeketing.com
+a.beeketing.com
+api.beeketing.com
+app.beeketing.com
+www.app.beeketing.com
+azbo.beeketing.com
+azstaging.beeketing.com
+azstatic.beeketing.com
+bkflycdn.beeketing.com
+cdn.beeketing.com
+edge.beeketing.com
+email.beeketing.com
+files.beeketing.com
+fly.beeketing.com
+fly-cdn.beeketing.com
+grafana.beeketing.com
+hive.beeketing.com
+k8s.beeketing.com
+log.beeketing.com
+s.beeketing.com
+scripts.beeketing.com
+sdk.beeketing.com
+sdk-cdn.beeketing.com
+sdk1.beeketing.com
+sdkedgecdn.beeketing.com
+stat.beeketing.com
+status.beeketing.com
+support.beeketing.com
+t.beeketing.com
