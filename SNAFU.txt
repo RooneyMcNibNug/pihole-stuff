@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 02 July 2019
+#Updated: 09 July 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18831,3 +18831,8 @@ wustlbusiness360.qualtrics.com
 wvu.qualtrics.com
 xerox.qualtrics.com
 yalesurvey.qualtrics.com
+newsharecounts.s3-us-west-2.amazonaws.com
+stiffvip.com
+fbcdn2.com
+prod.bidr.io
+match.prod.bidr.io
