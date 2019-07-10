@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 09 July 2019
+#Updated: 10 July 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18836,3 +18836,17 @@ stiffvip.com
 fbcdn2.com
 prod.bidr.io
 match.prod.bidr.io
+share.riverbed.com
+usage.riverbed.com
+www.usage.riverbed.com
+analytics.usage.riverbed.com
+outsystems.com
+www.outsystems.com
+customervalue.outsystems.com
+digitalservice.outsystems.com
+ontrack.outsystems.com
+fractal.ai
+www.fractal.ai
+ew3.io
+www.ew3.io
+ca.ew3.io
