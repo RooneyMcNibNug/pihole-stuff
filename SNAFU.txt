@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 10 July 2019
+#Updated: 29 July 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18850,3 +18850,19 @@ www.fractal.ai
 ew3.io
 www.ew3.io
 ca.ew3.io
+aaaecommerce.com
+www.aaaecommerce.com
+announcement.aaaecommerce.com
+stats-api.aaaecommerce.com
+www.stats-api.aaaecommerce.com
+statsc.aaaecommerce.com
+apptentive.com
+www.apptentive.com
+api.apptentive.com
+www.api.apptentive.com
+assets.apptentive.com
+emailtrack.apptentive.com
+event-app.apptentive.com
+alpha.heartthrob.apptentive.com
+notify.apptentive.com
+sdk.apptentive.com
