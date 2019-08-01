@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 29 July 2019
+#Updated: 01 August 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18866,3 +18866,12 @@ event-app.apptentive.com
 alpha.heartthrob.apptentive.com
 notify.apptentive.com
 sdk.apptentive.com
+mob.kaipirinhaloka.xyz
+yeesshh.com
+www.yeesshh.com
+5stars.yeesshh.com
+www.5stars.yeesshh.com
+my.yeesshh.com
+www.my.yeesshh.com
+xml.yeesshh.com
+r.phywi.org
