@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 01 August 2019
+#Updated: 04 August 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18875,3 +18875,4 @@ my.yeesshh.com
 www.my.yeesshh.com
 xml.yeesshh.com
 r.phywi.org
+checkip.justwatch.com
