@@ -18876,3 +18876,13 @@ www.my.yeesshh.com
 xml.yeesshh.com
 r.phywi.org
 checkip.justwatch.com
+arrivalist.com
+www.arrivalist.com
+analytics.arrivalist.com
+b.arrivalist.com
+cdn.arrivalist.com
+dc.arrivalist.com
+dev-dc.arrivalist.com
+legacy-reports.arrivalist.com
+qa-dc.arrivalist.com
+reports.arrivalist.com
