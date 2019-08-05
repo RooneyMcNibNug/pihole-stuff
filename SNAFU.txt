@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 04 August 2019
+#Updated: 05 August 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18887,3 +18887,7 @@ legacy-reports.arrivalist.com
 qa-dc.arrivalist.com
 reports.arrivalist.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
+ffgetsplendidapps.com
+svarog-jez.com
+usd.svarog-jez.com
+iyfsearch.com
