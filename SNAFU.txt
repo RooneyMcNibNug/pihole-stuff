@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 27 August 2019
+#Updated: 28 August 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -18991,3 +18991,65 @@ www.dyncdn.me
 mail.dyncdn.me
 rgbydyvkcn.dyncdn.me
 pixel.k8s.prod.blend.com
+analytics.nike.com
+analytics-dashboard.pixlee.com
+instafeed.assets.pixlee.com
+mattel.assets.pixlee.com
+socialfeed.pixlee.com
+collector-pxk266ff2d.perimeterx.net
+loader.wisepops.com
+ace.curalate.com
+accessorize.ace.curalate.com
+anntaylor.ace.curalate.com
+bonton.ace.curalate.com
+destinationxl.ace.curalate.com
+dunelondon.ace.curalate.com
+fossil.ace.curalate.com
+francescas.ace.curalate.com
+lowespr.ace.curalate.com
+modcloth.ace.curalate.com
+nordstrom.ace.curalate.com
+overstock.ace.curalate.com
+reebok.ace.curalate.com
+samsclub.ace.curalate.com
+api.curalate.com
+api-2.curalate.com
+campaigns.curalate.com
+www.campaigns.curalate.com
+like2buy.curalate.com
+allrecipes.like2buy.curalate.com
+berninausa.like2buy.curalate.com
+billabong.like2buy.curalate.com
+birchlane.like2buy.curalate.com
+bose.like2buy.curalate.com
+chumbak.like2buy.curalate.com
+draperjames.like2buy.curalate.com
+freepeople.like2buy.curalate.com
+guess.like2buy.curalate.com
+hayneedle.like2buy.curalate.com
+jcrew.like2buy.curalate.com
+jessicasimpson.like2buy.curalate.com
+lindtchocolateusa.like2buy.curalate.com
+louisvuitton.like2buy.curalate.com
+lululemon.like2buy.curalate.com
+lululemonuk.like2buy.curalate.com
+mariekondo.like2buy.curalate.com
+misspap.like2buy.curalate.com
+nymag.like2buy.curalate.com
+rugsusa.like2buy.curalate.com
+travelleisure.like2buy.curalate.com
+valentino.like2buy.curalate.com
+vice.like2buy.curalate.com
+wanderbeauty.like2buy.curalate.com
+wspbkids.like2buy.curalate.com
+wswilliamssonoma.like2buy.curalate.com
+zgallerie.like2buy.curalate.com
+increasingly.co
+www.increasingly.co
+api.increasingly.co
+optimizedby.increasingly.co
+rapidload.increasingly.co
+reports.fanplayr.com
+smart.fanplayr.com
+track-dinos.fanplayr.com
+tracker.fanplayr.com
