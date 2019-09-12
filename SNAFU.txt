@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 4 September 2019
+#Updated: 12 September 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -19416,3 +19416,9 @@ zonechanges.lockerdome.com
 bid.underdog.media
 platform-api.sharethis.com
 v1.addthisedge.com
+ads.yotpo.com
+destination.yotpo.com
+emails.yotpo.com
+gfeed.yotpo.com
+metrics.yotpo.com
+widget.yotpo.com
