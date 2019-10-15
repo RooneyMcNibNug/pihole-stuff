@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 13 October 2019
+#Updated: 15 October 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -22034,3 +22034,28 @@ zhishu.tencent.com
 zhitu.tencent.com
 zs.tencent.com
 zzz.tencent.com
+trovi.com
+ab.trovi.com
+www.ams.trovi.com
+lab.ams.trovi.com
+usage.ams.trovi.com
+aws.trovi.com
+csp.trovi.com
+csp-p-us-east-1.trovi.com
+csp-p-us-west-1.trovi.com
+resources.images.trovi.com
+info.trovi.com
+info2.trovi.com
+lab.trovi.com
+resources.lab.trovi.com
+lp.trovi.com
+m.trovi.com
+resources.trovi.com
+results.trovi.com
+resources.results.trovi.com
+suggest.trovi.com
+usage.trovi.com
+newtab.usage.trovi.com
+www.va.trovi.com
+lab.va.trovi.com
+usage.va.trovi.com
