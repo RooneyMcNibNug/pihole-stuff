@@ -22512,3 +22512,14 @@ cf.mailmunch.co
 graphql.mailmunch.co
 graphql-widget.mailmunch.co
 wl.mailmunch.co
+analytics.adst.anvato.net
+adstitch-live-qa.anvato.net
+analytics.anvato.net
+collector.analytics.anvato.net
+rt.analytics.anvato.net
+analytics-1.fs.anvato.net
+counter.minute.ly
+vdata.minute.ly
+sesamestats.com
+www.sesamestats.com
+reports.iq.vantivcnp.com
