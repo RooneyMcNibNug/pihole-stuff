@@ -1,11 +1,11 @@
-### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)               ###
+### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
 ### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
 #Author: RooneyMcNibNug
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 24 October 2019
+#Updated: 28 October 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -24129,3 +24129,9 @@ yuenmethod.clickfunnels.com
 zenityfitness.clickfunnels.com
 ziglar.clickfunnels.com
 zrlalliance.clickfunnels.com
+api.driftt.com
+customer.api.driftt.com
+event.api.driftt.com
+event-dev.api.driftt.com
+growth.api.driftt.com
+share.driftt.com
