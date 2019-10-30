@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 28 October 2019
+#Updated: 30 October 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -24135,3 +24135,20 @@ event.api.driftt.com
 event-dev.api.driftt.com
 growth.api.driftt.com
 share.driftt.com
+www.onetag-sys.com
+ads.onetag-sys.com
+bid.onetag-sys.com
+bid-eu.onetag-sys.com
+bid-g.onetag-sys.com
+bid-us-east.onetag-sys.com
+rtb.mfadsrvr.com
+www.rtb.mfadsrvr.com
+rtb-dev.mfadsrvr.com
+www.rtb-dev.mfadsrvr.com
+rtb-eu.mfadsrvr.com
+rtb-jp.mfadsrvr.com
+www.rtb-jp.mfadsrvr.com
+rtb-use.mfadsrvr.com
+rtb-usw.mfadsrvr.com
+www.rtb-usw.mfadsrvr.com
+biddr.brealtime.com
