@@ -24152,3 +24152,16 @@ rtb-use.mfadsrvr.com
 rtb-usw.mfadsrvr.com
 www.rtb-usw.mfadsrvr.com
 biddr.brealtime.com
+callminer.com
+www.callminer.com
+app-community.callminer.com
+app-engagementoptimization.callminer.com
+autodiscover.callminer.com
+careers.callminer.com
+community.callminer.com
+engagementoptimization.callminer.com
+info.callminer.com
+learn.callminer.com
+lyncdiscover.callminer.com
+pages.callminer.com
+www2.callminer.com
