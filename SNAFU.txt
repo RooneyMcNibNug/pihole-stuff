@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 31 October 2019
+#Updated: 4 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -24667,3 +24667,39 @@ yumama.os.tc
 yurtgazetesi-com.os.tc
 zecoupon.os.tc
 zozo.os.tc
+a.bizible.com
+apps.bizible.com
+www.cdn.bizible.com
+d.bizible.com
+kustomer.com
+dev.kustomer.com
+developer.kustomer.com
+inside.kustomer.com
+zetaglobal.com
+www.zetaglobal.com
+actions-adcams.zetaglobal.com
+ca.em.zetaglobal.com
+e.em.zetaglobal.com
+link.em.zetaglobal.com
+view.em.zetaglobal.com
+hello.zetaglobal.com
+impact.zetaglobal.com
+impact9.zetaglobal.com
+info.zetaglobal.com
+anon-reports.intranet.zetaglobal.com
+lab.zetaglobal.com
+ca.newsletters.zetaglobal.com
+images.newsletters.zetaglobal.com
+link.newsletters.zetaglobal.com
+view.newsletters.zetaglobal.com
+pm.zetaglobal.com
+resource.zetaglobal.com
+resources.zetaglobal.com
+ca.t.zetaglobal.com
+e.t.zetaglobal.com
+images.t.zetaglobal.com
+link.t.zetaglobal.com
+view.t.zetaglobal.com
+tools.zetaglobal.com
+tr.zetaglobal.com
+zip.zetaglobal.com
