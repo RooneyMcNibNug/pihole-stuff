@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 6 November 2019
+#Updated: 7 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -24813,3 +24813,48 @@ ydbqs.volumtrk.com
 www.ydbqs.volumtrk.com
 ydbsq.volumtrk.com
 www.ydbsq.volumtrk.com
+convertkit.com
+www.convertkit.com
+api.convertkit.com
+www.api.convertkit.com
+api-black.convertkit.com
+api-rails4.convertkit.com
+app.convertkit.com
+www.app.convertkit.com
+app-rails4.convertkit.com
+assets.convertkit.com
+black.convertkit.com
+cdn.convertkit.com
+ckjs-resolve.convertkit.com
+el2.convertkit.com
+engineering.convertkit.com
+f.convertkit.com
+forms.convertkit.com
+ck.h.convertkit.com
+link.h.convertkit.com
+help.convertkit.com
+kb.convertkit.com
+link.l.convertkit.com
+learn.convertkit.com
+m.convertkit.com
+o13.ck.m.convertkit.com
+o8.ck.m.convertkit.com
+link.m.convertkit.com
+ck.n.convertkit.com
+o10.ck.n.convertkit.com
+o15.ck.n.convertkit.com
+o16.ck.n.convertkit.com
+o17.ck.n.convertkit.com
+o18.ck.n.convertkit.com
+o19.ck.n.convertkit.com
+o20.ck.n.convertkit.com
+o22.ck.n.convertkit.com
+link.n.convertkit.com
+pages.convertkit.com
+mail1.static.convertkit.com
+mail3.static.convertkit.com
+mail5.static.convertkit.com
+mail6.static.convertkit.com
+status.convertkit.com
+link.test.convertkit.com
+web1.convertkit.com
