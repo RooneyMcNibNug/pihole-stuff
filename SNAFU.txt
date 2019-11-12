@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 7 November 2019
+#Updated: 12 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -24884,3 +24884,8 @@ rcm.bibblio.org
 resources.bibblio.org
 rms.bibblio.org
 www.rms.bibblio.org
+smetrics.statefarm.com
+track.cigna.com
+webstats.aei.aetna.com
+analytics.hioscar.com
+www.analytics.hioscar.com
