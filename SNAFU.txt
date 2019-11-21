@@ -25840,3 +25840,11 @@ static-assets.reachlocalservices.com
 cleanmediaads.com
 www.cleanmediaads.com
 bidder.cleanmediaads.com
+ads.axios.com
+s1-tracking.adalyser.com
+s2-tracking.adalyser.com
+tracking.adalyser.com
+ad-eu-west.ipredictive.com
+ad-us-east.ipredictive.com
+ad-us-west.ipredictive.com
+adtest2.ipredictive.com
