@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 20 November 2019
+#Updated: 21 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25811,3 +25811,32 @@ o.po.st
 optout.po.st
 re.po.st
 w.po.st
+targeting.washpost.nile.works
+targeting-userprofile-arc-wpost-prod.arc.nile.works
+pulse-feed-proxy.ext.nile.works
+incontext-analytics.perso.nile.works
+metrics.perso.nile.works
+insided.com
+www.insided.com
+analytics.insided.com
+www.analytics.insided.com
+usemessages.com
+api.usemessages.com
+js.usemessages.com
+mobileanalytics.web.ue1.app.chime.aws
+mobileanalytics.web.ue1.b.app.chime.aws
+mobileanalytics.web.ue1.a.app.chime.aws
+analytics.indeed.com
+analyticsperf-analytics.indeed.com
+ads.dyn.indeed.com
+tracktastic.webflow.com
+eads.financial.com
+eads-int.financial.com
+api.reachlocalservices.com
+capture-api.reachlocalservices.com
+capture-compatible.reachlocalservices.com
+capture-compatible.qa.reachlocalservices.com
+static-assets.reachlocalservices.com
+cleanmediaads.com
+www.cleanmediaads.com
+bidder.cleanmediaads.com
