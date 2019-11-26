@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 22 November 2019
+#Updated: 26 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25852,3 +25852,26 @@ events.cdnwidget.com
 ids.cdnwidget.com
 pix.cdnwidget.com
 pixel.cdnwidget.com
+geo.smartadserver.mgr.consensu.org
+geo-eqx.smartadserver.mgr.consensu.org
+geo-tmk.smartadserver.mgr.consensu.org
+traffective.mgr.consensu.org
+traffective.com
+www.traffective.com
+api.traffective.com
+autodiscover.traffective.com
+www.autodiscover.traffective.com
+cockpit.traffective.com
+gw.traffective.com
+www.gw.traffective.com
+tracking.traffective.com
+klaviyo.com
+www.klaviyo.com
+www.a.klaviyo.com
+fast.a.klaviyo.com
+partners.klaviyo.com
+push.klaviyo.com
+shortener.klaviyo.com
+static.klaviyo.com
+status.klaviyo.com
+telemetrics.klaviyo.com
