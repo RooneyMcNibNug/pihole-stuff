@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 26 November 2019
+#Updated: 30 November 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25875,3 +25875,28 @@ shortener.klaviyo.com
 static.klaviyo.com
 status.klaviyo.com
 telemetrics.klaviyo.com
+searchspring.com
+www.searchspring.com
+get.searchspring.com
+gl-76c386e5.searchspring.com
+sitesearch.searchspring.com
+status.searchspring.com
+searchspring.net
+www.searchspring.net
+api.searchspring.net
+api-beta.searchspring.net
+autocomplete2.searchspring.net
+cdn.searchspring.net
+a.cdn.searchspring.net
+b.cdn.searchspring.net
+go.searchspring.net
+hostedui.searchspring.net
+manage.searchspring.net
+manage-beta.searchspring.net
+search.searchspring.net
+chronext_com.stage.searchspring.net
+de_chronext_com.stage.searchspring.net
+medexsupply_com.stage.searchspring.net
+pennstateind_com.stage.searchspring.net
+suggest.searchspring.net
+tools.searchspring.net
