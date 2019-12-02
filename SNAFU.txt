@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 30 November 2019
+#Updated: 1 December 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25900,3 +25900,21 @@ medexsupply_com.stage.searchspring.net
 pennstateind_com.stage.searchspring.net
 suggest.searchspring.net
 tools.searchspring.net
+cogocast.net
+www.cogocast.net
+ads.cogocast.net
+ag.cogocast.net
+assets.cogocast.net
+flush.cogocast.net
+goog-px.cogocast.net
+gpush.cogocast.net
+gpx.cogocast.net
+lpush.cogocast.net
+lrpush.cogocast.net
+pearsonn rpush.cogocast.net
+push.cogocast.net
+goog.px.cogocast.net
+rpush.cogocast.net
+www.rpush.cogocast.net
+tag.cogocast.net
+urlrpush.cogocast.net
