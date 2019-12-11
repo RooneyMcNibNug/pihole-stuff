@@ -27255,3 +27255,7 @@ x4.vindicosuite.com
 xumo.vindicosuite.com
 xump.vindicosuite.com
 logs.kibocommerce.com
+track.lt
+realtime.bizzabo.com
+sales.bizzabo.com
+status.bizzabo.com
