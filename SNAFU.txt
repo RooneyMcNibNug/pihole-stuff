@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 11 December 2019
+#Updated: 16 December 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -27259,3 +27259,41 @@ track.lt
 realtime.bizzabo.com
 sales.bizzabo.com
 status.bizzabo.com
+analytics.ezoic.com
+mailmunch.com
+www.mailmunch.com
+api.mailmunch.com
+sales.mailmunch.com
+events.tealium.com
+status.tealium.com
+ad.dpclk.com
+imptracker-pixel.dpclk.com
+ios.dpclk.com
+js.dpclk.com
+js-v1.dpclk.com
+pixel.dpclk.com
+web-pixel.dpclk.com
+webpixel-useast-1.dpclk.com
+webpixel-useast-2.dpclk.com
+addisplay.mobsmith.com
+adez.mobsmith.com
+ads03.mobsmith.com
+glanceguide.com
+www.glanceguide.com
+acsam-script.iocnt.net
+adsat.iocnt.net
+at.iocnt.net
+at3.iocnt.net
+at4.iocnt.net
+config-at.iocnt.net
+cubex001.iocnt.net
+f2bbl.iocnt.net
+irg.iocnt.net
+irqs.iocnt.net
+optout-at.iocnt.net
+relay-client.iocnt.net
+script-at.iocnt.net
+stream.iocnt.net
+szmchecker.iocnt.net
+vhapgs002.iocnt.net
+a.exdynsrv.com
