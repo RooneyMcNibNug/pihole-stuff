@@ -27297,3 +27297,16 @@ stream.iocnt.net
 szmchecker.iocnt.net
 vhapgs002.iocnt.net
 a.exdynsrv.com
+www.viglink.com
+catalog.viglink.com
+cdn.viglink.com
+ec2.viglink.com
+mc.viglink.com
+www.mc.viglink.com
+merchants.viglink.com
+qa.viglink.com
+www.qa.viglink.com
+i.qa.viglink.com
+redirect.viglink.com
+rest.viglink.com
+sessions.viglink.com
