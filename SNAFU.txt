@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 19 December 2019
+#Updated: 28 December 2019
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -27946,3 +27946,48 @@ stress.gimbal.com
 api.stress.gimbal.com
 support.gimbal.com
 temp.gimbal.com
+www.callrail.com
+app.callrail.com
+www.app.callrail.com
+callnet.callrail.com
+www.callnet.callrail.com
+cdn.callrail.com
+www.cdn.callrail.com
+app.callrail.comapp.callrail.com
+cdn.callrail.comcdn.callrail.com
+dn.callrail.com
+eks.callrail.com
+go.callrail.com
+js.callrail.com
+www.js.callrail.com
+lamp-leads.callrail.com
+mail.callrail.com
+maxcdn.callrail.com
+graphs.ops.callrail.com
+www.graphs.ops.callrail.com
+rabbit.ops.callrail.com
+rabbitmq.ops.callrail.com
+ringo-bot.ops.callrail.com
+tools.ops.callrail.com
+outping--.callrail.com
+pipe.callrail.com
+plivoback.callrail.com
+poweredbysearch.callrail.com
+public-assets.callrail.com
+ring-astley.callrail.com
+www.ring-astley.callrail.com
+rowdy.callrail.com
+us-east-1.rowdy.callrail.com
+us-west-2.rowdy.callrail.com
+s.callrail.com
+slate-media.callrail.com
+staging.callrail.com
+status.callrail.com
+swappy.callrail.com
+www.swappy.callrail.com
+tawpy.callrail.com
+thumb-friendly.callrail.com
+view.callrail.com
+webmail.callrail.com
+www-static.callrail.com
+www.www-static.callrail.com
