@@ -27991,3 +27991,5 @@ view.callrail.com
 webmail.callrail.com
 www-static.callrail.com
 www.www-static.callrail.com
+win.staticstuff.net
+www.win.staticstuff.net
