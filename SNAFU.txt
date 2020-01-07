@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 28 December 2019
+#Updated: 7 January 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -27943,7 +27943,7 @@ proximity.stage.gimbal.com
 status.gimbal.com
 store.gimbal.com
 stress.gimbal.com
-api.stress.gimbal.com
+broadcast.amapi.stress.gimbal.com
 support.gimbal.com
 temp.gimbal.com
 www.callrail.com
@@ -27993,3 +27993,5 @@ www-static.callrail.com
 www.www-static.callrail.com
 win.staticstuff.net
 www.win.staticstuff.net
+broadcast.am
+www.broadcast.am
