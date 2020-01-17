@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 13 January 2020
+#Updated: 17 January 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -28859,3 +28859,51 @@ status.pepperjam.com
 m.addthisedge.com
 www.m.addthisedge.com
 v1.addthisedge.com
+tracking.purechat.com
+widget.purechat.com
+widgetapi.purechat.com
+evidon.com
+www.evidon.com
+ads.evidon.com
+amp.evidon.com
+c.evidon.com
+cdn.evidon.com
+cop.evidon.com
+em.evidon.com
+extension-cdn.evidon.com
+graphite.evidon.com
+iabmap.evidon.com
+info.evidon.com
+insights.evidon.com
+jenkins.evidon.com
+l3.evidon.com
+marketing.evidon.com
+mcm.evidon.com
+my.evidon.com
+my.evidon.com<BR>www.my.evidon.com
+owneriq.evidon.com
+privacy.evidon.com
+privacyapi.evidon.com
+publisher.evidon.com
+signon.evidon.com
+sso.evidon.com
+tagcontrol-cdn.evidon.com
+tagcontrolapi.evidon.com
+tagcontrolcollector.evidon.com
+trackermap.evidon.com
+loader.vertica.evidon.com
+across.it
+www.across.it
+affiliate.across.it
+click.across.it
+dem.across.it
+ftp.across.it
+across.it<BR>www.across.it
+lead.across.it
+www.lead.across.it
+mail.across.it
+network.across.it
+pacc.across.it
+plan.across.it
+track.across.it
+adzooma.go2cloud.org
