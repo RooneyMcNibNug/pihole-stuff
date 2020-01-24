@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 21 January 2020
+#Updated: 24 January 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -29012,3 +29012,27 @@ snapengage.com
 www.snapengage.com
 pt.snapengage.com
 status.snapengage.com
+trumpia.com
+www.trumpia.com
+api.trumpia.com
+dev.trumpia.com
+dev-admin2.trumpia.com
+dev2.trumpia.com
+dev3.trumpia.com
+dev4.trumpia.com
+devmail.trumpia.com
+rs.trumpia.com
+a.shortener.trumpia.com
+o.shortener.trumpia.com
+tracker.trumpia.com
+www.vemba.io
+vemba.io
+api.vemba.io
+i.vemba.io
+static.vemba.io
+syndicate.vemba.io
+videochecks.vemba.io
+analytics.uplynk.com
+monitoring.uplynk.com
+monitoring2.uplynk.com
+cookie.skill.api.cnn.io
