@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 24 January 2020
+#Updated: 27 January 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -29036,3 +29036,45 @@ analytics.uplynk.com
 monitoring.uplynk.com
 monitoring2.uplynk.com
 cookie.skill.api.cnn.io
+jumpshot.com
+www.jumpshot.com
+account.jumpshot.com
+account-nyc.jumpshot.com
+account-prg.jumpshot.com
+audiences.api.jumpshot.com
+assets.jumpshot.com
+backers.jumpshot.com
+blog.jumpshot.com
+brain.jumpshot.com
+jumpshot.com
+www.jumpshot.com
+da.jumpshot.com
+da2.jumpshot.com
+da3.jumpshot.com
+event-manager.jumpshot.com
+event-manager-stage.jumpshot.com
+experience.jumpshot.com
+experience.jumpshot.com
+www.experience.jumpshot.com
+fillmore.jumpshot.com
+go.jumpshot.com
+go2.jumpshot.com
+hayes.jumpshot.com
+hayes.jumpshot.com
+www.hayes.jumpshot.com
+insights.jumpshot.com
+insights-brq.jumpshot.com
+insights-nyc.jumpshot.com
+js-categoryvalidation.jumpshot.com
+modules.jumpshot.com
+modules.jumpshot.com
+www.modules.jumpshot.com
+polk.jumpshot.com
+www.polk.jumpshot.com
+portal.jumpshot.com
+snat-brq.jumpshot.com
+snat-prg.jumpshot.com
+talon.jumpshot.com
+talon.jumpshot.com
+www.talon.jumpshot.com
+urlanalyzer.jumpshot.com
