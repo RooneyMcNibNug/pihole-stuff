@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 27 January 2020
+#Updated: 10 February 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -29588,3 +29588,64 @@ ws.moengage.com
 wwwedurarcom.moengage.com
 xarabcam.moengage.com
 ytechweb.moengage.com
+bigbrain.me
+www.bigbrain.me
+data.bigbrain.me
+logs.bigbrain.me
+www.logs.bigbrain.me
+looker-proxy.bigbrain.me
+metabase.bigbrain.me
+monitoring.bigbrain.me
+track.bigbrain.me
+letconvert.com
+www.letconvert.com
+api.letconvert.com
+www.api.letconvert.com
+app.letconvert.com
+www.app.letconvert.com
+cdn.letconvert.com
+www.cdn.letconvert.com
+fapi.letconvert.com
+franchise.letconvert.com
+franchiseapp.letconvert.com
+socket.letconvert.com
+letimpact.com
+www.letimpact.com
+admin.letimpact.com
+api.letimpact.com
+www.api.letimpact.com
+app.letimpact.com
+www.app.letimpact.com
+cd.letimpact.com
+cdn.letimpact.com
+www.cdn.letimpact.com
+hamsterbox.letimpact.com
+help.letimpact.com
+itsallabouttime.letimpact.com
+pi.letimpact.com
+successmagazin.letimpact.com
+whitelabeldomain.letimpact.com
+www.letsetcom.io
+affiliatebuilder.letsetcom.io
+app.letsetcom.io
+www.app.letsetcom.io
+cdn.letsetcom.io
+www.cdn.letsetcom.io
+help.letsetcom.io
+letsetcom.letsetcom.io
+live.letsetcom.io
+letx.co
+www.letx.co
+archive.letx.co
+bonus.letx.co
+gamified.letx.co
+jvpartners.letx.co
+lcwlbl.letx.co
+live.letx.co
+lp.letx.co
+lps.letx.co
+test234.letx.co
+test235.letx.co
+test236.letx.co
+tools.letx.co
+trackingpk.letx.co
