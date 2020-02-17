@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 14 February 2020
+#Updated: 16 February 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -30287,3 +30287,4 @@ pubsub-977720860.pubnub.com
 pubsub-995558960.pubnub.com
 rapidzebra.io
 www.rapidzebra.io
+marvel.sc.omtrdc.net
