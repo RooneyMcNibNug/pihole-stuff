@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 19 February 2020
+#Updated: 20 February 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -30362,3 +30362,59 @@ info.on24.com
 info01.on24.com
 event.llnw.on24.com
 event.lvl3.on24.com
+1010data.com
+www.1010data.com
+airflow.1010data.com
+blog.1010data.com
+bn.1010data.com
+corp.1010data.com
+coty.1010data.com
+derivserv011.1010data.com
+derivserv012.1010data.com
+derivserv013.1010data.com
+dg.1010data.com
+dg-refactor.1010data.com
+dgcip.1010data.com
+dgvendor.1010data.com
+accounts.dscvr.1010data.com
+dtccderivserv.1010data.com
+ecom.1010data.com
+edge.1010data.com
+events.1010data.com
+familydollar.1010data.com
+fd.1010data.com
+fdtest.1010data.com
+ftp2.1010data.com
+info.1010data.com
+listvps.1010data.com
+marketing.1010data.com
+mysyscoreporting.1010data.com
+nj.1010data.com
+njsso.1010data.com
+oi.1010data.com
+partner.1010data.com
+pg.1010data.com
+rawww.1010data.com
+resources.1010data.com
+s25nj022.1010data.com
+s25va022.1010data.com
+s80nj050.1010data.com
+s80nj051.1010data.com
+s80va050.1010data.com
+savemart.1010data.com
+sc.1010data.com
+sprouts.1010data.com
+va.1010data.com
+varetail.1010data.com
+ww2.1010data.com
+www2.1010data.com
+www2-new.1010data.com
+www2-old.1010data.com
+secondmeasure.com
+www.secondmeasure.com
+app.secondmeasure.com
+pypi.in.secondmeasure.com
+insights.secondmeasure.com
+point72.com
+www.point72.com
+syslog.point72.com
