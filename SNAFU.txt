@@ -5292,7 +5292,6 @@ t3bcp-orig.marinsm.com
 tag.marinsm.com
 tags.marinsm.com
 track.marinsm.com
-track*.marinsm.com
 track-er.marinsm.com
 tracker.marinsm.com
 w-tracker.marinsm.com
@@ -28736,7 +28735,8 @@ cbre.turtl.co
 cisco.turtl.co
 citizenm.turtl.co
 cjc.turtl.co
-turtl.co<BR>www.turtl.co
+turtl.co
+www.turtl.co
 cognizant.turtl.co
 company-scripts.turtl.co
 csc.turtl.co
@@ -28860,7 +28860,8 @@ l3.evidon.com
 marketing.evidon.com
 mcm.evidon.com
 my.evidon.com
-my.evidon.com<BR>www.my.evidon.com
+my.evidon.com
+www.my.evidon.com
 owneriq.evidon.com
 privacy.evidon.com
 privacyapi.evidon.com
@@ -28878,7 +28879,8 @@ affiliate.across.it
 click.across.it
 dem.across.it
 ftp.across.it
-across.it<BR>www.across.it
+across.it
+www.across.it
 lead.across.it
 www.lead.across.it
 mail.across.it
@@ -29213,13 +29215,16 @@ impressions.fiksu.com
 event-tracker.k8s-prod.fiksu.com
 request-tracker.k8s-prod.fiksu.com
 auth.k8s-test.fiksu.com
-auth.k8s-test.fiksu.com<BR>www.auth.k8s-test.fiksu.com
+auth.k8s-test.fiksu.com
+www.auth.k8s-test.fiksu.com
 dex.k8s-test.fiksu.com
 www.dex.k8s-test.fiksu.com
-dex.k8s-test.fiksu.com<BR>www.dex.k8s-test.fiksu.com
+dex.k8s-test.fiksu.com
+www.dex.k8s-test.fiksu.com
 event-tracker.k8s-test.fiksu.com
 grafana.k8s-test.fiksu.com
-login.k8s-test.fiksu.com<BR>www.login.k8s-test.fiksu.com
+login.k8s-test.fiksu.com
+www.login.k8s-test.fiksu.com
 request-tracker.k8s-test.fiksu.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 event-tracker.production.fiksu.com
