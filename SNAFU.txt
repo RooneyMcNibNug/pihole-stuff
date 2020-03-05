@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 3 March 2020
+#Updated: 5 March 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -30840,3 +30840,9 @@ writer-br.smartlook.com
 writer-mobile.smartlook.com
 writer-sg.smartlook.com
 writer-us.smartlook.com
+rubicon-match.dotomi.com
+terminus.services
+engagement.terminus.services
+hub-analytics.terminus.services
+slerms.terminus.services
+vidassets.terminus.services
