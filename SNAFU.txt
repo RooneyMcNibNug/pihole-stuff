@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 10 March 2020
+#Updated: 16 March 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -31389,3 +31389,4 @@ zsmh.maillist-manage.com
 zulf.maillist-manage.com
 zvmr.maillist-manage.com
 zzc1.maillist-manage.com
+logging.getgo.com
