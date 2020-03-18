@@ -30846,7 +30846,6 @@ engagement.terminus.services
 hub-analytics.terminus.services
 slerms.terminus.services
 vidassets.terminus.services
-sockjs.pusher.com
 ad.formstack.com
 analytics.chargebee.com
 digitalfootprint.chargebee.com
