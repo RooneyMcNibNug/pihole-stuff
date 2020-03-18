@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 16 March 2020
+#Updated: 18 March 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -31390,3 +31390,38 @@ zulf.maillist-manage.com
 zvmr.maillist-manage.com
 zzc1.maillist-manage.com
 logging.getgo.com
+bronto.com
+www.bronto.com
+079.bronto.com
+085.bronto.com
+1.bronto.com
+200.bronto.com
+285app.bronto.com
+9.bronto.com
+apato.bronto.com
+api.bronto.com
+app.bronto.com
+js.bronto.com
+magento.bronto.com
+marketing.bronto.com
+mav.bronto.com
+maw.bronto.com
+max.bronto.com
+mfe.bronto.com
+mkto.bronto.com
+static.bronto.com
+status.bronto.com
+target.scene7.com
+emailaptitude.com
+www.emailaptitude.com
+analytics.emailaptitude.com
+api.emailaptitude.com
+tracker.emailaptitude.com
+www.tracker.emailaptitude.com
+tinuiti.com
+www.tinuiti.com
+analytics.tinuiti.com
+app.tinuiti.com
+events.tinuiti.com
+reporting.tinuiti.com
+www.reporting.tinuiti.com
