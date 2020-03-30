@@ -32909,3 +32909,5 @@ mm.insightrocket.com
 pnc.insightrocket.com
 prodhub.insightrocket.com
 www-qa.insightrocket.com
+knowi.com
+www.knowi.com
