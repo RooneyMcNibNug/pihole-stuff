@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 31 March 2020
+#Updated: 1 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -33017,3 +33017,6 @@ vtc.smartly.io
 pluralsight.demdex.net
 log.zoom.us
 logfiles.zoom.us
+attr.ml-api.io
+api-2-0.spot.im
+seo.spot.im
