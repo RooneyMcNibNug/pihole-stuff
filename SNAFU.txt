@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 7 April 2020
+#Updated: 10 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -34807,3 +34807,8 @@ analytics.percolata.com
 ci-api.percolata.com
 manager.percolata.com
 store.percolata.com
+limbik.com
+www.limbik.com
+api.limbik.com
+app.limbik.com
+developer.limbik.com
