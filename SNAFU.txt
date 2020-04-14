@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 13 April 2020
+#Updated: 14 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -34815,3 +34815,13 @@ developer.limbik.com
 d3mdrpbbs8qfxa.cloudfront.net
 semanticlocation-pa.googleapis.com
 edge.fullstory.com
+js.createsend1.com
+telephonyspamprotect-pa.googleapis.com
+portal.fb.com
+fbthirdpartypixel.com
+www.fbthirdpartypixel.com
+tr.iadsdk.apple.com
+securemetrics.apple.com
+stocks-analytics-events.apple.com
+supportmetrics.apple.com
+weather-analytics-events.apple.com
