@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 14 April 2020
+#Updated: 15 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -34805,3 +34805,5 @@ securemetrics.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
 weather-analytics-events.apple.com
+cloudservices.roku.com
+personalization.bloomberg.com
