@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 15 April 2020
+#Updated: 17 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -17557,7 +17557,6 @@ pktoy23437.i.lithium.com
 playstationna.i.lithium.com
 polycom.i.lithium.com
 poygw47873.i.lithium.com
-ppl.i.lithium.com
 pqycp74285.i.lithium.com
 psg.i.lithium.com
 pskyi73783.i.lithium.com
