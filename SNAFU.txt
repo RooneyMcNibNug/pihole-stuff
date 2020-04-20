@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 17 April 2020
+#Updated: 20 April 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -32508,7 +32508,7 @@ cloud.quirkos.com
 zoined.com
 www.zoined.com
 app.zoined.com
-upload.zoined.com<
+upload.zoined.com
 push.zoined.com
 rancher.zoined.com
 rancher.vpc.zoined.com
@@ -32617,7 +32617,8 @@ rubikloud.com
 www.rubikloud.com
 cdn.rubikloud.com
 clcm.rubikloud.com
-rubikloud.com<BR>www.rubikloud.com
+rubikloud.com
+www.rubikloud.com
 rxl-jhub.gc.rubikloud.com
 manifold.rubikloud.com
 mastermind.rubikloud.com
@@ -32800,10 +32801,10 @@ cdna.ciradar.com
 dns.ciradar.com
 files.ciradar.com
 my.ciradar.com
-my.ciradar.com<BR>www.my.ciradar.com
+my.ciradar.com
+www.my.ciradar.com
 news.ciradar.com
 offers.ciradar.com
-offers.ciradar.com<BR>www.offers.ciradar.com
 s.ciradar.com
 analyst.test.ciradar.com
 us.ciradar.com
@@ -32985,7 +32986,8 @@ smartly-ui.kube-prod1.smartly.io
 snapper.kube-prod1.smartly.io
 sparser.kube-prod1.smartly.io
 lb-b.smartly.io
-learn.smartly.io<BR>www.learn.smartly.io
+learn.smartly.io
+www.learn.smartly.io
 public.smartly.io
 stats-api.smartly.io
 support.smartly.io
@@ -33880,7 +33882,8 @@ bergdorfgoodman.narvar.com
 berries.narvar.com
 www.berries.narvar.com
 bestmadeco.narvar.com
-beta.narvar.com<BR>www.beta.narvar.com
+beta.narvar.com
+www.beta.narvar.com
 betasupport.narvar.com
 billabong.narvar.com
 blinds.narvar.com
@@ -34529,7 +34532,8 @@ clickitgrabit.storehippo.com
 clowocm.storehippo.com
 clowom.storehippo.com
 clufy2017.storehippo.com
-storehippo.com<BR>www.storehippo.com
+storehippo.com
+www.storehippo.com
 concept2.storehippo.com
 constructionbazaar.storehippo.com
 www.cottonculture.storehippo.com
