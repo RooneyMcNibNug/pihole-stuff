@@ -34799,7 +34799,6 @@ d3mdrpbbs8qfxa.cloudfront.net
 semanticlocation-pa.googleapis.com
 edge.fullstory.com
 js.createsend1.com
-telephonyspamprotect-pa.googleapis.com
 portal.fb.com
 fbthirdpartypixel.com
 www.fbthirdpartypixel.com
