@@ -35531,3 +35531,12 @@ cwpapp.pxoe.wip.247-inc.net
 integrate.pxoe.wip.247-inc.net
 united-app.pxoe.wip.247-inc.net
 t.posthog.com
+logs.getbeamer.com
+realtime.getbeamer.com
+www.bnc.lt
+custom.bnc.lt
+custom2.bnc.lt
+dev.bnc.lt
+qa.bnc.lt
+thirdparty.bnc.lt
+epsilon.thirdparty.bnc.lt
