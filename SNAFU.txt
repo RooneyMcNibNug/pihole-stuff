@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 30 April 2020
+#Updated: 1 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -35692,3 +35692,5 @@ www.coopelectricalshop.co.uk.ssopt.net
 www.gnc.co.uk.ssopt.net
 www.qjump.co.uk.ssopt.net
 www-dev.uat-thesun.co.uk.ssopt.net
+geo-ip.js
+www.geo-ip.js
