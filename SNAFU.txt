@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 6 May 2020
+#Updated: 12 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -35124,3 +35124,9 @@ salesuniversity.khoros.com
 status.khoros.com
 www.azurevpn.khoros.com
 www.content.khoros.com
+clicktrackingv2.userreport.com
+datageneral.userreport.com
+datasite.userreport.com
+feedback.userreport.com
+feedback-api.userreport.com
+logseg.userreport.com
