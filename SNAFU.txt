@@ -33832,7 +33832,7 @@ static.blueknow.com
 static-rmk.blueknow.com
 static-ssl.blueknow.com
 trac.blueknow.com
-track*.blueknow.com
+track.blueknow.com
 tracker.blueknow.com
 unknown.blueknow.com
 trackblueknow.com
@@ -34584,7 +34584,7 @@ recordings.platformcentral.cde-pub.sjc01.247-inc.net
 wcr-api-reporting.cde-pub.sjc01.247-inc.net
 nexus-cicd.sjc02.247-inc.net
 axp.static.247-inc.net
-prsnlrprt.app.247-inc.net<BR>prsnlrprt.app.stg.247-inc.net
+prsnlrprt.app.247-inc.net
 studio.247-inc.net
 car01.sv1.247-inc.net
 car01-pcore01.sv1.247-inc.net
@@ -35059,7 +35059,8 @@ m.thetrainline.com.ssopt.net
 sandbox-trainline-eu.ttlnonprod.com.ssopt.net
 st1-trainline-web.ttlnonprod.com.ssopt.net
 www.uhaul.com.ssopt.net
-usps.com.ssopt.net<BR>www.usps.com.ssopt.net
+usps.com.ssopt.net
+www.usps.com.ssopt.net
 www.valoans.com.ssopt.net
 www.vamortgagecenter.com.ssopt.net
 www.veteransunited.com.ssopt.net
