@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 17 May 2020
+#Updated: 18 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -119,6 +119,7 @@ hlsioscwtv.warnerbros.com
 v.jwpcdn.com
 v2.zopim.com
 us34.zopim.com
+widget-mediator.zopim.com
 r.fullstory.com
 rs.fullstory.com
 app.fullstory.com
@@ -35139,3 +35140,54 @@ beacon.flipboard.com
 ads.servenobid.com
 public.servenobid.com
 cc.adingo.jp
+ads.services.crisp.chat
+customfit.ai
+www.customfit.ai
+api.customfit.ai
+maven.customfit.ai
+sdk.customfit.ai
+tiny.customfit.ai
+factors.ai
+www.factors.ai
+api.factors.ai
+app.factors.ai
+localytics701e1fc.factors.ai
+localytics.factors.ai
+insights.wundermanthompsoncommerce.com
+fusepump.com
+www.fusepump.com
+alfresco.fusepump.com
+api.fusepump.com
+assets.fusepump.com
+brand-ecommerce.fusepump.com
+brand-ecommerce-api.fusepump.com
+brand-ecommerce-assets.fusepump.com
+brand-ecommerce-assets.fusepump.com
+www.brand-ecommerce-assets.fusepump.com
+brand-ecommerce-integration.fusepump.com
+digital-commerce-api-cdn.fusepump.com
+fb.fusepump.com
+fd1.fusepump.com
+fd3.fusepump.com
+fd4.fusepump.com
+fd5.fusepump.com
+fd6.fusepump.com
+nestle.fusepump.com
+re.fusepump.com
+re-api.fusepump.com
+re-api-cdn.fusepump.com
+re-api-cdn.fusepump.com
+www.re-api-cdn.fusepump.com
+re-api-images-cdn.fusepump.com
+re-api-ms-cdn.fusepump.com
+re-api-ms-cdn.fusepump.com
+www.re-api-ms-cdn.fusepump.com
+re-cdn.fusepump.com
+re-cdn.fusepump.com
+www.re-cdn.fusepump.com
+sky-assets.fusepump.com
+theoutnet-assets.fusepump.com
+tui-search.fusepump.com
+www-assets.fusepump.com
+www-assets.fusepump.com
+www.www-assets.fusepump.com
