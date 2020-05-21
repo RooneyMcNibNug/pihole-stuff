@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 19 May 2020
+#Updated: 21 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -35277,3 +35277,14 @@ prod.exceed.ai
 websocket.prod.exceed.ai
 websockets.prod.exceed.ai
 m.leads.test.exceed.ai
+miraget.com
+www.miraget.com
+cloud.miraget.com
+hanapi.miraget.com
+clickfirstmarketing.com
+www.clickfirstmarketing.com
+listings.clickfirstmarketing.com
+reports.clickfirstmarketing.com
+reputation.clickfirstmarketing.com
+sales.clickfirstmarketing.com
+social.clickfirstmarketing.com
