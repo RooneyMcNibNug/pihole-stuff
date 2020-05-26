@@ -34937,3 +34937,6 @@ adserver.v3.powerlinks.com
 dashboard.v3.powerlinks.com
 wip.powerlinks.com
 zabbix.powerlinks.com
+stats.addsearch.com
+r.mxptint.net
+aep.mxptint.net
