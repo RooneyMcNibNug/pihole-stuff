@@ -34185,7 +34185,6 @@ d3mdrpbbs8qfxa.cloudfront.net
 semanticlocation-pa.googleapis.com
 edge.fullstory.com
 js.createsend1.com
-portal.fb.com
 fbthirdpartypixel.com
 www.fbthirdpartypixel.com
 tr.iadsdk.apple.com
