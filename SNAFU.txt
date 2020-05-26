@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 24 May 2020
+#Updated: 26 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -12389,25 +12389,6 @@ vt118.crimsonhexagon.com
 vt14.crimsonhexagon.com
 vt204.crimsonhexagon.com
 vt42.crimsonhexagon.com
-datatables.net
-www.datatables.net
-api.datatables.net
-cdc.datatables.net
-cdn.datatables.net
-www.editod.datatables.net
-www.editoe.datatables.net
-www.editokr.datatables.net
-editor.datatables.net
-editor-test.datatables.net
-legacy.datatables.net
-live.datatables.net
-mail.datatables.net
-mobile.datatables.net
-next.datatables.net
-nightly.datatables.net
-qveu.datatables.net
-w.datatables.net
-ylhn.datatables.net
 staticstuff.net
 www.staticstuff.net
 cdn.staticstuff.net
