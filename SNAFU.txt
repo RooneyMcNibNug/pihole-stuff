@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 26 May 2020
+#Updated: 28 May 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -34940,3 +34940,29 @@ zabbix.powerlinks.com
 stats.addsearch.com
 r.mxptint.net
 aep.mxptint.net
+simpleanalytics.com
+www.simpleanalytics.com
+assets.simpleanalytics.com
+blog.simpleanalytics.com
+cdn.simpleanalytics.com
+external.simpleanalytics.com
+monitor.simpleanalytics.com
+notify.simpleanalytics.com
+sa.simpleanalytics.com
+status.simpleanalytics.com
+simpleanalyticscdn.com
+www.simpleanalyticscdn.com
+online.simpleanalyticscdn.com
+queue.simpleanalyticscdn.com
+scripts.simpleanalyticscdn.com
+simpleanalytics.io
+www.simpleanalytics.io
+acceptance.simpleanalytics.io
+api.simpleanalytics.io
+cdn.simpleanalytics.io
+external.simpleanalytics.io
+metabase.simpleanalytics.io
+monitor.simpleanalytics.io
+notify.simpleanalytics.io
+queue.simpleanalytics.io
+monit.queue.simpleanalytics.io
