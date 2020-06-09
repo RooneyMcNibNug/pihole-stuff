@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 6 June 2020
+#Updated: 9 June 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -36133,3 +36133,71 @@ yougovplc.mktoweb.com
 zoetis1.mktoweb.com
 zywave1.mktoweb.com
 zywaveinc.mktoweb.com
+salesloft.com
+www.salesloft.com
+api.salesloft.com
+app.salesloft.com
+cdn-sdr.salesloft.com
+custom-tracking.salesloft.com
+dev.salesloft.com
+developer.salesloft.com
+developers.salesloft.com
+engineering.salesloft.com
+events.salesloft.com
+leadpass.salesloft.com
+learn.salesloft.com
+www.learn.salesloft.com
+lifei.salesloft.com
+my.salesloft.com
+notifications.salesloft.com
+npms.salesloft.com
+partners.salesloft.com
+www.partners.salesloft.com
+portal.salesloft.com
+prospector-cdn.salesloft.com
+pypi.salesloft.com
+rainmaker.salesloft.com
+recordings.salesloft.com
+rev2020.salesloft.com
+river.salesloft.com
+scout.salesloft.com
+scout-cdn.salesloft.com
+sdr.salesloft.com
+o1.delivery.sdr.salesloft.com
+sendrequests.salesloft.com
+signatures.salesloft.com
+staging.salesloft.com
+status.salesloft.com
+stream.salesloft.com
+sudonikon.salesloft.com
+systems.salesloft.com
+university.salesloft.com
+notifications.us1.salesloft.com
+dwight.us1.salesloft.com
+melody.us1.salesloft.com
+salesloft-pusher.us1.salesloft.com
+scout.us1.salesloft.com
+tracer-bullet.us1.salesloft.com
+dialer-backend.us2.salesloft.com
+dwight.us2.salesloft.com
+melody.us2.salesloft.com
+notifications.us2.salesloft.com
+salesloft-pusher.us2.salesloft.com
+scout.us2.salesloft.com
+tracer-bullet.us2.salesloft.com
+vip.salesloft.com
+watch.salesloft.com
+watch.salesloft.com<BR>www.watch.salesloft.com
+web.salesloft.com
+webinars.salesloft.com
+webinars.salesloft.com<BR>www.webinars.salesloft.com
+www2.salesloft.com
+www3.salesloft.com
+secondspace.com
+www.secondspace.com
+cdn.secondspace.com
+content.secondspace.com
+images.secondspace.com
+sd.secondspace.com
+ss1.secondspace.com
+www.ss1.secondspace.com
