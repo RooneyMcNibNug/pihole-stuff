@@ -20921,6 +20921,8 @@ whatsapp.sprinklr.com
 whatsapp-api.sprinklr.com
 www.whatsapp-api.sprinklr.com
 zillowapps.sprinklr.com
+braze.com
+www.braze.com
 click.updates.braze.com
 andromeda.iad-01.braze.com
 ibilisk.iad-01.braze.com
