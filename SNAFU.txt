@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 18 June 2020
+#Updated: 19 June 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -37354,3 +37354,27 @@ wwwsit63.informatica.com
 www.wwwt.informatica.com
 zimba.informatica.com
 widget.intercom.io
+www.shortpixel.ai
+cdn.shortpixel.ai
+cdn-sp.shortpixel.ai
+cdn.shortpixel.ai
+cdn-sp.shortpixel.ai
+lb.shortpixel.ai
+modula.shortpixel.ai
+no-cdn.shortpixel.ai
+invitebox.com
+www.invitebox.com
+new.invitebox.com
+static3.invitebox.com
+new.invitebox.com
+www.new.invitebox.com
+q1.invitebox.com
+stage1.invitebox.com
+static2.invitebox.com
+static3.invitebox.com
+static4.invitebox.com
+w1.invitebox.com
+w2.invitebox.com
+logicanalytics.io
+www.logicanalytics.io
+log.logicanalytics.io
