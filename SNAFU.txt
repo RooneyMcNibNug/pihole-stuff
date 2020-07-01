@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 24 June 2020
+#Updated: 1 July 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -37377,3 +37377,37 @@ w2.invitebox.com
 logicanalytics.io
 www.logicanalytics.io
 log.logicanalytics.io
+manychat.com
+www.manychat.com
+2fcourse.manychat.com
+a.manychat.com
+ads.manychat.com
+agency.manychat.com
+api.manychat.com
+app.manychat.com
+apps.manychat.com
+apps.manychat.com
+www.apps.manychat.com
+wh.manychat.com
+widget.manychat.com
+contest.manychat.com
+contributor.manychat.com
+dashboard.manychat.com
+dev.manychat.com
+dpa.manychat.com
+facebookads.manychat.com
+feedback.manychat.com
+flowbuilder.manychat.com
+flywheel.manychat.com
+https.manychat.com
+instapage.manychat.com
+notify.manychat.com
+notify.manychat.com
+www.notify.manychat.com
+notify2.manychat.com
+server.manychat.com
+status.manychat.com
+www.wh.manychat.com
+widget.www.manychat.com
+mccdn.me
+www.mccdn.me
