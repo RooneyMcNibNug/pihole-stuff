@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 4 July 2020
+#Updated: 9 July 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -37663,3 +37663,14 @@ www.teamwork.smartbugmedia.com
 template.smartbugmedia.com
 www.template.smartbugmedia.com
 templates.smartbugmedia.com
+tracker.helpshift.com
+status.helpshift.com
+track.g2crowd.com
+tracking.g2crowd.com
+users.g2crowd.com
+metrics.g2crowd.com
+js.g2crowd.com
+learn.g2crowd.com
+s.udkcrj.com
+vprza.com
+minkatu.com
