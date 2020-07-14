@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 9 July 2020
+#Updated: 14 July 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -37674,3 +37674,31 @@ learn.g2crowd.com
 s.udkcrj.com
 vprza.com
 minkatu.com
+bowtiebi.com
+www.bowtiebi.com
+childcare.bowtiebi.com
+pingpost.com
+www.pingpost.com
+buyer.pingpost.com
+mail.pingpost.com
+ecoverage.pingpost.com
+signup.pingpost.com
+w4.pingpost.com
+leadin.com
+www.leadin.com
+api.leadin.com
+appjs.leadin.com
+download.leadin.com
+email.leadin.com
+o1.email.leadin.com
+embed.leadin.com
+js.leadin.com
+www.js.leadin.com
+embed.js.leadin.com
+submissions.leadin.com
+support.leadin.com
+track.leadin.com
+randy-phishingbotnet-maugans-bulletproof-ipv6-cloud-cc-servers.myhost.xyz.itshidden.com.mypage.xyz.leadin.com
+socleversocial.com
+www.socleversocial.com
+s3.socleversocial.com
