@@ -38276,3 +38276,4 @@ cdn.simpo.io
 simpo.com
 www.simpo.com
 app.simpo.com
+tracking.hawksearch.com
