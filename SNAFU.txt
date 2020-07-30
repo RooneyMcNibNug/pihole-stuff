@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 23 July 2020
+#Updated: 30 July 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38277,3 +38277,5 @@ simpo.com
 www.simpo.com
 app.simpo.com
 tracking.hawksearch.com
+collector.lightstep.com
+checkip.justwatch.com
