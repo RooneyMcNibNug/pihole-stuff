@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 30 July 2020
+#Updated: 31 July 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -37352,7 +37352,6 @@ wwwnew.informatica.com
 wwwsit63.informatica.com
 www.wwwt.informatica.com
 zimba.informatica.com
-widget.intercom.io
 www.shortpixel.ai
 cdn.shortpixel.ai
 cdn-sp.shortpixel.ai
