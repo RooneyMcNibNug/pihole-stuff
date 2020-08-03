@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 31 July 2020
+#Updated: 3 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38324,3 +38324,16 @@ po3.edge2.iad1.prod.conviva.com
 po4.edge2.iad1.prod.conviva.com
 10.monitor1.iad1.prod.conviva.com
 g.conviva.com
+applog.musical.ly
+rtlog.musical.ly
+ichannel.musical.ly
+log.tiktokv.com
+log-va.tiktokv.com
+log16-normal-c-useast1a.tiktokv.com
+log16-normal-c-useast2a.tiktokv.com
+rtlog.isnssdk.com
+log.isnssdk.com
+ichannel.isnssdk.com
+log.sgnssdk.com
+rtlog.sgnssdk.com
+log15.byteoversea.com
