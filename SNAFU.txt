@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 10 August 2020
+#Updated: 11 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -7268,8 +7268,6 @@ cdn.ravenjs.com
 3ablog.intercom.io
 a5.intercom.io
 www.a5.intercom.io
-api.intercom.io
-api-iam.intercom.io
 api-ping.intercom.io
 app.intercom.io
 auth0.intercom.io
