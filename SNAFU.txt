@@ -38359,3 +38359,4 @@ surveynet.work.com
 recordtvnet.work.com
 www.ipstack.com
 status.ipstack.com
+assets.ipstack.com
