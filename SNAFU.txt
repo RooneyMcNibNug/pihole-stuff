@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 13 August 2020
+#Updated: 17 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -34679,8 +34679,6 @@ www.usps.com.ssopt.net
 www.valoans.com.ssopt.net
 www.vamortgagecenter.com.ssopt.net
 www.veteransunited.com.ssopt.net
-www.webroot.com.ssopt.net
-cartapi.webroot.com.ssopt.net
 www.wunderground.com.ssopt.net
 clone.youngliving.com.ssopt.net
 www.snhu.edu.ssopt.net
