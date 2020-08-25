@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 18 August 2020
+#Updated: 25 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38376,3 +38376,22 @@ status.streak.com
 updates.streak.com
 www.blockchaintop.nl
 blockchaintop.nl
+mintegral.com
+www.mintegral.com
+adn-static.mintegral.com
+adv.mintegral.com
+adv-new.mintegral.com
+adv-pre.mintegral.com
+dev.mintegral.com
+fmp.mintegral.com
+interactive.mintegral.com
+mail.mintegral.com
+markfunplay.mintegral.com
+playable-portal.mintegral.com
+playable-portal-assets.mintegral.com
+playable-portal-assets-test.mintegral.com
+playable-stats.mintegral.com
+ss-api.mintegral.com
+ss-static.mintegral.com
+static.mintegral.com
+webinars.mintegral.com
