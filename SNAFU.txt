@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 26 August 2020
+#Updated: 28 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38494,3 +38494,35 @@ aeroleads.com
 www.aeroleads.com
 data.aeroleads.com
 www.data.aeroleads.com
+api.sociabble.com
+app.sociabble.com
+www.app.sociabble.com
+apps.sociabble.com
+aps.sociabble.com
+assets-www.sociabble.com
+assets1.sociabble.com
+assets2.sociabble.com
+cdn.sociabble.com
+cdn-public.sociabble.com
+em.sociabble.com
+emailprojet.sociabble.com
+emb.sociabble.com
+hub.sociabble.com
+project.sociabble.com
+projet.sociabble.com
+projet-assets2.sociabble.com
+projet-assets3.sociabble.com
+projet-cdn.sociabble.com
+projet-cdn-public.sociabble.com
+projet-documents.sociabble.com
+projet-medias.sociabble.com
+public.sociabble.com
+push.sociabble.com
+pushcore.sociabble.com
+salesforce.sociabble.com
+search.sociabble.com
+o1.sender.sociabble.com
+success.sociabble.com
+supervisor.sociabble.com
+webapi.sociabble.com
+webapi2.sociabble.com
