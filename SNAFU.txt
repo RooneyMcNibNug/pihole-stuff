@@ -3123,7 +3123,6 @@ pgbadger.maxmind.com
 prometheus.maxmind.com
 sensu.maxmind.com
 smetrics.marriott.com
-.yieldoptimizer.com
 qaext-tag.yieldoptimizer.com
 er.pippio.com
 rd.pippio.com
@@ -4587,7 +4586,6 @@ vcap.uk.markmonitor.com
 webmail.markmonitor.com
 sf.webmail.markmonitor.com
 faws.ws.markmonitor.com
-.nemosys.ws.markmonitor.com
 eproof.com
 www.eproof.com
 cdn.eproof.com
@@ -4604,7 +4602,6 @@ console.pagefair.com
 analytics-stats.pri.pagefair.com
 neostats.pri.pagefair.com
 stats.pagefair.com
-.pagefair.net
 adfeed.pagefair.net
 asset.pagefair.net
 stats.pagefair.net
@@ -6169,7 +6166,6 @@ mb-usa-lba-1.exe.bid
 mb-usa-lba-2.exe.bid
 mb-usa-transport-1.exe.bid
 media.exe.bid
-profile- eu.exe.bid
 profile-eu.exe.bid
 resources.exe.bid
 snyc-eu.exe.bid
@@ -11471,7 +11467,6 @@ hh-qa2-prospect.la.razorfish.com
 hawk.api.qa.la.razorfish.com
 nsx.qa.la.razorfish.com
 qa2.la.razorfish.com
-.qa2.la.razorfish.com
 lego.razorfish.com
 lft.razorfish.com
 liminal.razorfish.com
@@ -12391,7 +12386,7 @@ vt42.crimsonhexagon.com
 staticstuff.net
 www.staticstuff.net
 cdn.staticstuff.net
-http win.staticstuff.net
+win.staticstuff.net
 in.staticstuff.net
 www.mywebstats.inwin.staticstuff.net
 spy.staticstuff.net
@@ -14002,7 +13997,6 @@ hpqh8.voluumtrk3.com
 ieah8.voluumtrk3.com
 ioxea.voluumtrk3.com
 ipb0c.voluumtrk3.com
-ipb0c .voluumtrk3.com
 iy3me.voluumtrk3.com
 j6hek.voluumtrk3.com
 jh4ne.voluumtrk3.com
@@ -17311,7 +17305,7 @@ us.ipinfo.io
 w.ipinfo.io
 ispot.tv
 www.ispot.tv
-wood. www.ispot.tv
+wood.www.ispot.tv
 admin-analytics.ispot.tv
 analytics.ispot.tv
 www.analytics.ispot.tv
@@ -25913,7 +25907,7 @@ gpush.cogocast.net
 gpx.cogocast.net
 lpush.cogocast.net
 lrpush.cogocast.net
-pearsonn rpush.cogocast.net
+pearsonn.rpush.cogocast.net
 push.cogocast.net
 goog.px.cogocast.net
 rpush.cogocast.net
@@ -26465,7 +26459,6 @@ set.email-reflex.com
 tnm.email-reflex.com
 trk.email-reflex.com
 www.vindicosuite.com
--x3.vindicosuite.com
 1.vindicosuite.com
 2fcdn.vindicosuite.com
 378739826r3D213091526si3Dx.vindicosuite.com
@@ -30508,7 +30501,6 @@ lutd.maillist-manage.com
 lvhb.maillist-manage.com
 lxzc.maillist-manage.com
 lytk.maillist-manage.com
-m e.maillist-manage.com
 mbof.maillist-manage.com
 mceu.maillist-manage.com
 me.maillist-manage.com
