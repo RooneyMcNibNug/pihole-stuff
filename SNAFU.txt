@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 28 August 2020
+#Updated: 31 August 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38526,3 +38526,8 @@ success.sociabble.com
 supervisor.sociabble.com
 webapi.sociabble.com
 webapi2.sociabble.com
+ip.zarget.com
+screencapture.zarget.com
+stream.zarget.com
+sr.zarget.com
+tp.zarget.com
