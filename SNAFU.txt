@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 31 August 2020
+#Updated: 2 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -35217,13 +35217,6 @@ status.coveo.com
 status-hipaa.cloud.coveo.com
 monitoringdev.cloud.coveo.com
 npra-usageanalytics.cloud.coveo.com
-platform.cloud.coveo.com
-platform0.cloud.coveo.com
-platform1.cloud.coveo.com
-platformdev.cloud.coveo.com
-platformhipaa.cloud.coveo.com
-platformqa.cloud.coveo.com
-proxy-k8s-prd.cloud.coveo.com
 push.cloud.coveo.com
 search.cloud.coveo.com
 static.cloud.coveo.com
