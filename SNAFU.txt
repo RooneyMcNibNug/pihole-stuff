@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 2 September 2020
+#Updated: 10 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38516,3 +38516,11 @@ screencapture.zarget.com
 stream.zarget.com
 sr.zarget.com
 tp.zarget.com
+2key.network
+www.2key.network
+api.2key.network
+app.2key.network
+intl.2key.network
+test.plasma.2key.network
+poc.2key.network
+tr.lfeeder.com
