@@ -38523,3 +38523,9 @@ intl.2key.network
 test.plasma.2key.network
 poc.2key.network
 tr.lfeeder.com
+tracking.6connex.com
+ads-latest.pinterest.com
+analytics-canary.pinterest.com
+analytics-latest.pinterest.com
+analytics-staging.pinterest.com
+trk2.pinterest.com
