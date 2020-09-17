@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 10 September 2020
+#Updated: 17 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -7558,7 +7558,6 @@ qma0svun-android-1-1-0.mobile-sdk-api.intercom.io
 qma0svun-android-1-2-0.mobile-sdk-api.intercom.io
 qmo4f3sd-android.mobile-sdk-api.intercom.io
 qpx9zjp0-ios.mobile-sdk-api.intercom.io
-qs976j62-android.mobile-sdk-api.intercom.io
 qtui8nh3-android.mobile-sdk-api.intercom.io
 qwum5ehb-android.mobile-sdk-api.intercom.io
 r3o4iqwo-android.mobile-sdk-api.intercom.io
