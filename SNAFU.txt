@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 17 September 2020
+#Updated: 21 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38529,3 +38529,5 @@ analytics-canary.pinterest.com
 analytics-latest.pinterest.com
 analytics-staging.pinterest.com
 trk2.pinterest.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com 
