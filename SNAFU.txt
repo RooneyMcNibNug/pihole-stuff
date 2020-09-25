@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 21 September 2020
+#Updated: 25 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38546,3 +38546,8 @@ support.cognitiveseo.com
 tools.cognitiveseo.com
 tools-lang.cognitiveseo.com
 webfx.cognitiveseo.com
+b.megaphone.fm
+traffic.megaphone.fm
+www.traffic.megaphone.fm
+traffic2.megaphone.fm
+u002ftraffic.megaphone.fm
