@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 25 September 2020
+#Updated: 29 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38551,3 +38551,4 @@ traffic.megaphone.fm
 www.traffic.megaphone.fm
 traffic2.megaphone.fm
 u002ftraffic.megaphone.fm
+gs-loc.apple.com
