@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 29 September 2020
+#Updated: 30 September 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38552,3 +38552,28 @@ www.traffic.megaphone.fm
 traffic2.megaphone.fm
 u002ftraffic.megaphone.fm
 gs-loc.apple.com
+thesovrn.com
+www.thesovrn.com
+bbf.thesovrn.com
+liv.thesovrn.com
+test.thesovrn.com
+www.dataxu.com
+advertisers.dataxu.com
+analytics.dataxu.com
+api.dataxu.com
+bi.dataxu.com
+bi.dataxu.com
+www.bi.dataxu.com
+bidev.dataxu.com
+bitest.dataxu.com
+events.dataxu.com
+portal.dataxu.com
+portal2.dataxu.com
+resources.dataxu.com
+status.dataxu.com
+target-dev.dataxu.com
+view.dataxu.com
+callback.towerdata.com
+intelligence.towerdata.com
+dashboard.towerdata.com
+instantdata.towerdata.com
