@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 30 September 2020
+#Updated: 1 October 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38577,3 +38577,19 @@ callback.towerdata.com
 intelligence.towerdata.com
 dashboard.towerdata.com
 instantdata.towerdata.com
+awesome.snapengage.com
+crwowfbm.snapengage.com
+de.snapengage.com
+developer.snapengage.com
+en.snapengage.com
+es.snapengage.com
+eu.snapengage.com
+info.snapengage.com
+new.snapengage.com
+pt.snapengage.com
+sales.snapengage.com
+secure.snapengage.com
+sos.snapengage.com
+status.snapengage.com
+www2.snapengage.com
+www2-heyotis.snapengage.com
