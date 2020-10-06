@@ -5,7 +5,7 @@
 #License: WTFPL (http://www.wtfpl.net/about/)
 #Home: https://github.com/RooneyMcNibNug/pihole-stuff
 #@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 1 October 2020
+#Updated: 6 October 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38593,3 +38593,29 @@ sos.snapengage.com
 status.snapengage.com
 www2.snapengage.com
 www2-heyotis.snapengage.com
+aptrinsic.com
+www.aptrinsic.com
+app.aptrinsic.com
+app-dev.aptrinsic.com
+esp.aptrinsic.com
+esp-mobile.aptrinsic.com
+esp-proxy.aptrinsic.com
+go.aptrinsic.com
+info.aptrinsic.com
+info.aptrinsic.com
+www.info.aptrinsic.com
+o1.mailer.aptrinsic.com
+notify.aptrinsic.com
+status.aptrinsic.com
+www.status.aptrinsic.com
+web-sdk.aptrinsic.com
+api.raygun.io
+app.raygun.io
+app-bundles.raygun.io
+beta.raygun.io
+collector.raygun.io
+try.raygun.io
+use.raygun.io
+www.use.raygun.io
+vpn.raygun.io
+webapi.raygun.io
