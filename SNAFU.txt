@@ -38621,3 +38621,4 @@ vpn.raygun.io
 webapi.raygun.io
 recirculation.spot.im
 a1956.b.akamai.net
+launcher.spot.im
