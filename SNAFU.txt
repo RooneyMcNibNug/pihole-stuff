@@ -1,11 +1,11 @@
 ### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
 ### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
-#Author: RooneyMcNibNug
-#License: WTFPL (http://www.wtfpl.net/about/)
-#Home: https://github.com/RooneyMcNibNug/pihole-stuff
-#@ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-#Updated: 19 October 2020
+# Author: RooneyMcNibNug
+# License: WTFPL (http://www.wtfpl.net/about/)
+# Home: https://github.com/RooneyMcNibNug/pihole-stuff
+# @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+# Updated: 19 October 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -7775,14 +7775,6 @@ nexus-long-poller-a.intercom.io
 nexus-long-poller-b.intercom.io
 nexus-router-b-3.intercom.io
 nexus-router-b-7.intercom.io
-nexus-test-websocket-a.intercom.io
-nexus-test-websocket-b.intercom.io
-nexus-testing.intercom.io
-nexus-websocket-a.intercom.io
-nexus-websocket-b.intercom.io
-www.nexus-websocket-b.intercom.io
-www.nexus-websoocket-b.intercom.io
-www.nexuswebsocketb.intercom.io
 overflow-mobile-sdk-api.intercom.io
 www.sc.intercom.io
 permissions.security.intercom.io
