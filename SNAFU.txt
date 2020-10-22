@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 October 2020
+# Updated: 22 October 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39241,3 +39241,17 @@ www.vigs.sellpoints.com
 vino.sellpoints.com
 www.vino.sellpoints.com
 reports.sdiapi.com
+assets.springserve.com
+bidder.springserve.com
+control.springserve.com
+www.control.springserve.com
+dat.springserve.com
+datplus.springserve.com
+dco.springserve.com
+dmp.springserve.com
+edat.springserve.com
+hb.springserve.com
+hb-io.springserve.com
+stage.tracker.springserve.com
+www.stage.tracker.springserve.com
+turbine.springserve.com
