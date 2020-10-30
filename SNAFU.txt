@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 22 October 2020
+# Updated: 30 October 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39255,3 +39255,15 @@ hb-io.springserve.com
 stage.tracker.springserve.com
 www.stage.tracker.springserve.com
 turbine.springserve.com
+track.loox.io
+mailtrack.loox.io
+trueleadid.com
+www.trueleadid.com
+deviceid-qa.trueleadid.com
+qa-deviceid.trueleadid.com
+deviceid-staging.trueleadid.com
+staging-deviceid.trueleadid.com
+deviceid.trueleadid.com
+deviceid-qa.trueleadid.com
+deviceid-staging.trueleadid.com
+insight.exelator.com
