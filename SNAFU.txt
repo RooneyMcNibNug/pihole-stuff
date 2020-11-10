@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 30 October 2020
+# Updated: 10 November 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39267,3 +39267,8 @@ deviceid.trueleadid.com
 deviceid-qa.trueleadid.com
 deviceid-staging.trueleadid.com
 insight.exelator.com
+adstream.csod.com
+cdn-cloudfront.petametrics.com
+cdn-fallback.petametrics.com
+cdn-maxcdn.petametrics.com
+deltaflow.petametrics.com
