@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 12 November 2020
+# Updated: 16 November 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39283,3 +39283,67 @@ wix-engage-visitors-prod-10.firebaseio.com
 wix-engage-visitors-prod-20.firebaseio.com
 wix-engage-visitors-prod-30.firebaseio.com
 wuhancoronavirustracker-693c1.firebaseio.com
+xmode.io
+www.xmode.io
+atlas.xmode.io
+api.atlas.xmode.io
+atlas-dev.xmode.io
+api.atlas-dev.xmode.io
+beta.xmode.io
+drunkmode.xmode.io
+go.xmode.io
+api.xcalibur.xmode.io
+xcalibur.xmode.io
+privacypolicy.xmode.io
+redash.xmode.io
+walkagainst.xmode.io
+xcalibur.xmode.io
+api.xcalibur.xmode.io
+xcalibur-dev.xmode.io
+api.xcalibur-dev.xmode.io
+locatorx.com
+www.locatorx.com
+api.locatorx.com
+api-dev.locatorx.com
+api-staging.locatorx.com
+atlas.locatorx.com
+atlas-admin-staging.locatorx.com
+atlas-staging.locatorx.com
+connectx.locatorx.com
+connectx-staging.locatorx.com
+device-gen.locatorx.com
+device-gen-staging.locatorx.com
+lxconnect.locatorx.com
+lxconnect-staging.locatorx.com
+lxproductscan.locatorx.com
+lxproductscan-staging.locatorx.com
+lxconnect-dev.locatorx.com
+lxproductscan-dev.locatorx.com
+qr-dev.locatorx.com
+qr.locatorx.com
+qr-staging.locatorx.com
+connectx.locatorx.com
+content.locatorx.com
+content-dev.locatorx.com
+content-staging.locatorx.com
+demoapi.locatorx.com
+democp.locatorx.com
+developers.locatorx.com
+device-gen.locatorx.com
+lb01.locatorx.com
+lonestar.locatorx.com
+lx01.locatorx.com
+lxconnect.locatorx.com
+lxconnect-staging.locatorx.com
+lxproductscan.locatorx.com
+magicleap.locatorx.com
+qr-dev.locatorx.com
+qr-staging.locatorx.com
+rahway.locatorx.com
+rsd.locatorx.com
+schoolhouse.locatorx.com
+schoolhousebrewing.locatorx.com
+shbconnect.locatorx.com
+tsg.locatorx.com
+wiki.locatorx.com
+zenith.locatorx.com
