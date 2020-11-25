@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 24 November 2020
+# Updated: 25 November 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39468,3 +39468,5 @@ ws.trackdrive.net
 zen-media-group-llc.trackdrive.net
 analytics.looker.aircall.io
 data.looker.aircall.io
+www.adjust.world
+app.adjust.world
