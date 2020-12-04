@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 2 December 2020
+# Updated: 4 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39492,3 +39492,46 @@ sr.freshmarketer.com
 src.freshmarketer.com
 tp.freshmarketer.com
 x4pmzlxcbc5ik1bk1nxxjlf.freshmarketer.com
+complementics.com
+www.complementics.com
+dev.complementics.com
+livestream-ui.complementics.com
+sdk-as.complementics.com
+static.complementics.com
+predic.io
+www.predic.io
+admin.predic.io
+apps.predic.io
+apps-monetization.predic.io
+cf0001.predic.io
+covid19.predic.io
+dev.predic.io
+footfall.predic.io
+gdpr-consent.predic.io
+ld0001.predic.io
+location-data.predic.io
+locationdata.predic.io
+marketing.predic.io
+ns1.predic.io
+partners.predic.io
+partners.predic.io<BR>www.partners.predic.io
+sdk.predic.io
+tr0005.predic.io
+trkr.predic.io
+07.trkr.predic.io
+09.trkr.predic.io
+12.trkr.predic.io
+13.trkr.predic.io
+19.trkr.predic.io
+35.trkr.predic.io
+3d.trkr.predic.io
+41.trkr.predic.io
+42.trkr.predic.io
+47.trkr.predic.io
+52.trkr.predic.io
+5b.trkr.predic.io
+68.trkr.predic.io
+76.trkr.predic.io
+7e.trkr.predic.io
+7f.trkr.predic.io
+91.trkr.predic.io
