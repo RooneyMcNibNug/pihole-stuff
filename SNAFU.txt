@@ -39514,7 +39514,7 @@ locationdata.predic.io
 marketing.predic.io
 ns1.predic.io
 partners.predic.io
-partners.predic.io<BR>www.partners.predic.io
+www.partners.predic.io
 sdk.predic.io
 tr0005.predic.io
 trkr.predic.io
