@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 4 December 2020
+# Updated: 10 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25166,7 +25166,6 @@ clients.powerislegame.fivetier.com
 www.clients.powerislegame.fivetier.com
 gtm.intercomassets.com
 marketing.intercomassets.com
-static.intercomassets.com
 bitrix24.com
 www.bitrix24.com
 002.bitrix24.com
