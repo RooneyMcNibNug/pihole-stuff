@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 10 December 2020
+# Updated: 11 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39534,3 +39534,33 @@ trkr.predic.io
 7e.trkr.predic.io
 7f.trkr.predic.io
 91.trkr.predic.io
+ref.freeview.ngtv.io
+geo.ngtv.io
+api.geo.ngtv.io
+cf.geo.ngtv.io
+dev.geo.ngtv.io
+east.geo.ngtv.io
+east.ref.geo.ngtv.io
+west.ref.geo.ngtv.io
+us.geo.ngtv.io
+west.geo.ngtv.io
+consumer.iris.ngtv.io
+logz.ngtv.io
+old.logz.ngtv.io
+api.ite.medium.ngtv.io
+east.ite.medium.ngtv.io
+west.ite.medium.ngtv.io
+ref.medium.ngtv.io
+monitor.ngtv.io
+ref.monitor.ngtv.io
+refmonitor.ngtv.io
+relay.ngtv.io
+spotlight.ngtv.io
+identity.api.wmcdp.io
+telemetry.api.wmcdp.io
+dev.telemetry.api.wmcdp.io
+prism.wmcdp.io
+developer.prism.wmcdp.io
+logs.prism.wmcdp.io
+ref.prism.wmcdp.io
+logs.psm.wmcdp.io
