@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 15 December 2020
+# Updated: 22 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39566,3 +39566,5 @@ ref.prism.wmcdp.io
 logs.psm.wmcdp.io
 tp88trk.com
 www.tp88trk.com
+concertads-configs.vox-cdn.com
+analytics.bigcommerce.com
