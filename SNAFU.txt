@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 22 December 2020
+# Updated: 28 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -9156,6 +9156,8 @@ zuz5.app.link
 growth.branch.io
 api.branch.io
 api2.branch.io
+discovery.branch.io
+discoverydev.branch.io
 stats.addtoany.com
 analytics.appdynamics.com
 aperture.appdynamics.com
@@ -39568,3 +39570,47 @@ tp88trk.com
 www.tp88trk.com
 concertads-configs.vox-cdn.com
 analytics.bigcommerce.com
+us.data.mobile.pendo.io
+us.data2.mobile.pendo.io
+us.data3.mobile.pendo.io
+us.device.mobile.pendo.io
+us.device2.mobile.pendo.io
+us.device3.mobile.pendo.io
+46995575-app.customer.pendo.io
+46995575-cdn.customer.pendo.io
+47240300-app.customer.pendo.io
+4732344147116032-cdn.customer.pendo.io
+4735403313856512-content.customer.pendo.io
+4760555981635584-content.customer.pendo.io
+5086206243897344-data.customer.pendo.io
+5117989927256064-content.customer.pendo.io
+5119881445900288-content.customer.pendo.io
+5123866625310720-content.customer.pendo.io
+5197064479440896-content.customer.pendo.io
+5197064479440896-data.customer.pendo.io
+5300167311360000-data.customer.pendo.io
+5352587489443840-content.customer.pendo.io
+5352587489443840-data.customer.pendo.io
+5360367844982784-content.customer.pendo.io
+5641055834865664-content.customer.pendo.io
+5641055834865664-data.customer.pendo.io
+5655788932300800-content.customer.pendo.io
+5655788932300800-data.customer.pendo.io
+5672838038683648-content.customer.pendo.io
+5672838038683648-data.customer.pendo.io
+5675314051809280-content.customer.pendo.io
+5679753004056576-cdn.customer.pendo.io
+5679753004056576-data.customer.pendo.io
+5681781017804800-content.customer.pendo.io
+5695343700344832-content.customer.pendo.io
+5701433293012992-content.customer.pendo.io
+5732632855576576-content.customer.pendo.io
+5732632855576576-data.customer.pendo.io
+5896416007815168-content.customer.pendo.io
+5896416007815168-data.customer.pendo.io
+59317690-app.customer.pendo.io
+6161933145473024-content.customer.pendo.io
+65411061-app.customer.pendo.io
+65411061-cdn.customer.pendo.io
+6565766710689792-app.customer.pendo.io
+us1.cdn.pendo.io
