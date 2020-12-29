@@ -1,0 +1,59 @@
+### This is a list of blocklists I have configured in many environments. I have compiled them from 
+### the different envs as to have a comprehensive list to add to your pi-hole adlist config.
+
+### Lists sorted into categories by "##" comments.
+### "#" comments serve as details worth noting for each list.
+
+### BEGIN LISTS ###
+
+## General Privacy/Ad-blocking/Anti-Tracking
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+http://sysctl.org/cameleon/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://hosts-file.net/ad_servers.txt
+https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Airelle-trc.txt #This list seems to be completely abandoned by its owner.
+https://www.squidblacklist.org/downloads/dg-ads.acl
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://v.firebog.net/hosts/Airelle-hrsk.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://adaway.org/hosts.txt
+https://hostsfile.org/Downloads/hosts.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+https://hphosts.gt500.org/hosts.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+## Anti-Malware/Anti-Phishing/Other Security
+https://mirror1.malwaredomains.com/files/justdomains
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://www.dshield.org/feeds/suspiciousdomains_High.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://hosts-file.net/psh.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+
+## Mobile-based lists
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://tgc.cloud/downloads/iOSAds.txt
+
+## "Smart"-TV lists
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+https://v.firebog.net/hosts/static/SamsungSmart.txt
+
+## Anti-Bitcoin Harvesting
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
