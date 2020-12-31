@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 29 December 2020
+# Updated: 31 December 2020
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39858,3 +39858,6 @@ oldsite.sellforte.com
 sitenew.sellforte.com
 stockmann.sellforte.com
 wp.sellforte.com
+www.bidphysics.com
+exchange.bidphysics.com
+x.bidphysics.com
