@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 31 December 2020
+# Updated: 8 January 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -33206,11 +33206,6 @@ www.peadler.com
 ws.peadler.com
 analytics.narvar.com
 instagram-endpoint.narvar.com
-tracking.narvar.com
-www.tracking.narvar.com
-tracking-assets-prod01.narvar.com
-www.tracking-assets-prod01.narvar.com
-trackingimg.narvar.com
 api.inmarket.com
 cdn-engagement.inmarket.com
 cdn-m2m-api.inmarket.com
