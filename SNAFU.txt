@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 27 January 2021
+# Updated: 29 January 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39862,3 +39862,15 @@ x.bidphysics.com
 view.adjust.net.in
 metrics.pscp.tv
 stats-monitoring.newrow.com
+stats.idomoo.com
+stats-au.idomoo.com
+stats-bt-eu.idomoo.com
+stats-eu.idomoo.com
+stats-eur.idomoo.com
+stats-us.idomoo.com
+stats-usa.idomoo.com
+ads.idomoo.com
+www.ads.idomoo.com
+analytics.idomoo.com
+analytics-bt.idomoo.com
+status.asknice.ly
