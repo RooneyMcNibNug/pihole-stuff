@@ -39884,3 +39884,15 @@ cdn.lr-ingest.io
 cdn-staging.lr-ingest.io
 r.lr-ingest.io
 staging-i.lr-ingest.io
+www.getjaco.com
+getjaco.com
+assets.getjaco.com
+blog.getjaco.com
+bo.getjaco.com
+bo-staging.getjaco.com
+kb.getjaco.com
+rapi.getjaco.com
+rapi-staging.getjaco.com
+recorder-assets.getjaco.com
+recorder-assets-staging.getjaco.com
+service-throttling.getjaco.com
