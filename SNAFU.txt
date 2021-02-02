@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 31 January 2021
+# Updated: 2 February 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39880,3 +39880,7 @@ d.ring.3u.com
 a1.s.3u.com
 app.pcres.3u.com
 pcres2.3u.com
+cdn.lr-ingest.io
+cdn-staging.lr-ingest.io
+r.lr-ingest.io
+staging-i.lr-ingest.io
