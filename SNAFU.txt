@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 4 February 2021
+# Updated: 5 February 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -40150,3 +40150,6 @@ brsm.io
 www.brsm.io
 amp.brsm.io
 dev.brsm.io
+sidekickopen90.com
+t.sidekickopen90.com
+t.sidekickopen.com
