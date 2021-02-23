@@ -40195,7 +40195,7 @@ sw.editor.dev.weblib.com
 sw.editor.staging.weblib.com
 sw.editor.weblib.com
 api.gateway.weblib.com
-api.gateway.staging.weblib.com<BR>api.gateway.weblib.com
+api.gateway.staging.weblib.com
 auth.service.prod.weblib.com
 brand.service.prod.weblib.com
 cash.register.order.service.prod.weblib.com
