@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 23 February 2021
+# Updated: 1 March 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -40261,3 +40261,11 @@ reporting.shelfbucks.com
 retailanalytics.shelfbucks.com
 storeops.shelfbucks.com
 tableau.shelfbucks.com
+claspws.tv
+www.claspws.tv
+content.claspws.tv
+metrics.claspws.tv
+reachability.claspws.tv
+sdk.claspws.tv
+static.claspws.tv
+tools.claspws.tv
