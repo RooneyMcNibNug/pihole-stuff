@@ -40269,3 +40269,4 @@ reachability.claspws.tv
 sdk.claspws.tv
 static.claspws.tv
 tools.claspws.tv
+sa.api.intl.miui.com
