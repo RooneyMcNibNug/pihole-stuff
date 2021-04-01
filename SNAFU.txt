@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 25 March 2021
+# Updated: 1 April 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41163,3 +41163,9 @@ zitylab.carto.com
 zuluchri.carto.com
 metrics.articulate.com
 risk.clearbit.com
+stats.streamtheworld.com
+statsservices.streamtheworld.com
+www.statsservices.streamtheworld.com
+pi.profitwell.com
+retain.profitwell.com
+retain-api.profitwell.com
