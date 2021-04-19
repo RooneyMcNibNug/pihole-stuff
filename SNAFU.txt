@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 April 2021
+# Updated: 19 April 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41172,3 +41172,27 @@ retain-api.profitwell.com
 netflixwatch.site
 analytics.pluralsight.com
 track.pluralsight.com
+e.dealertrack.com
+ebusiness.dealertrack.com
+click.e.dealertrack.com
+identity.marketplace.dealertrack.com
+analytics.stackla.com
+trackstackla.com
+trackla.qa.stackla.com
+justuno.com
+www.justuno.com
+2analytics.justuno.com
+2my.justuno.com
+alpha.justuno.com
+analytics.justuno.com
+analytics-api.justuno.com
+app.justuno.com
+app.justuno.com<BR>www.app.justuno.com
+assets.justuno.com
+p.justuno.com
+quarantine.justuno.com
+recommend.justuno.com
+scripttags.justuno.com
+scrpittags.justuno.com
+social.justuno.com
+status.justuno.com
