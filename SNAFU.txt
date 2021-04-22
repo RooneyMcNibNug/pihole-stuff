@@ -88,11 +88,11 @@ az749841.vo.msecnd.net
 az616578.vo.msecnd.net
 az29176.vo.msecnd.net
 az452423.vo.msecnd.net
-az781957.vo.msecnd.net	
+az781957.vo.msecnd.net
 az601263.vo.msecnd.net
 az745681.vo.msecnd.net
-az685612.vo.msecnd.net 
-az804378.vo.msecnd.net	
+az685612.vo.msecnd.net
+az804378.vo.msecnd.net
 az310865.vo.msecnd.net
 az745087.vo.msecnd.net
 az274650.vo.msecnd.net
@@ -728,7 +728,7 @@ geocode.usefomo.com
 fomo.com
 pop.fomo.com
 profiles.segment.com
-foxpass.corp.segment.com 
+foxpass.corp.segment.com
 ibm-analytics-ghqv9xfler.xid.segment.com
 involves-marketing-tfgfuoag31.xid.segment.com
 atlassian-ihu9wbfxmn.xid.segment.com
@@ -12549,7 +12549,7 @@ www.dtscout.com
 e.dtscout.com
 t.dtscout.com
 inextaction.net
-userlike-cdn-widgets.s3-eu-west-1.amazonaws.com 
+userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 o333o.com
 www.o333o.com
 a.o333o.com
@@ -37227,7 +37227,7 @@ www.secure3.informatica.com
 autodiscover.service.informatica.com
 sftp.informatica.com
 springbok.informatica.com
-springbok.informatica.com 
+springbok.informatica.com
 www.springbok.informatica.com
 sso.informatica.com
 ssoprod2.informatica.com
@@ -41187,7 +41187,7 @@ alpha.justuno.com
 analytics.justuno.com
 analytics-api.justuno.com
 app.justuno.com
-app.justuno.com<BR>www.app.justuno.com
+www.app.justuno.com
 assets.justuno.com
 p.justuno.com
 quarantine.justuno.com
