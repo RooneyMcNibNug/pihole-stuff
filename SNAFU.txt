@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 25 April 2021
+# Updated: 29 April 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41202,3 +41202,8 @@ sonar.boldapps.net
 upsells.boldapps.net
 praxis.fra-01.braze.eu
 tags.nationwide.com
+metrics.aort.theplatform.com
+metrics.ava.theplatform.com
+metrics.aor.theplatform.com
+metrics.aws.theplatform.com
+metrics-ingest.aws.theplatform.com
