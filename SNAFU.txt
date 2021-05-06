@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 29 April 2021
+# Updated: 6 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38427,9 +38427,6 @@ mobile.heatclix.net
 rank.heatclix.net
 sitecheck.heatclix.net
 wp.heatclix.net
-meeting.mouseflow.com
-meetings.mouseflow.com
-7wkfd.5087120t.mouseflow.com
 heatmap.tatvic.com
 hm.tatvic.com
 reco.jagran.tatvic.com
@@ -41207,3 +41204,67 @@ metrics.ava.theplatform.com
 metrics.aor.theplatform.com
 metrics.aws.theplatform.com
 metrics-ingest.aws.theplatform.com
+survicate.com
+www.survicate.com
+api.survicate.com
+app.survicate.com
+cdn01.survicate.com
+cdn02.survicate.com
+status.survicate.com
+track.survicate.com
+web.survicate.com
+tracker.veeam.com
+mouseflow.com
+www.mouseflow.com
+7wkfd.5087120t.mouseflow.com
+a.mouseflow.com
+account.a.mouseflow.com
+a2.mouseflow.com
+account.mouseflow.com
+api.mouseflow.com
+api-docs.mouseflow.com
+api-eu.mouseflow.com
+api-us.mouseflow.com
+app.mouseflow.com
+b.mouseflow.com
+b2.mouseflow.com
+c.mouseflow.com
+c2.mouseflow.com
+cdf.mouseflow.com
+cdn.mouseflow.com
+cdn-eu.mouseflow.com
+cdn-origin.mouseflow.com
+cdn-test.mouseflow.com
+cdn-test-origin.mouseflow.com
+cdn-us.mouseflow.com
+cdn2.mouseflow.com
+cdn3.mouseflow.com
+o1.send.mouseflow.com.mouseflow.com
+mouseflow.com<BR>www.mouseflow.com
+d.mouseflow.com
+e.mouseflow.com
+account.e.mouseflow.com
+e2.mouseflow.com
+eu.mouseflow.com
+f2.mouseflow.com
+g2.mouseflow.com
+go.mouseflow.com
+account.h.mouseflow.com
+h2.mouseflow.com
+help.mouseflow.com
+hubspot-integration.mouseflow.com
+i2.mouseflow.com
+j2.mouseflow.com
+js-api-docs.mouseflow.com
+mail.mouseflow.com
+marketing.mouseflow.com
+media.mouseflow.com
+meeting.mouseflow.com
+meetings.mouseflow.com
+n2.mouseflow.com
+account.o.mouseflow.com
+o2.mouseflow.com
+sales.mouseflow.com
+support.mouseflow.com
+tools.mouseflow.com
+us.mouseflow.com
