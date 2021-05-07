@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 May 2021
+# Updated: 7 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41267,3 +41267,10 @@ sales.mouseflow.com
 support.mouseflow.com
 tools.mouseflow.com
 us.mouseflow.com
+marketingdata.klick.com
+www.marketingdata.klick.com
+socialtool.klick.com
+bdp.katalystadvantage.com
+bdp-consumer.katalystadvantage.com
+bdp-hcp.katalystadvantage.com
+marketing.nextit.com
