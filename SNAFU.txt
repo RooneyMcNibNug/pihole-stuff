@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 May 2021
+# Updated: 13 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41274,3 +41274,73 @@ bdp.katalystadvantage.com
 bdp-consumer.katalystadvantage.com
 bdp-hcp.katalystadvantage.com
 marketing.nextit.com
+qvc.uikc.net
+qvc.scene7.com
+statistics-cdn.aldi-international.com
+liquidus.net
+www.liquidus.net
+api.liquidus.net
+b.liquidus.net
+bannerlink.liquidus.net
+bannerlinkdemos.liquidus.net
+bdev.liquidus.net
+bl.liquidus.net
+bl5.liquidus.net
+bl6.liquidus.net
+casestudy.liquidus.net
+cdn.liquidus.net
+dazzler.liquidus.net
+ddd.liquidus.net
+dom.liquidus.net
+fb.liquidus.net
+font.liquidus.net
+fontl.liquidus.net
+galactus.liquidus.net
+graphql-cdn-slplatform.liquidus.net
+graphql-slplatform.liquidus.net
+ibv.liquidus.net
+ibvl.liquidus.net
+images.liquidus.net
+io.liquidus.net
+legacy.liquidus.net
+link.liquidus.net
+logs.liquidus.net
+lqs-micollab.liquidus.net
+marketing.liquidus.net
+media.liquidus.net
+mp2.liquidus.net
+mp3.liquidus.net
+ms.liquidus.net
+napi.liquidus.net
+nova.liquidus.net
+platform.liquidus.net
+preview.liquidus.net
+previews.liquidus.net
+pxl.liquidus.net
+redfive.liquidus.net
+redthree.liquidus.net
+redtwo.liquidus.net
+roguesix.liquidus.net
+rt.liquidus.net
+siren.liquidus.net
+siren2.liquidus.net
+uturn.liquidus.net
+v.liquidus.net
+vl.liquidus.net
+vl5.liquidus.net
+vl5dmicname.liquidus.net
+vl5l.liquidus.net
+vpaid.liquidus.net
+www2.liquidus.net
+fusion92.com
+www.fusion92.com
+ioapi.fusion92.com
+iodev.fusion92.com
+ioportal.fusion92.com
+email.fusion92.com
+go.fusion92.com
+iostaging.fusion92.com
+www.iostaging.fusion92.com
+marketing.fusion92.com
+resource-portal.fusion92.com
+secure.fusion92.com
