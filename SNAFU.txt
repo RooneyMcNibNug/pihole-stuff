@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 May 2021
+# Updated: 20 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -28923,6 +28923,7 @@ wwwedurarcom.moengage.com
 xarabcam.moengage.com
 ytechweb.moengage.com
 bigbrain.me
+a.bigbrain.me
 www.bigbrain.me
 data.bigbrain.me
 logs.bigbrain.me
@@ -41345,3 +41346,10 @@ marketing.fusion92.com
 resource-portal.fusion92.com
 secure.fusion92.com
 admanager.concert.io
+analytics.anvato.net
+analytics.adst.anvato.net
+analytics-1.fs.anvato.net
+anv-ibrokers.cdn.anvato.net
+usage.apis.anvato.net
+ingest.apis.anvato.net
+rt.analytics.anvato.net
