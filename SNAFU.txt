@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 20 May 2021
+# Updated: 26 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41353,3 +41353,14 @@ anv-ibrokers.cdn.anvato.net
 usage.apis.anvato.net
 ingest.apis.anvato.net
 rt.analytics.anvato.net
+msd.cloudflareinsights.com
+trac.issuu.com
+tracker.issuu.com
+trail.issuu.com
+trending.issuu.com
+trending-1.issuu.com
+tag.issuu.com
+userstat.issuu.com
+slurp.issuu.com
+pixeltrack.issuu.com
+geoip.issuu.com
