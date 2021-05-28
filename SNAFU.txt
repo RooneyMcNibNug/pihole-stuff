@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 May 2021
+# Updated: 28 May 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41365,3 +41365,33 @@ slurp.issuu.com
 pixeltrack.issuu.com
 geoip.issuu.com
 main-newxz-orluttbx33b1bcng-gtw.qovery.io
+tags.catapultx.com
+analyze.catapultx.com
+imhd.io
+astrolabe-api.imhd.io
+cdn.imhd.io
+fulcrum-antenna.imhd.io
+keelson.imhd.io
+origin-getafix.imhd.io
+shelter.imhd.io
+adds.geoedge.be
+adm.geoedge.be
+magiclinks.trackonomics.net
+www.trackonomics.net
+brandcycle.trackonomics.net
+cdn-magiclinks.trackonomics.net
+fr-actions.trackonomics.net
+magiclinks.trackonomics.net
+reebokstore.trackonomics.net
+site.trackonomics.net
+tm.trackonomics.net
+uberconnect.trackonomics.net
+inspector.pico.tools
+triggertrap.reamaze.com
+interests.reamaze.com
+aly.jst.ai
+integ.jst.ai
+my.jst.ai
+p.jst.ai
+push.jst.ai
+push-assets.jst.ai
