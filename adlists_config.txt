@@ -30,6 +30,8 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/host
 https://hphosts.gt500.org/hosts.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
 
 ## Anti-Malware/Anti-Phishing/Other Security
 https://mirror1.malwaredomains.com/files/justdomains
