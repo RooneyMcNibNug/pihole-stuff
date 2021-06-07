@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 June 2021
+# Updated: 7 June 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41401,3 +41401,7 @@ monitor.cloud.ob1.io
 visit.ob1.io
 loyyal.com
 www.loyyal.com
+analytics.usefathom.com
+statamic.usefathom.com
+i.usefathom.com
+stats.usefathom.com
