@@ -15,3 +15,5 @@ A compilation of lists I use within different environments, sorted by "type".
 
 ### Python Scripts
 A few poorly cobbled together `.py` scripts to find possible URLs to add to the blocklist.
+
+<a href="https://www.buymeacoffee.com/rooneymcnibnug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="38" width="132"></a>
