@@ -5,6 +5,8 @@ An ever-evolving blocklist of ads, analytics, tracker, and other domains. Artisi
 
 Add the following link to your pi-hole adlists management config or other blocklist setup: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 
+If you run into a problem loading critical elements of a page due to a domain being included within this blocklist, please [submit an issue](https://github.com/RooneyMcNibNug/pihole-stuff/issues) and I will tend to it as soon as possible. 
+
 #### [Latest "Marketing Technology Landscape" Mosaic](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/martech5000k2020Apr.jpg)
 One of the more painful illustrations conveying just how massive the user-targeting industry has become. At least it helps with discovering new domains to enumerate for the blocklist.
 
