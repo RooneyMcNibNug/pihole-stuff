@@ -13,5 +13,5 @@ One of the more painful illustrations conveying just how massive the user-target
 ### [Adlists I use](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/adlists_config.txt)
 A compilation of lists I use within different environments, sorted by "type".
 
-#### Python Scripts
+### Python Scripts
 A few poorly cobbled together `.py` scripts to find possible URLs to add to the blocklist.
