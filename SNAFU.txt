@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 June 2021
+# Updated: 23 June 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41602,3 +41602,5 @@ targurl2.clewm.net
 tcv.clewm.net
 tcv-nc.clewm.net
 tcv2-nc.clewm.net
+0redirc.com
+analytics.spatie.be
