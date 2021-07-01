@@ -46,6 +46,10 @@ https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://hosts-file.net/psh.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 
 ## Mobile-based lists
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
