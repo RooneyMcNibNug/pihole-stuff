@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 1 July 2021
+# Updated: 7 July 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41656,3 +41656,46 @@ users.keen.io
 ikwyd.com
 rb.gy/e7sycu
 hovrecording.com
+events-aws-prod-elb.split.io
+sales.split.io
+sdk-aws-staging.split.io
+sdk-secure.split.io
+www.enecto.com
+barbamamma.enecto.com
+pf3.enecto.com
+trk.enecto.com
+trk4.enecto.com
+credithistory.dnb.com
+miniinvestigations.dnb.com
+tradexchange.dnb.com
+leadliaison.com
+www.leadliaison.com
+app.leadliaison.com
+bounces.leadliaison.com
+cdn.leadliaison.com
+llanalytics.com
+t1.llanalytics.com
+www.llanalytics.com
+leadworx.com
+emailfinder.leadworx.com
+leadberry.com
+www.leadberry.com
+affiliates.leadberry.com
+app.leadberry.com
+rollworks.com
+www.rollworks.com
+campaigns.rollworks.com
+info.rollworks.com
+letschat.rollworks.com
+page.rollworks.com
+pages.rollworks.com
+smart.rollworks.com
+leadsift.com
+www.leadsift.com
+search.aws.leadsift.com
+click.leadsift.com
+leadsift.com<BR>www.leadsift.com
+fingerprint.leadsift.com
+pages.leadsift.com
+search.leadsift.com
+wp.leadsift.com
