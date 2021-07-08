@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 July 2021
+# Updated: 8 July 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41699,3 +41699,71 @@ fingerprint.leadsift.com
 pages.leadsift.com
 search.leadsift.com
 wp.leadsift.com
+tray.io
+www.tray.io
+admin.tray.io
+api.tray.io
+app.tray.io
+build.tray.io
+cdn.tray.io
+changes.tray.io
+drops.tray.io
+embedded.tray.io
+enterpriseenrollment.tray.io
+enterpriseregistration.tray.io
+inhouse.tray.io
+www.inhouse.tray.io
+logs.tray.io
+mgmt.tray.io
+ops.tray.io
+rs.tray.io
+sales.tray.io
+specialops.tray.io
+stable.tray.io
+static.tray.io
+status.tray.io
+webhooks.tray.io
+captello.com
+www.captello.com
+app.captello.com
+box.captello.com
+capture.captello.com
+icapture.com
+www.icapture.com
+admin.icapture.com
+appapi.icapture.com
+e.icapture.com
+events.icapture.com
+ideas.icapture.com
+sls.icapture.com
+zuant.com
+www.zuant.com
+cloud.zuant.com
+flux.zuant.com
+magazine.zuant.com
+mesh.zuant.com
+api.mesh.zuant.com
+portal.zuant.com
+totalexpert.com
+www.totalexpert.com
+era.totalexpert.com
+ideas.totalexpert.com
+info.totalexpert.com
+status.totalexpert.com
+aidentified.com
+www.aidentified.com
+api.aidentified.com
+app.aidentified.com
+beta.aidentified.com
+blueridge.aidentified.com
+provisors.aidentified.com
+xant.aidentified.com
+envestnet.aidentified.com
+chime.aidentified.com
+discovery.aidentified.com
+ml.aidentified.com
+moxiworks.aidentified.com
+pavilion-resources.aidentified.com
+provisors-resources.aidentified.com
+rc-resources.aidentified.com
+resources.aidentified.com
