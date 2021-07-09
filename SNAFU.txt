@@ -41620,7 +41620,6 @@ v2.api.fpjs.io
 cdn.fpjs.io
 dashboard.fpjs.io
 dev.fpjs.io
-fpjs.io<BR>
 j.fpjs.io
 a1.j.fpjs.io
 a1.j.fpjs.io
@@ -41694,7 +41693,6 @@ leadsift.com
 www.leadsift.com
 search.aws.leadsift.com
 click.leadsift.com
-leadsift.com<BR>www.leadsift.com
 fingerprint.leadsift.com
 pages.leadsift.com
 search.leadsift.com
