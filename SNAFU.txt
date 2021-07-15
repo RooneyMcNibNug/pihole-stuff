@@ -43527,3 +43527,10 @@ datamarket.bigdbm.com
 authenticationapi.dev.bigdbm.com
 gate.bigdbm.com
 mvideo.bigdbm.com
+crowdtangle.com
+www.crowdtangle.com
+api.crowdtangle.com
+apps.crowdtangle.com
+cdn.crowdtangle.com
+status.crowdtangle.com
+updater.crowdtangle.com
