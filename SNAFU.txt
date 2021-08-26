@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 20 August 2021
+# Updated: 26 August 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -46323,3 +46323,13 @@ xinfo158a-xsrvjp.influitive.com
 zapproved.influitive.com
 zeroturnaround.influitive.com
 zerto.influitive.com
+momentive.ai
+getmomentive.ai
+gomomentive.ai
+investor.momentive.ai
+lp.momentive.ai
+solutions.momentive.ai
+trk.ipaddress.com
+feeds.cnevids.com
+marketing.cnevids.com
+stats.cnevids.com
