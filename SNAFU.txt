@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 September 2021
+# Updated: 5 October 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -46764,3 +46764,23 @@ www2.nanorep.com
 lstats.hire.lever.co
 status.lever.co
 tracking.lever.co
+www.cludo.com
+api.cludo.com
+api-eu1.cludo.com
+api-us1.cludo.com
+ci.cludo.com
+connect.cludo.com
+customer.cludo.com
+customer1.cludo.com
+docs.cludo.com
+engagement.cludo.com
+enterpriseenrollment.cludo.com
+my.cludo.com
+my-workplace.cludo.com
+rch.cludo.com
+sip.cludo.com
+stat.cludo.com
+static.cludo.com
+static-my.cludo.com
+status.cludo.com
+testcdn1.cludo.com
