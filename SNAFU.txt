@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 October 2021
+# Updated: 8 October 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -46784,3 +46784,11 @@ static.cludo.com
 static-my.cludo.com
 status.cludo.com
 testcdn1.cludo.com
+www.freshrelevance.com
+am.freshrelevance.com
+api.freshrelevance.com
+app.freshrelevance.com
+assets.freshrelevance.com
+drive.freshrelevance.com
+kpi.freshrelevance.com
+static.freshrelevance.com
