@@ -18,7 +18,7 @@
 # Author: RooneyMcNibNug
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
-# @ GitHub : 
+# @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/TheMillionDollarBlocklist.txt
 # Updated: 27 October 2021
 #
 #BEGIN BLOCKLIST#
