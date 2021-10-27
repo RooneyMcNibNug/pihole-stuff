@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.tx
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
 https://block.energized.pro/spark/formats/domains.txt
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt
 
 ## Anti-Malware/Anti-Phishing/Other Security
 https://mirror1.malwaredomains.com/files/justdomains
