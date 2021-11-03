@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 October 2021
+# Updated: 3 November 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47220,3 +47220,11 @@ tracking.huq.io
 ultra.huq.io
 go2affise.com
 trafficshark.go2affise.com
+endorsal.io
+www.endorsal.io
+api.endorsal.io
+app.endorsal.io
+cdn.endorsal.io
+data.endorsal.io
+developers.endorsal.io
+forms.endorsal.io
