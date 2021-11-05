@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 November 2021
+# Updated: 5 November 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47228,3 +47228,21 @@ cdn.endorsal.io
 data.endorsal.io
 developers.endorsal.io
 forms.endorsal.io
+www.trackcmp.net
+www.trackjs.com
+api.trackjs.com
+dev.trackjs.com
+dev-forwarder.trackjs.com
+dev-usage.trackjs.com
+forwarder.trackjs.com
+mg.trackjs.com
+telemetry.acronis.com
+metrics.corp.acronis.com
+tr.ziprecruiter.com
+track.sparkpost.ziprecruiter.com
+ad1.corp.ziprecruiter.com
+ad-sc-01.corp.ziprecruiter.com
+ad-hq-01.corp.ziprecruiter.com
+ad-az-02.corp.ziprecruiter.com
+www.ad-az-02.corp.ziprecruiter.com
+ad-corp-01.corp.ziprecruiter.com
