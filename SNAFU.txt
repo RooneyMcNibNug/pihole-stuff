@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 November 2021
+# Updated: 9 November 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25596,8 +25596,6 @@ rtc-ms1.bitrix24.com
 rtc-ms2.bitrix24.com
 rtc-v2-de1.bitrix24.com
 rtc-v2-de2.bitrix24.com
-rtc-v2-ms1.bitrix24.com
-rtc-v2-ms2.bitrix24.com
 rtc-v2-ru1.bitrix24.com
 rtc-v2-ru2.bitrix24.com
 rtc-v2-us1.bitrix24.com
