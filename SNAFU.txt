@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 9 November 2021
+# Updated: 12 November 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47244,3 +47244,8 @@ ad-hq-01.corp.ziprecruiter.com
 ad-az-02.corp.ziprecruiter.com
 www.ad-az-02.corp.ziprecruiter.com
 ad-corp-01.corp.ziprecruiter.com
+activity.lucid.app
+adstxt.mediavine.com
+keywords.mediavine.com
+reporting.mediavine.com
+status.mediavine.com
