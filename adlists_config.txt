@@ -14,7 +14,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Airelle-trc.txt #This list seems to be completely abandoned by its owner.
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
