@@ -7,13 +7,13 @@ Add the following link to your pi-hole adlists management config or other blockl
 
 If you run into a problem loading critical elements of a page due to a domain being included within this blocklist, please [submit an issue](https://github.com/RooneyMcNibNug/pihole-stuff/issues) and I will tend to it as soon as possible. 
 
-### [Latest "Marketing Technology Landscape" Mosaic](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/martech5000k2020Apr.jpg)
+### ["Marketing Technology Landscape" Mosaics](https://github.com/RooneyMcNibNug/pihole-stuff/tree/master/martech_landscape_imgs)
 One of the more painful illustrations conveying just how massive the user-targeting industry has become. At least it helps with discovering new domains to enumerate for the blocklist.
 
 ### [Adlists I use](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/adlists_config.txt)
 A compilation of lists I use within different environments, sorted by "type".
 
-### Python Scripts
+### [Python Scripts](https://github.com/RooneyMcNibNug/pihole-stuff/tree/master/python_scripts)
 A few poorly cobbled together `.py` scripts to find possible URLs to add to the blocklist.
 
 ### [Unbound DNS server configuration](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/unbound.conf.d/pi-hole.conf)
