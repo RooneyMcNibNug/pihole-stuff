@@ -19,7 +19,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/TheMillionDollarBlocklist.txt
-# Updated: 27 October 2021
+# Updated: 21 November 2021
 #
 #BEGIN BLOCKLIST#
 #milliondollarhomepage.com
@@ -801,7 +801,6 @@ jackpotty.com
 worldslargestadpage.com
 #beer.com
 tomaszgolka.com
-https:secure.pokerchamps.com
 rentpixelads.com
 marketviews.net
 thatsthespirit.com
@@ -2289,7 +2288,7 @@ greenstructure.com
 esayenterprises.co.uk
 monsterprelaunch.com
 fastlanetraffic.com
-mp3musiq.com?
+mp3musiq.com
 lemontreevillas.com
 elisiumfilm.com
 evincing.com
@@ -2388,7 +2387,6 @@ ariekaplan.com
 vitaminproshop.com
 dartdreams.com
 mapandglobe.com
-geocities.comlbakers@swbell.net
 caringkiwi.comen
 cash-flow-online.com
 spyware-axe.com
