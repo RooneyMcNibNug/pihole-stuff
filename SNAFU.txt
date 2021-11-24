@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 November 2021
+# Updated: 24 November 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -46414,3 +46414,10 @@ keywords.mediavine.com
 reporting.mediavine.com
 status.mediavine.com
 stats.blockchair.com
+sstats.wired.com
+listen.wired.com
+insights.wired.com
+www.insights.wired.com
+event.wired.com
+events.wired.com
+ads.wired.com
