@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 December 2021
+# Updated: 13 December 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47068,3 +47068,4 @@ track.searchiq.co
 track3.searchiq.co
 wapi.searchiq.co
 wldcrdrcrd.searchiq.co
+meetrix03v3.drawnames.com
