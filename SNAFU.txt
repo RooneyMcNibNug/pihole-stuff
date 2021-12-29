@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 23 December 2021
+# Updated: 29 December 2021
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47102,3 +47102,11 @@ style-viart.customer.guru
 themarketingteacher.customer.guru
 toukanmango.customer.guru
 tudoholic-com.customer.guru
+js.datadome.co
+js-cf.datadome.co
+metrics.datadome.co
+metrics-v2.datadome.co
+push-metrics.datadome.co
+spy.datadome.co
+tr.datadome.co
+trail.datadome.co
