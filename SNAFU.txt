@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 29 December 2021
+# Updated: 3 January 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47110,3 +47110,8 @@ push-metrics.datadome.co
 spy.datadome.co
 tr.datadome.co
 trail.datadome.co
+tracking.chess.com
+adpushupinc.outgrow.us
+leadmap.outgrow.us
+monitor03-gra2-ovh.tidio.co
+widget.tidio.co
