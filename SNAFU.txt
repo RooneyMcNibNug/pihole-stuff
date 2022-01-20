@@ -47257,3 +47257,5 @@ www-test.salesloft.com
 www2.salesloft.com
 www3.salesloft.com
 zendesk1.salesloft.com
+click.email.hinge.co
+clicks.hinge.co
