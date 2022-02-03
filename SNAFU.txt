@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 January 2022
+# Updated: 3 February 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47356,3 +47356,12 @@ znesxm9bklywjrjnd-dishvoc.siteintercept.qualtrics.com
 znesxwrqbzbhhszwn-aspendental.siteintercept.qualtrics.com
 shard-1.analytics.net.crisp.chat
 shard-2.analytics.net.crisp.chat
+analytics.osano.com
+cstat.osano.com
+adops.motherjones.com
+www.adops.motherjones.com
+analytics.hallmark.com
+click.email.hallmark.com
+consumermarketing.hallmark.com
+www.consumermarketing.hallmark.com
+visitor.hallmark.com
