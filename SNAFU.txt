@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 February 2022
+# Updated: 15 February 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -17328,6 +17328,18 @@ json.ipinfo.io
 scanme.ipinfo.io
 us.ipinfo.io
 w.ipinfo.io
+4.ipinfo.io
+6.ipinfo.io
+cdn.ipinfo.io
+24672799.census.ipinfo.io
+email.mg.ipinfo.io
+n.ipinfo.io
+ny.ipinfo.io
+ny2.ipinfo.io
+open.ipinfo.io
+pixel.ipinfo.io
+status.ipinfo.io
+ww.ipinfo.io
 ispot.tv
 www.ispot.tv
 wood.www.ispot.tv
