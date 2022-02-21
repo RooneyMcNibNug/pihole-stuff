@@ -1,0 +1,24 @@
+---
+- name: Create local Wireguard Client config directory
+  hosts: local
+
+  tasks:
+    - import_tasks: tasks/local.yml
+
+- name: Install Docker Docker-Compose and dependencies.
+  hosts: do
+  become: true
+  vars:
+    DOCKER_COMPOSE_VERSION: "1.29.1"
+    USER: "root"
+
+  pre_tasks:
+    - import_tasks: tasks/pre_deploy.yml
+
+  tasks:
+    - import_tasks: tasks/docker.yml
+    - import_tasks: tasks/dockercompose.yml
+    - import_tasks: tasks/drop_wirehole.yml
+
+  post_tasks:
+    - import_tasks: tasks/post_deploy.yml
