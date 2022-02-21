@@ -1,0 +1,24 @@
+---
+## Installing docker
+  - name: Add Docker PGP Key
+    apt_key:
+      url: https://download.docker.com/linux/ubuntu/gpg
+      state: present
+
+  - name: Docker Repo
+    apt_repository:
+      repo: deb https://download.docker.com/linux/ubuntu {{ ansible_distribution_release | lower }} stable
+      state: present
+
+  - name: Update apt and install docker-ce
+    apt: update_cache=yes name=docker-ce state=latest
+
+  - name: Install Docker Module for Python
+    pip:
+      name: docker
+
+  - name: Add user {{ USER }} to docker group
+    user:
+      name: "{{ USER }}"
+      groups: "docker"
+      append: "yes"

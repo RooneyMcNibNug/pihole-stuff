@@ -1,0 +1,24 @@
+---
+- name: Update repos and cache
+  apt:
+    update_cache: yes
+    force_apt_get: yes
+    cache_valid_time: 3600
+
+- name: Install dependencies
+  package:
+    name:
+      - apt-transport-https
+      - curl
+      - ca-certificates
+      - git
+      - gnupg-agent
+      - haveged
+      - python3-pip
+      - software-properties-common
+    state: present
+
+- name: Upgrade all pkgs
+  apt:
+    upgrade: dist
+    force_apt_get: yes
