@@ -9,7 +9,7 @@ To get this whole thing rolled out, the following tools are required:
 
 ## Why Wirehole?
 
-I've previously [written](https://rooneymcnibnug.github.io/privacy/2019/08/30/CentOS7-Wireguard-PiHole.html) about creating a VPN in "the cloud" inlcuding ad/tracker-blocking by using a Pi-hole install. 
+I've previously [written](https://rooneymcnibnug.github.io/privacy/2019/08/30/CentOS7-Wireguard-PiHole.html) about creating a VPN in "the cloud" including ad/tracker-blocking by using a Pi-hole install. 
 
 I found out about [Wirehole](https://github.com/IAmStoxe/wirehole) over a year ago, which does a much better job of coming pre-configured with a more thorough privacy-preserving setup:
 
