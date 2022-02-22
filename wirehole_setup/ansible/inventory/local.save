@@ -1,0 +1,3 @@
+## See a base example from pi-hole docs here: https://docs.pi-hole.net/guides/dns/unbound/#configure-unbound
+#
+## unbound.conf man: https://www.nlnetlabs.nl/documentation/unbound/unbound.conf/

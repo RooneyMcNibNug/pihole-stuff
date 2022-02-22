@@ -12,9 +12,9 @@
     debug:
       var: output
 
-  - name: Sleep 20 seconds to generate Wireguard client configs
+  - name: Sleep 30 seconds for Wireguard client config generations
     pause:
-      seconds: 20
+      seconds: 30
 
   - name: Copy individual files
     synchronize:
