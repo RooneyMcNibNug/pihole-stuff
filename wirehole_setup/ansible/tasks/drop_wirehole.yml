@@ -19,7 +19,7 @@
   - name: Copy individual files
     synchronize:
       src: "{{ item }}"
-      dest: ../wg_client_configs/drop
+      dest: ../wg_client_configs/drop # check this directory for the wireguard peer data once deployment is complete!
       mode: pull
     with_items:
       - "/wirehole/wireguard/config/peer1"
