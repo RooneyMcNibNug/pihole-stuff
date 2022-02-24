@@ -19,4 +19,7 @@ A few poorly cobbled together `.py` scripts to find possible URLs to add to the 
 ### [Unbound DNS server configuration](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/unbound.conf.d/pi-hole.conf)
 A quick configuration for a recursive Unbound DNS server running on the same machine as pi-hole. As [noted](https://docs.pi-hole.net/guides/dns/unbound/#configure-unbound), Unbound creates a more comprehensively private alternative to relying on trusting third-party authorities, and pairs very well with pi-hole ad/tracker blocking.
 
+### [Wirehole Setup](https://github.com/RooneyMcNibNug/pihole-stuff/tree/master/wirehole_setup)
+A Terraform and Ansible-powered deployment of a [Wirehole](https://github.com/IAmStoxe/wirehole) VPN (equipped with Pi-Hole blocking) for DigitalOcean.
+
 <a href="https://www.buymeacoffee.com/rooneymcnibnug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="38" width="132"></a>
