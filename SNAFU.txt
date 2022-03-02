@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 February 2022
+# Updated: 2 March 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47383,3 +47383,10 @@ userverify-09zsecure.dns04.com
 ads.civiccomputing.com
 ads-lb.civiccomputing.com
 reports.civiccomputing.com
+aptrk.connatix.com
+tr.connatix.com
+trk.connatix.com
+reconditerespect.com
+ads.inquirer.com
+tracking.inquirer.com
+www.tracking.inquirer.com
