@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 March 2022
+# Updated: 9 March 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47907,3 +47907,12 @@ traackr-uk.traackr.com
 wp.traackr.com
 www-monitor.traackr.com
 www2.traackr.com
+pixels.digitaljungle.io
+beta.digitaljungle.io
+cdn.digitaljungle.io
+dev.digitaljungle.io
+dev2.digitaljungle.io
+dev2-eb.digitaljungle.io
+dev2-worker.digitaljungle.io
+dev3.digitaljungle.io
+etl.digitaljungle.io
