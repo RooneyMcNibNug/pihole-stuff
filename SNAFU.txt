@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 10 March 2022
+# Updated: 17 March 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47914,3 +47914,5 @@ dev2-eb.digitaljungle.io
 dev2-worker.digitaljungle.io
 dev3.digitaljungle.io
 etl.digitaljungle.io
+cache.judge.me
+status.judge.me
