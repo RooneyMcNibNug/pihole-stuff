@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 March 2022
+# Updated: 6 April 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47923,3 +47923,18 @@ app.analyze.ly
 collect.analyze.ly
 www.buntips.com
 buntips.com
+img.en25.com
+img02.en25.com
+img03.en25.com
+img04.en25.com
+img06.en25.com
+img07.en25.com
+www.analysis.fi
+analysis.fi
+www.lr-in.com
+lr-in.com
+cdn.lr-in.com
+cdn-staging.lr-in.com
+r.lr-in.com
+staging-i.lr-in.com
+survey.podtrac.com
