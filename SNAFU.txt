@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 April 2022
+# Updated: 7 April 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47938,3 +47938,11 @@ cdn-staging.lr-in.com
 r.lr-in.com
 staging-i.lr-in.com
 survey.podtrac.com
+adfsextsvc.ferrero.com
+adfsintsvc.ferrero.com
+adfssvc.ferrero.com
+as2-de.ferrero.com
+b2b.ferrero.com
+banner.ferrero.com
+redirekted.com
+r.redirekted.com
