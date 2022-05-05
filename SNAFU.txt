@@ -48012,4 +48012,3 @@ ads.glassdoor.com
 ads-api.glassdoor.com
 ads-api-qa.glassdoor.com
 ads-api-stage.glassdoor.com
-assets.glassdoor.com
