@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 29 April 2022
+# Updated: 5 May 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48007,3 +48007,9 @@ torpedo-dataplane.rudderstack.com
 star.fallback.c10r.facebook.com
 lopoloda.xyz
 kolleno.co
+click.email.glassdoor.com
+ads.glassdoor.com
+ads-api.glassdoor.com
+ads-api-qa.glassdoor.com
+ads-api-stage.glassdoor.com
+assets.glassdoor.com
