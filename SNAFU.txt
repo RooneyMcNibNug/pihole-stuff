@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 May 2022
+# Updated: 6 May 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -39667,7 +39667,12 @@ www.4-tell.com
 dashboard.4-tell.com
 dashboard3.4-tell.com
 portal.4-tell.com
+placer.ai
+www.placer.ai
+trends.placer.ai
 analytics.placer.ai
+blog.placer.ai
+go.placer.ai
 sensape.com
 www.sensape.com
 api.sensape.com
