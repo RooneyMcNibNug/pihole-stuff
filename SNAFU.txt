@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 27 June 2022
+# Updated: 1 July 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48093,3 +48093,31 @@ easemon.com
 ikeymonitor.com
 fkhokus.com
 influxcoins.com
+insights.7cups.com
+collector.talkspace.com
+fb.psychcentral.com
+www.fb.psychcentral.com
+click.marketing.goodrx.com
+image.marketing.goodrx.com
+analytics.dentalplans.goodrx.com
+metrics.plushcare.com
+logs.corp.betterhelp.com
+events.betterhelp.com
+www.tracking.amwell.com
+appstaging.interakt.ai
+cockpit.interakt.ai
+apistaging.interakt.ai
+www.interakt.ai
+devn8n.interakt.ai
+app.interakt.ai
+channeldev.interakt.ai
+channel.interakt.ai
+chat.interakt.ai
+chatdev.interakt.ai
+interakt.ai
+chatstaging.interakt.ai
+channelstaging.interakt.ai
+appdev.interakt.ai
+n8n.interakt.ai
+api.interakt.ai
+apidev.interakt.ai
