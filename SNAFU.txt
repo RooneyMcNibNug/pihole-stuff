@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 8 July 2022
+# Updated: 11 July 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48169,3 +48169,8 @@ static.adpushup.com
 signup.adpushup.com
 www.shareasale-analytics.com
 shareasale-analytics.com
+tjreporting.taxjar.com
+leads.taxjar.com
+t.m.talla.com
+trends.talla.com
+tr.sercanto.com
