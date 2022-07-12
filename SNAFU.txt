@@ -1,11 +1,11 @@
- ### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
+### A general ad & tracking domain blocklist for pi-hole. (https://pi-hole.net/)              ###
 ### Attempting to find domains not already included in popular lists. (Wally3k, Airelle, etc) ###
 ### Work in progress - will be adding new domains as I find them through a number of methods. ###
 # Author: RooneyMcNibNug
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 11 July 2022
+# Updated: 12 July 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48174,3 +48174,10 @@ leads.taxjar.com
 t.m.talla.com
 trends.talla.com
 tr.sercanto.com
+m.analytics.fastbase.com
+api.analyticsbuddy.com
+dev-experimentor.analyticsbuddy.com
+experimentor.analyticsbuddy.com
+www.analyticsbuddy.com
+dev-api.analyticsbuddy.com
+dev.analyticsbuddy.com
