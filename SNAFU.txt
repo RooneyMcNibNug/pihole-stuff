@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 12 July 2022
+# Updated: 14 July 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48181,3 +48181,26 @@ experimentor.analyticsbuddy.com
 www.analyticsbuddy.com
 dev-api.analyticsbuddy.com
 dev.analyticsbuddy.com
+optmyzr.com
+asdadrewfsdfsadfsadfds.optmyzr.com
+email.mg.optmyzr.com
+mail.optmyzr.com
+www.optmyzr.com
+data.optmyzr.com
+shoppingapi.optmyzr.com
+payments.optmyzr.com
+staging.optmyzr.com
+optmyzr.com
+at.optmyzr.com
+agencyfinder.optmyzr.com
+tools.optmyzr.com
+track.optmyzr.com
+link.optmyzr.com
+bulk.optmyzr.com
+api.tools.optmyzr.com
+origin.optmyzr.com
+landing.optmyzr.com
+scriptaccess.optmyzr.com
+future.optmyzr.com
+static.optmyzr.com
+hs.optmyzr.com
