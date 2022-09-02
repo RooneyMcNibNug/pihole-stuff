@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 29 August 2022
+# Updated: 2 September 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -63959,3 +63959,13 @@ kp1g.kochava.com
 currencies.api.kochava.com
 2cust175.kochava.com
 icm.kochava.com
+cdn.glbp.w55c.net
+opt.w55c.net
+h.w55c.net
+m.w55c.net
+trafficmanager-brazil.w55c.net
+s.h.w55c.net
+s2s-v2.w55c.net
+securetags.w55c.net
+target-dev.w55c.net
+f.w55c.net
