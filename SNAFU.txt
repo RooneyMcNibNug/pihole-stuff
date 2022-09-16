@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 13 September 2022
+# Updated: 15 September 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -32305,10 +32305,6 @@ landing.doorboost.com
 leads.doorboost.com
 usercentrics.eu
 www.usercentrics.eu
-api.usercentrics.eu
-cached.api.usercentrics.eu
-consents.api.usercentrics.eu
-app.usercentrics.eu
 app.usercentrics.eu
 www.app.usercentrics.eu
 button.usercentrics.eu
