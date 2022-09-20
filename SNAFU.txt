@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 17 September 2022
+# Updated: 19 September 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -65744,3 +65744,5 @@ mtbonline-service3.web.app
 dash.cloudflare.ovh
 main.cloudfronts.net
 track.smtpsendemail.com
+sptrack.trello.com
+rd.goodreads.com
