@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 4 October 2022
+# Updated: 5 October 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69511,3 +69511,5 @@ trk.opentable.com
 www.trk.opentable.com
 track.opentable.com
 traffic.opentable.com
+avatradeccxhange.com
+www.avatradeccxhange.com
