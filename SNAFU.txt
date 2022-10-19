@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 October 2022
+# Updated: 1 October 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69755,3 +69755,13 @@ performanceapps.iprospect.com
 pages.iprospect.com
 mail.iprospect.com
 metrics.duolingo.com
+ads1.irl.com
+www.adverts.irl.com
+ads.search.irl.com
+banners.businessmedia.irl.com
+mail.acsbapp.com
+cdn102.acsbapp.com
+web1.acsbapp.com
+acsbapp.com
+cdn.acsbapp.com
+www.acsbapp.com
