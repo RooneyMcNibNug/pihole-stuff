@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 4 November 2022
+# Updated: 7 November 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -73812,3 +73812,8 @@ smmcost.com
 smmgoal.com
 marketspanel.com
 socialboostx.com
+click.e-mail.crayola.com
+stats.crayola.com
+logging.letterboxd.com
+www.metrics.bmc.phoenixnap.com
+metrics.bmc.phoenixnap.com
