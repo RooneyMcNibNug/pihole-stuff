@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 8 November 2022
+# Updated: 11 November 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -73865,3 +73865,7 @@ smp.i-360.com
 www.l2-data.com
 staging.l2-data.com
 l2-data.com
+statistics.wasabiwallet.io
+stats.wasabiwallet.io
+track.rap.loandepot.com
+click.figma.com
