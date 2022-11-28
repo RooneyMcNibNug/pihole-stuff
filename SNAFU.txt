@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 22 November 2022
+# Updated: 28 November 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74331,3 +74331,8 @@ campaigns.channext.com
 files.channext.com
 landingpage.channext.com
 content.channext.com
+insights.gray.tv
+analytics.queryly.com
+related.queryly.com
+ad.queryly.com
+reconditerespect.com
