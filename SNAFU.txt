@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 2 December 2022
+# Updated: 8 December 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69923,3 +69923,7 @@ ads-serve.aws-internal.brave.com
 metric-proxy.brave.com
 geo.ads.brave.com
 adblock-data.s3.brave.com
+t.6sc.co
+6sc.co
+s.6sc.co
+p.6sc.co
