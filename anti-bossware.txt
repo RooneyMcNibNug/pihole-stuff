@@ -2,6 +2,7 @@
 ### THIS MAY BREAK THINGS FOR YOUR SYSTEM TO OPPERATE IN ACCORDANCE TO WORK POLICIES -        ###
 ### Use at your own risk.                                                                     ###
 ### Domains sourced from here: https://surfshark.com/employee-surveillance                    ###
+### among other places (PRs are welcome here)                                                 ###
 # Author: RooneyMcNibNug
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
