@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 January 2023
+# Updated: 6 January 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -73868,7 +73868,7 @@ app.cirrusinsight.com
 meet.cirrusinsight.com
 www-test.cirrusinsight.com
 staging-app.cirrusinsight.com
-api-preview.cirrusinight.com
+api-preview.cirrusinsight.com
 analytics.cirrusinsight.com
 owa-staging.cirrusinsight.com
 crmapi.cirrusinsight.com
@@ -73930,3 +73930,5 @@ admin2.trendmd.com
 admin-test2.trendmd.com
 www.trendmd.com
 collector.trendmd.com
+almacomalma.org
+www.almacomalma.org
