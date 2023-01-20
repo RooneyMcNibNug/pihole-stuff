@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 19 January 2023
+# Updated: 20 January 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -73991,3 +73991,19 @@ info.flagcounter.com
 mrtg.s05.flagcounter.com
 ationwindon.com
 cratessomoss.com
+x.mail.shape.com
+click.email.instyle.com
+tiads.instyle.com
+prod-telemetry-oc.tradingview.com
+analytics.elfsight.com
+ecommerce.allrecipes.com
+metrics.allrecipes.com
+metrics.de.allrecipes.com
+telemetry.allrecipes.com
+smetrics.bhg.com
+leads.bhg.com
+tiads.realsimple.com
+click.email.realsimple.com
+click.email.southernliving.com
+tiads.travelandleisure.com
+click.email.travelandleisure.com
