@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 20 January 2023
+# Updated: 30 January 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74007,3 +74007,5 @@ click.email.realsimple.com
 click.email.southernliving.com
 tiads.travelandleisure.com
 click.email.travelandleisure.com
+touchngoewallet.onelink.me
+go.onelink.me
