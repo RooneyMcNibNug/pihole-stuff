@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 9 February 2023
+# Updated: 10 February 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74049,3 +74049,7 @@ zinskynots.com
 derytc.click
 11165151.addotnet.com
 track.vcdc.com
+www.thesafersearch.com
+get.thesafersearch.com
+thesafersearch.com
+terms.thesafersearch.com
