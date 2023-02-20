@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 15 February 2023
+# Updated: 19 February 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74347,3 +74347,7 @@ vet.raraavis.info
 tuse.raraavis.info
 raraavis.info
 sede.raraavis.info
+krogerprecisionmarketing.com
+www.krogerprecisionmarketing.com
+cdnverify.krogerprecisionmarketing.com
+go.krogerprecisionmarketing.com
