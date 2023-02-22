@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 February 2023
+# Updated: 22 February 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74494,3 +74494,6 @@ static.3deye.1dmp.io
 dmp.s7.1dmp.io
 static.bmw.1dmp.io
 my.sony.1dmp.io
+legalcoins.vip
+ttwweatterarartgea.ga
+stats.onemedical.com
