@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 February 2023
+# Updated: 27 February 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74498,3 +74498,8 @@ legalcoins.vip
 ttwweatterarartgea.ga
 stats.onemedical.com
 tracking.purchasely.io
+irymountain.com.ua
+lesexwrecko.xyz
+alnormatic.xyz
+mgcpakistan.com
+cents-ability.org
