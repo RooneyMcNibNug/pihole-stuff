@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 February 2023
+# Updated: 1 March 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74516,3 +74516,10 @@ www.google-analytics.com.miniorange.com
 analyticsinsights-pa.clients6.google.com.miniorange.com
 analytics.google.com.miniorange.com
 google-analytics.com.miniorange.com
+cdn.ranksci.com
+cdn-staging.ranksci.com
+www.ranksci.com
+ranksci.com
+go.sparkpostmail.com
+js.iterable.com
+events.iterable.com
