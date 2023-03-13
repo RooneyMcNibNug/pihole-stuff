@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 March 2023
+# Updated: 13 March 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74592,3 +74592,8 @@ cp.gapfactory.com
 www.dotmetrics.net
 au-script.dotmetrics.net
 rm-script.dotmetrics.net
+fi.warmachine.su
+stat.51sdk.org
+widget-v4.tidiochat.net
+alibb.xyz
+22332299.com
