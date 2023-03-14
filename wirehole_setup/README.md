@@ -25,7 +25,7 @@ You will need a Digital Ocean account before running anything here. From your lo
 
 #### 1. Deployment of the Droplet via Terraform
 
-If you are unfamiliar with Terrafrom, please do consult [the following article](https://www.terraform.io/intro/core-workflow) on standard workflow practice, but basically it will go something like this here:
+If you are unfamiliar with Terraform, please do consult [the following article](https://www.terraform.io/intro/core-workflow) on standard workflow practice, but basically it will go something like this here:
 
 `Init -> Plan -> Apply`
 
@@ -48,7 +48,7 @@ foo@bar:~$ ansible do -m ping
 foo@bar:~$ anible-playbook drop_main.yml
 ```
 
-Please check the destination on the Dropley (Check the comment in `/ansible/taks/drop_wirehole.yml` for help!) to make sure your Wireguard peer connections have been properly generated/configured.
+Please check the destination on the Droplet (Check the comment in `/ansible/taks/drop_wirehole.yml` for help!) to make sure your Wireguard peer connections have been properly generated/configured.
 
 #### 3. Roll out!
 
