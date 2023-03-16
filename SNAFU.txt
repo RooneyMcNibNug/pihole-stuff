@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 15 March 2023
+# Updated: 16 March 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74758,3 +74758,12 @@ stat.51sdk.org
 widget-v4.tidiochat.net
 alibb.xyz
 22332299.com
+mail.mfa.gov.kg.openingfile.net
+akipress.news
+maileecommission.inro.link
+sts.mfa.gov.tr.mypolicy.top
+industry.tj.mypolicy.top
+mail.mfa.az-link.email
+belaes.by.authentication.becloud.cc
+belstat.gov.by.attachment-posts.cc
+minsk.gov.by.attachment-posts.cc
