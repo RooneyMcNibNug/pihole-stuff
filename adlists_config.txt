@@ -54,6 +54,7 @@ https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 
 ## Mobile-based lists
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 https://tgc.cloud/downloads/iOSAds.txt
 
 ## "Smart"-TV lists
