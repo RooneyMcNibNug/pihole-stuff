@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 27 March 2023
+# Updated: 29 March 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74771,3 +74771,24 @@ i.e-mail.condenast.com
 w1.buysub.com
 click.email.buysub.com
 mac.cracked23.site
+akamaicontainer.com
+msedgepackageinfo.com
+akamaitechcloudservices.com
+msstorageazure.com
+azuredeploystore.com
+msstorageboxes.com
+azureonlinecloud.com
+officeaddons.com
+azureonlinestorage.com
+officestoragebox.com
+dunamistrd.com
+pbxcloudeservices.com
+glcloudservice.com
+pbxphonenetwork.com
+qwepoi123098.com
+zacharryblogs.com
+sbmsa.wiki
+pbxsources.com
+sourceslabs.com
+journalide.org
+visualstudiofactory.com
