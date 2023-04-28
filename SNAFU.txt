@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 25 April 2023
+# Updated: 28 April 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -76590,3 +76590,7 @@ com-popmenu-prod.iglu.snplow.net
 com-trinnylondon-prod1.iglu.snplow.net
 com-getpocket-prod2.collector.snplow.net
 gcp-sandbox-prod1.mini.snplow.net
+amos-malware.ru
+turboeagle.co
+www.turboeagle.co
+c.navu.co
