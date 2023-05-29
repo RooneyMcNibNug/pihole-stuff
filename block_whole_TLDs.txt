@@ -4,7 +4,7 @@
 # Author: RooneyMcNibNug
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
-# @ GitHub : 
+# @ GitHub: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/block_whole_TLDs.txt
 # Updated: 28 May 2023
 #
 #
