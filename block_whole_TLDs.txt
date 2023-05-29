@@ -1,0 +1,14 @@
+### If a TLD exists that matches a file extension, I will block it. I'm sorry, I don't care how artisinally neat your foobar.zip page is.
+### See https://archive.is/tGlWU for more information on the dangers these pose to users.
+### This is using Adblock Syntax, which has been supported within Pi-hole since v5.17
+# Author: RooneyMcNibNug
+# License: WTFPL (http://www.wtfpl.net/about/)
+# Home: https://github.com/RooneyMcNibNug/pihole-stuff
+# @ GitHub : 
+# Updated: 28 May 2023
+#
+#
+#BEGIN BLOCKLIST#
+||mov^
+||win^
+||zip^
