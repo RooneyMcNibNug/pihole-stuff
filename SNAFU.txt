@@ -41237,3 +41237,7 @@ paypal-us-arh.cloudiq.com
 paypal-eu-cdn.cloudiq.com
 mx01.bestfindthetruth.com
 xxl17z.dnslog.cn
+chatgpt4beta.com
+dirwinstat.com
+devolrdm.com
+devolutionrdp.com
