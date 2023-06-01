@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 30 May 2023
+# Updated: 1 June 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41241,3 +41241,34 @@ chatgpt4beta.com
 dirwinstat.com
 devolrdm.com
 devolutionrdp.com
+sap-company.rbdgirls.in
+global-company.rbdgirls.in
+www.rbdgirls.in
+fantasticfurniture-company.rbdgirls.in
+kregtool-company.rbdgirls.in
+naturesway-company.rbdgirls.in
+pepsico-company.rbdgirls.in
+ww2.rbdgirls.in
+generalatlantic-company.rbdgirls.in
+nylim-company.rbdgirls.in
+aldi-sued-company.rbdgirls.in
+ft-company.rbdgirls.in
+nlyte-company.rbdgirls.in
+company.rbdgirls.in
+nttdata-company.rbdgirls.in
+firstmerchants-company.rbdgirls.in
+barclays-company.rbdgirls.in
+bswift-company.rbdgirls.in
+ubs-company.rbdgirls.in
+gmh-gruppe-company.rbdgirls.in
+webmail.rbdgirls.in
+ford-company.rbdgirls.in
+citynational-company.rbdgirls.in
+lmcu-company.rbdgirls.in
+webdisk.rbdgirls.in
+servicenow-company.rbdgirls.in
+pkc-company.rbdgirls.in
+cpanel.rbdgirls.in
+newyorklife-company.rbdgirls.in
+mail.rbdgirls.in
+rbdgirls.in
