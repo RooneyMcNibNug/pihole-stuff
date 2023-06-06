@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 1 June 2023
+# Updated: 6 June 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41272,3 +41272,15 @@ cpanel.rbdgirls.in
 newyorklife-company.rbdgirls.in
 mail.rbdgirls.in
 rbdgirls.in
+static.carbonads.com
+mail.carbonads.com
+ads.carbonads.com
+adimages.carbonads.com
+engine.carbonads.com
+cdn-origin.carbonads.com
+blog.carbonads.com
+carbonads.com
+cdn.carbonads.com
+manage.carbonads.com
+fallbacks.carbonads.com
+www.carbonads.com
