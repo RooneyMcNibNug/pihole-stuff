@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 July 2023
+# Updated: 9 July 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -31031,18 +31031,6 @@ appnew.doorboost.com
 cloud.doorboost.com
 landing.doorboost.com
 leads.doorboost.com
-usercentrics.eu
-www.usercentrics.eu
-app.usercentrics.eu
-www.app.usercentrics.eu
-button.usercentrics.eu
-cached.usercentrics.eu
-cdn.usercentrics.eu
-graphql.usercentrics.eu
-partner.usercentrics.eu
-search.usercentrics.eu
-settings.usercentrics.eu
-sjxhxzgvg.usercentrics.eu
 kontentino.com
 www.kontentino.com
 adison.kontentino.com
@@ -41436,3 +41424,4 @@ marvel-b6-cdn.bc0a.com
 schema-cdn.bc0a.com
 worldfoodies.net
 rvselectinc.com
+click.sellbackyourbooks.com
