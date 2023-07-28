@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 17 July 2023
+# Updated: 28 July 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -43780,3 +43780,9 @@ kafka-qa.hyros.com
 179088.tracking.hyros.com
 184671.t.hyros.com
 178469.t.hyros.com
+insights.skyword.com
+analytics-eu.8x8.com
+analytics-au.8x8.com
+analytics-ca.8x8.com
+analytics-activity-prod.8x8.com
+analytics.8x8.com
