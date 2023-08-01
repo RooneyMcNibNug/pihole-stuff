@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 July 2023
+# Updated: 1 August 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -1949,6 +1949,7 @@ costco.tt.omtrdc.net
 kohls.tt.omtrdc.net
 mboxedge20.tt.omtrdc.net
 myfamilycominc.tt.omtrdc.net
+unitedparcelservice.sc.omtrdc.net
 sailthru.com
 www.sailthru.com
 ak.sailthru.com
@@ -43786,3 +43787,4 @@ analytics-au.8x8.com
 analytics-ca.8x8.com
 analytics-activity-prod.8x8.com
 analytics.8x8.com
+analytics.fotomoto.com
