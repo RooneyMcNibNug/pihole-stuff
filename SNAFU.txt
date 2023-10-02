@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 September 2023
+# Updated: 2 October 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41319,3 +41319,8 @@ hub.superawesome.com
 021.app-wdps-okta-inc-parents-alt12.hackday.sandbox.superawesome.com
 authorization.app-wdps-okta-inc-parents-alt12.metrics.hackday.sandbox.superawesome.com
 api.ksv.superawesome.com
+advertise.newrepublic.com
+appwebetoro.com
+etorousdt.site
+webetoro.com
+etorotradingbot.com
