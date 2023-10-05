@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 2 October 2023
+# Updated: 5 October 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41324,3 +41324,10 @@ appwebetoro.com
 etorousdt.site
 webetoro.com
 etorotradingbot.com
+ads.dev.pinger.com
+cf-ads.pinger.com
+ads.qa.pinger.com
+ads.pinger.com
+adservetx.media.net
+ads.media.net
+ad.media.net
