@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 23 October 2023
+# Updated: 28 October 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -28830,7 +28830,6 @@ ad.formstack.com
 analytics.chargebee.com
 digitalfootprint.chargebee.com
 feeder.chargebee.com
-js.chargebee.com
 trackingdesk.chargebee.com
 risk.clearbit.com
 clearbitjs.com
