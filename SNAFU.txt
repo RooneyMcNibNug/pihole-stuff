@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 November 2023
+# Updated: 9 November 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41448,3 +41448,12 @@ ad-sin-01.ad.medallia.com
 ad.agkn.com
 bafwer.co.in
 povesx.co.in
+argenferia.com
+realvnc.pro
+corporatecomf.online
+cilrix-corp.pro
+thecoopmodel.com
+winscp-apps.online
+wireshark-app.online
+cilrix-corporate.online
+workspace-app.online
