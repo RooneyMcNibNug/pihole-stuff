@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 November 2023
+# Updated: 27 November 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38642,6 +38642,7 @@ analytics.usefathom.com
 statamic.usefathom.com
 i.usefathom.com
 stats.usefathom.com
+cdn-eu.usefathom.com
 www.wisepops.com
 app.wisepops.com
 ping.wisepops.com
@@ -41707,3 +41708,5 @@ log.movableink.com
 curriculum.movableink.com
 movableink.com
 flashcards.movableink.com
+clicks.going.com
+sniperl.ink
