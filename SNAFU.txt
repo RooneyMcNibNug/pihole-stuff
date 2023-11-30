@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 28 November 2023
+# Updated: 30 November 2023
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41726,3 +41726,18 @@ assets-api-au.ortto.app
 ic.ortto.app
 ortto.app
 accounts-api-us.ortto.app
+analytics-airflow.instructure.com
+www.analytics-airflow.instructure.com
+analytics.instructure.com
+www.analytics.instructure.com
+tracking.cengage.com
+webservices.marketing.cengage.com
+analytics.qap.ng.cengage.com
+www.tracking.cengage.com
+trackit.cengage.com
+galeanalytics.cloud.cengage.com
+analytics.ng.cengage.com
+www.admin.compose.cengage.com
+emarketing.cengage.com
+analytics.stage.ng.cengage.com
+analytics.qad-ng.cengage.com
