@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 30 January 2024
+# Updated: 5 February 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -41965,3 +41965,14 @@ s-img.adskeeper.co.uk
 beta.adskeeper.co.uk
 bt-1407.beta.dashboard.adskeeper.co.uk
 bt-1434.alpha.dashboard.adskeeper.co.uk
+splice.amlg.io
+amlg.io
+www.amlg.io
+portal.amlg.io
+media.amlg.io
+admiral.amlg.io
+repo.amlg.io
+devadmiral.amlg.io
+click.email-carmax.com
+click.email.paramountplus.com
+hover.secure.force.com
