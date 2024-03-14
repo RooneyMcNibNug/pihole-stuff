@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 12 March 2024
+# Updated: 14 March 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -42789,3 +42789,7 @@ vts.zohopublic.comengine.adzerk.net
 clicks.hmd.com
 sandbox-airdrop.network
 thesandboxevent.cloud
+click.news.epicgames.com
+metrics.ol.epicgames.com
+analytics-querybook.fdbe.dev.use1a.on.epicgames.com
+analytics.live.on.epicgames.com
