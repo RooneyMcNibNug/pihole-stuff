@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 March 2024
+# Updated: 17 March 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -42793,3 +42793,25 @@ click.news.epicgames.com
 metrics.ol.epicgames.com
 analytics-querybook.fdbe.dev.use1a.on.epicgames.com
 analytics.live.on.epicgames.com
+analytics.krea.ai
+api.proxy.analytics.shutterstock.com
+ssgtm-analytics.shutterstock.com
+evs.proxy.analytics.shutterstock.com
+trk.info.shutterstock.com
+analytics.artstation.com
+analytics.creativefabrica.com
+metrics.autonlp.huggingface.co
+metrics-staging.autonlp.huggingface.co
+metrics-staging.autotrain.huggingface.co
+metrics.autotrain.huggingface.co
+track.success.ai
+trackstaging.success.ai
+tracking.usp.ai
+ga-tracker.fotor.com
+ga-tracker-dot-everimaging-1173.ga-test.fotor.com
+tracking.mrdeepfakes.com
+visitortracking.shutterstock.com
+track1.artstation.com
+www.tracking.datadriveninvestor.com
+tracking.datadriveninvestor.com
+www.marketing.downgraf.com
