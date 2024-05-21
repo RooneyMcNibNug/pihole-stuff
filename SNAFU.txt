@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 17 May 2024
+# Updated: 21 May 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -43319,3 +43319,17 @@ images.ctfassets.com
 s.t.barnesandnoble.com
 l.t.barnesandnoble.com
 socialinsights.research.net
+cdn.memo.co
+auth.memo.co
+memo.co
+ecs-vpn.memo.co
+insights.memo.co
+www.memo.co
+info.memo.co
+www-preview.memo.co
+mail.memo.co
+prnews.memo.co
+events.memo.co
+app.memo.co
+mlb.memo.co
+cake.memo.co
