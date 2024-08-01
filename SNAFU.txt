@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 30 July 2024
+# Updated: 1 August 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -44747,3 +44747,9 @@ otf.ops.optable.co
 cci-partner.cloud.jp.optable.co
 globalive-demo.cloud.jp.optable.co
 mrdan.instances.optable.co
+marketfinisterreuk.click
+marketing.cnevids.com
+adbase.e2ma.net
+adworks.e2ma.net
+images.e2ma.net
+t.e2ma.net
