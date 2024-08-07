@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 August 2024
+# Updated: 7 August 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45262,3 +45262,13 @@ www.gravyanalytics.com
 info.gravyanalytics.com
 sdk.gravyanalytics.com
 gravyanalytics.com
+projectx2davalonx2dhostsx2dporn.billx2dryanx2dcorruptx2dclickx2dfraudx2dporn.facebook.co
+bill-ryan-corrupt-click-fraud-porn.facebook.co
+click.mc.facebookmail.com
+click.facebook-research.facebookmail.com
+click.frl-research.facebookmail.com
+facebookads.com
+www.facebookads.com
+ad.thefacebook.com
+www.facebookmarketingpartners.com
+facebookmarketingpartners.com
