@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 9 August 2024
+# Updated: 13 August 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45280,3 +45280,12 @@ secbot.security.extremereach.io
 extremereach.io
 beacons.extremereach.io
 git.dev.extremereach.io
+cscaconfluence.ncontext.com
+ncontext.com
+www.ncontext.com
+allaccessqa.ncontext.com
+insights.ncontext.com
+allaccessdev.ncontext.com
+www.nextview.ncontext.com
+nextview.ncontext.com
+analytics.ncontext.com
