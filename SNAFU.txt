@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 22 August 2024
+# Updated: 25 August 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45315,3 +45315,8 @@ sales.storyblok.com
 links.mail.storyblok.com
 948jojobet.com
 ww12.yotuube.com
+app.battlegroundai.com
+battlegroundai.com
+accounts.battlegroundai.com
+www.battlegroundai.com
+clerk.battlegroundai.com
