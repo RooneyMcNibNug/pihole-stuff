@@ -45320,3 +45320,8 @@ battlegroundai.com
 accounts.battlegroundai.com
 www.battlegroundai.com
 clerk.battlegroundai.com
+battleground.ai
+api.battleground.ai
+staging.battleground.ai
+www.battleground.ai
+api-stg.battleground.ai
