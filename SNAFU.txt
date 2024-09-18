@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 17 September 2024
+# Updated: 18 September 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47212,3 +47212,13 @@ techdemo.omeda.com
 geneng.omeda.com
 meet.omeda.com
 energycentral.omeda.com
+analysis.telemetry.mozilla.org
+aggregates.telemetry.mozilla.org
+probeinfo.telemetry.mozilla.org
+telemetry.mozilla.org
+analysis-output.telemetry.mozilla.org
+reports.telemetry.mozilla.org
+incoming.telemetry.mozilla.org
+public-data.telemetry.mozilla.org
+probes.telemetry.mozilla.org
+loop.telemetry.mozilla.org
