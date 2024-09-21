@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 September 2024
+# Updated: 21 September 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47224,3 +47224,6 @@ probes.telemetry.mozilla.org
 loop.telemetry.mozilla.org
 marketing-cdn.doodle.com
 mkt.e.doodle.com
+iyfbodn.com
+ww1.www.iyfbodn.com
+www.iyfbodn.com
