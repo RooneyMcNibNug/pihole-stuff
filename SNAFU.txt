@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 15 October 2024
+# Updated: 16 October 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -19323,6 +19323,11 @@ emails.yotpo.com
 gfeed.yotpo.com
 metrics.yotpo.com
 widget.yotpo.com
+salesloft.yotpo.com
+b2b.yotpo.com
+smsbump.yotpo.com
+emails.yotpo.com
+events.yotpo.com
 000-koy-740.mktoresp.com
 038-nfp-336.mktoresp.com
 062-qob-530.mktoresp.com
