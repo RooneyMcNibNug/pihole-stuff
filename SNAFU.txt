@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 16 October 2024
+# Updated: 22 October 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -47662,3 +47662,10 @@ api.qa.wknd.ai
 wknd.ai
 argocd.qa.wknd.ai
 perf-api.wknd.ai
+adligature.com
+www.adligature.com
+cdn.adligature.com
+smetrics.oregonlive.com
+stats.oregonlive.com
+ads.oregonlive.com
+ezads.oregonlive.com
