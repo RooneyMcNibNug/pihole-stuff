@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 November 2024
+# Updated: 5 November 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48333,3 +48333,10 @@ emailbuilder.chownowcdn.com
 emailbuilder.qa.chownowcdn.com
 campaigns.chownow.com
 embed.chownow.com
+metrics.userguiding.com
+eu-metrics.userguiding.com
+stat.userguiding.com
+beta-panel.userguiding.com
+eu-stat.userguiding.com
+analytics.pgncs.notion.so
+analytics-iframe.notion.so
