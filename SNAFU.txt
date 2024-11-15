@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 13 November 2024
+# Updated: 14 November 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48571,3 +48571,5 @@ es-la.getclicky.com
 download.getclicky.com
 www.secure.getclicky.com
 culture.getclicky.com
+r.wdfl.co
+wdfl.co
