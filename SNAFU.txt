@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 December 2024
+# Updated: 4 December 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -48786,3 +48786,11 @@ www.ids.stage.ad.gt
 a.dev.ad.gt
 u.ad.gt
 links.virtuoussoftware.com
+aftership.com
+links.chat.aftership.com
+links.app-chat.aftership.com
+trackdfd.aftership.com
+events.aftership.com
+track.aftership.com
+link.aftership.com
+referral.aftership.com
