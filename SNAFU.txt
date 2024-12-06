@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 4 December 2024
+# Updated: 6 December 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -3043,6 +3043,11 @@ vpn.appdynamics.com
 vps1.appdynamics.com
 www-origin.appdynamics.com
 www-origin-golden.appdynamics.com
+agg.eum-appdynamics.com
+eum-appdynamics.com
+api.eum-appdynamics.com
+col.eum-appdynamics.com
+bom-col.eum-appdynamics.com
 clevertap.com
 www.clevertap.com
 a1.alb.clevertap.com
@@ -48794,3 +48799,5 @@ events.aftership.com
 track.aftership.com
 link.aftership.com
 referral.aftership.com
+stats.staging.mux.com
+stats.mux.com
