@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 23 December 2024
+# Updated: 31 December 2024
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -50342,3 +50342,8 @@ cname-test.staging.found.ee
 www.found.ee
 www.ads.found.ee
 react.staging.found.ee
+track.redbubble.com
+analytics-gtm.redbubble.com
+spmailtechnolo.com
+www.spmailtechnolo.com
+post.spmailtechnolo.com
