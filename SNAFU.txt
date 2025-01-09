@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 January 2025
+# Updated: 9 January 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -50655,3 +50655,6 @@ api.btloader.com
 pbs.btloader.com
 primaveradigital.org
 yzpkxn.primaveradigital.org
+click.mailmc.afternic.com
+click.enews.united.com
+image.s12.sfmc-content.com
