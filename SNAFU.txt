@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 February 2025
+# Updated: 27 February 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -53175,3 +53175,5 @@ smartdata.wavemakerglobal.com
 www.smartdata.wavemakerglobal.com
 smartdata-uat.wmglobal.com
 analytics.evehome.com
+id.nbcnews.com
+adfuel.api.cnn.io
