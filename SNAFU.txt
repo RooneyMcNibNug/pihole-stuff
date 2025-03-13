@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 11 March 2025
+# Updated: 12 March 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -53193,3 +53193,19 @@ analytics.prod.frost.health.elsevier.com
 analytics.dev.frost.health.elsevier.com
 track.authorhub.elsevier.com
 click.notification.elsevier.com
+api.socialnet.shadowdragon.io
+click.service.audiusa.com
+click.e.audiusa.com
+smetrics.mynextaudi.audiusa.com
+smetrics.audiusa.com
+analytics.audiusa.com
+activity.bigo.tv
+statistics.bigo.tv
+analyticsread.bio.link
+amanalytics.bio.link
+analytics.bio.link
+adverts-cdn.bitchute.com
+metrics.bitchute.com
+measure.bitchute.com
+tracking.bitchute.com
+analytics.clouthub.com
