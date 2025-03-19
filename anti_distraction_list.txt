@@ -1,7 +1,8 @@
 ## Hastily-put-together list of domains that get me distracted from getting work done sometimes
 ## Added here using ABP syntx to block the entire domain
 
-## Use with pi-hole Groups, where you can add this blocklist > apply to a group where there are devices assigned > toggle on/off to your liking
+## You can point to this URL with your Ublock origin setup to block this by importing this as a Custom List: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/refs/heads/master/anti_distraction_list.txt
+## Or, depending on your setup, its possible to use with pi-hole Groups, where you can add this blocklist > apply to a group where there are devices assigned > toggle on/off to your liking
 
 ||bsky.app^
 ||mastodon.social^
