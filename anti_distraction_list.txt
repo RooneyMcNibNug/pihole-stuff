@@ -4,6 +4,8 @@
 ## You can point to this URL with your Ublock origin setup to block this by importing this as a Custom List: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/refs/heads/master/anti_distraction_list.txt
 ## Or, depending on your setup, its possible to use with pi-hole Groups, where you can add this blocklist > apply to a group where there are devices assigned > toggle on/off to your liking
 
+## Obviosuly, change/remove/add any domains you see fit for your own use here to better focus on tasks at hand
+
 ||bsky.app^
 ||mastodon.social^
 ||somethingawful.com^
@@ -19,3 +21,7 @@
 ||goodreads.com^
 ||wyrms.de^
 ||google.com^
+||amazon.com^
+||ebay.com^
+||etsy.com^
+||steampowered.com^
