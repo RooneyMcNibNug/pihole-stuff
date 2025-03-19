@@ -1,0 +1,20 @@
+## Hastily-put-together list of domains that get me distracted from getting work done sometimes
+## Added here using ABP syntx to block the entire domain
+
+## Use with pi-hole Groups, where you can add this blocklist > apply to a group where there are devices assigned > toggle on/off to your liking
+
+||bsky.app^
+||mastodon.social^
+||somethingawful.com^
+||youtube.com^
+||twitter.com^
+||letterboxd.com^
+||youtube.com^
+||criterionchannel.com^
+||criterion.com^
+||lichess.org^
+||patreon.com^
+||bandcamp.com^
+||goodreads.com^
+||wyrms.de^
+||google.com^
