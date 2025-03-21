@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 19 March 2025
+# Updated: 21 March 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -57049,3 +57049,8 @@ altair-rs-sbx5.global.publicisgroupe.net
 altair-bw-dev2.global.publicisgroupe.net
 dx5.global.publicisgroupe.net
 altair5.ppd.publicisgroupe.net
+marketing.sitejabber.com
+click.sitejabber.com
+aistaging.sitejabber.com
+youtrack.librarything.com
+tr.poshmark.com
