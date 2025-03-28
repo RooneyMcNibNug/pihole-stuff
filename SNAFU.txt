@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 March 2025
+# Updated: 28 March 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -57054,3 +57054,20 @@ click.sitejabber.com
 aistaging.sitejabber.com
 youtrack.librarything.com
 tr.poshmark.com
+smetrics.msg.com
+metrics.msg.com
+click.email1.msg.com
+go.satisfilabs.com
+info.satisfilabs.com
+tracking.satisfilabs.com
+www.satisfilabs.com
+trust.satisfilabs.com
+status.satisfilabs.com
+satisfilabs.com
+seated.imgix.net
+ip-test.seated.com
+stats.seated.com
+go-stuart-remove-analytics-env-vars.seated.com
+admin-stuart-remove-analytics-env-vars.seated.com
+gold-remix-stuart-remove-analytics-env-vars.seated.com
+api-stuart-remove-analytics-env-vars.seated.com
