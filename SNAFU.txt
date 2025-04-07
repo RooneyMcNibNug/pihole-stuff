@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 April 2025
+# Updated: 7 April 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -57080,3 +57080,7 @@ track.tidio.com
 truelytics.kiflo.com
 clickrobotrun.incentivio.com
 ml.incentivio.com
+iso-stats.cachyos.org
+analytics.jangafx.com
+analytics.getsocial.io
+www.analytics.getsocial.io
