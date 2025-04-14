@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 11 April 2025
+# Updated: 14 April 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -43295,6 +43295,7 @@ a-fds.youborafds01.com
 youborafds01.com
 ads.bandsintown.com
 www.ads.bandsintown.com
+adops.bandsintown.com
 img.ag.d.sendibm3.com
 5yc9p.r.ag.d.sendibm3.com
 7kptu.r.ag.d.sendibm3.com
@@ -57203,3 +57204,5 @@ unifyintent.com
 tag.unifyintent.com
 cdn.unifyintent.com
 staging.unifyintent.com
+kit22.com
+www.kit22.com
