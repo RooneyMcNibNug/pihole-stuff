@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 April 2025
+# Updated: 15 April 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -57206,3 +57206,19 @@ cdn.unifyintent.com
 staging.unifyintent.com
 kit22.com
 www.kit22.com
+efxcx.gentlelocal.icu
+basenbox.acemina.com
+ww17.acemina.com
+ww1.acemina.com
+jensincero578.acemina.com
+acemina.com
+corridorbusiness.acemina.com
+www.acemina.com
+ww35.acemina.com
+ww2.acemina.com
+lt.acemina.com
+ww35.kadavy.acemina.com
+ww3.acemina.com
+junglescout.acemina.com
+usa.iulianus-mon.com
+novelepoxy.com
