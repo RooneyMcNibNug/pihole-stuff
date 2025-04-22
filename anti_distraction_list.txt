@@ -21,7 +21,6 @@
 ||goodreads.com^
 ||wyrms.de^
 ||google.com^
-||amazon.com^
 ||ebay.com^
 ||etsy.com^
 ||steampowered.com^
