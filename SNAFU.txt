@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 May 2025
+# Updated: 8 May 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -38230,6 +38230,42 @@ get.wisepops.com
 support.wisepops.com
 popups.wisepops.com
 popup.wisepops.com
+2a57j78lztda5joakq20jlljwrivtpe.wisepops.com
+activity2.wisepops.com
+activity.wisepops.com
+app-smoothcode-test.wisepops.com
+app.wisepops.com
+app-wisepops-test.wisepops.com
+app.wisepops.test.wisepops.com
+checkout.wisepops.com
+community.wisepops.com
+email.wisepops.com
+get.wisepops.com
+id.wisepops.com
+ipn.wisepops.com
+ipn-wisepops-test.wisepops.com
+ipn.wisepops.test.wisepops.com
+lemlist-tracking.wisepops.com
+loader.wisepops.com
+magento1.wisepops.com
+magento2.wisepops.com
+newsletter.wisepops.com
+nuoobox.wisepops.com
+ping.wisepops.com
+popups.wisepops.com
+popup.wisepops.com
+preview-wisepops-test.wisepops.com
+status.wisepops.com
+support.wisepops.com
+testcss-wisepops-test.wisepops.com
+tracking.wisepops.com
+trust.wisepops.com
+try.wisepops.com
+wisepops.com
+wisepops-test.wisepops.com
+wisepops.test.wisepops.com
+wpengine.wisepops.com
+www.wisepops.com
 insights.revtrax.com
 adorebeauty.sitespect.com
 centurylink.sitespect.com
