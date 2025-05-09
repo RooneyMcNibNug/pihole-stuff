@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 8 May 2025
+# Updated: 9 May 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -62312,3 +62312,5 @@ ssl.vbt.io
 assets.vbt.io
 vbt.io
 www.vbt.io
+analytics.tixr.com
+metrics.datadome.co
