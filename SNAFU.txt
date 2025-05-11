@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 9 May 2025
+# Updated: 11 May 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45362,6 +45362,8 @@ metrics.brave.com
 adblock-data.s3.brave.com
 adblock-data.brave.com
 analytics.brave.com
+collector.bsg.brave.com
+usage-ping.brave.com
 vuorrions.shop
 fomiln.com
 analytics.23video.com
@@ -49586,6 +49588,7 @@ incoming.telemetry.mozilla.org
 public-data.telemetry.mozilla.org
 probes.telemetry.mozilla.org
 loop.telemetry.mozilla.org
+telemetry-incoming.r53-2.services.mozilla.com
 marketing-cdn.doodle.com
 mkt.e.doodle.com
 iyfbodn.com
@@ -62314,3 +62317,4 @@ vbt.io
 www.vbt.io
 analytics.tixr.com
 metrics.datadome.co
+suggest.dzen.ru
