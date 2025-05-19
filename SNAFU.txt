@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 May 2025
+# Updated: 19 May 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -63013,3 +63013,8 @@ vt-24755.alpha.transit.mgid.com
 kt-1578.alpha.cab.mgid.com
 wt-36.beta.rtb-dashboard.mgid.com
 bt-1819.beta.rtb-dashboard.mgid.com
+ad-assets.futurecdn.net
+adconsole.futureplc.com
+tr.email.futureplc.com
+ad-manager.futureplc.com
+ad-manager-service.futureplc.com
