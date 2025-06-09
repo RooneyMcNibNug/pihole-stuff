@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 June 2025
+# Updated: 9 June 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -63344,3 +63344,6 @@ postback.ads.yango.com
 debug.movies.yango.com
 photo.yango.com
 tc.taxi.yango.com
+cookies.stpd.cloud
+cookie.stpd.cloud
+stpd.cloud
