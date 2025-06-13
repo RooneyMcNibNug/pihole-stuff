@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
 https://block.energized.pro/spark/formats/domains.txt
 https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/refs/heads/main/lists/doh/privacy/hagezi-tracker-windows
 
 ## Anti-Malware/Anti-Phishing/Other Security
 https://mirror1.malwaredomains.com/files/justdomains
@@ -56,6 +57,8 @@ https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 https://tgc.cloud/downloads/iOSAds.txt
+https://raw.githubusercontent.com/mullvad/dns-blocklists/refs/heads/main/lists/doh/privacy/hagezi-tracker-apple
+https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 
 ## "Smart"-TV lists
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
