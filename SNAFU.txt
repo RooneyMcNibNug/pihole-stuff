@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 June 2025
+# Updated: 19 June 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -63412,3 +63412,6 @@ api.cloud.somin.ai
 api-ds.somin.ai
 share.somin.ai
 api.ds.somin.ai
+analytics-cdn.anthropic.com
+analytics-api.anthropic.com
+metrics.anthropic.com
