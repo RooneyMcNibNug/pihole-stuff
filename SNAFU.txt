@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 25 June 2025
+# Updated: 27 June 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -67204,3 +67204,14 @@ analytics-api.anthropic.com
 metrics.anthropic.com
 analytics.na1.fourth.com
 analytics.apac1.fourth.com
+conversions.appsflyersdk.com
+attr.appsflyersdk.com
+t.appsflyersdk.com
+monitorsdk.appsflyersdk.com
+spy12w-conversions.appsflyersdk.com
+track.appsflyersdk.com
+impression.appsflyersdk.com
+spy12w-cdn-settings.appsflyersdk.com
+impression.appsflyer.com
+afgpt.appsflyer.com
+afmarketingdev.appsflyer.com
