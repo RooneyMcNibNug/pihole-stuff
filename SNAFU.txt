@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 1 July 2025
+# Updated: 9 July 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -67141,7 +67141,6 @@ campaigns.stylus.com
 monitoring20-eu.pusher.com
 monitoring20-sa1.pusher.com
 monitoring10-draftkingseu.pusher.com
-
 hello.somin.ai
 cdn-4.cloud.somin.ai
 mercow.somin.ai
@@ -67218,3 +67217,15 @@ afmarketingdev.appsflyer.com
 telemetry.es.chef.io
 telemetry.chef.io
 prod.gcp.us-west1.sync-metrics-service.fivetran.com
+analytics.ettoday.net
+ad-dre-dt-dbankcloud-com-dre.appacc.dbankedge.cn
+clicks.contentsquare.com
+enrichment-api.ba.contentsquare.com
+enrichment-api.aa.contentsquare.com
+enrichment-api-staging.af.contentsquare.com
+hotjarapi.contentsquare.com
+click.contentsquare.com
+hotjarapi.aws-eu.staging.contentsquare.com
+a01.korrelate.net
+korrelate.net
+a00.korrelate.net
