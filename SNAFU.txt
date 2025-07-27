@@ -17725,7 +17725,6 @@ wcdsb.ca1.qualtrics.com
 wileycustomerservice.ca1.qualtrics.com
 wk.ca1.qualtrics.com
 xsurvey.ca1.qualtrics.com
-yalesurvey.ca1.qualtrics.com
 calipercorp360.qualtrics.com
 calpolycba.qualtrics.com
 cambridge.qualtrics.com
@@ -18399,7 +18398,6 @@ nd.qualtrics.com
 network.qualtrics.com
 newmeasures360.qualtrics.com
 newschool.qualtrics.com
-nhprovidersurvey.qualtrics.com
 niu.qualtrics.com
 northropgrumman360.qualtrics.com
 nupsych.qualtrics.com
@@ -18424,7 +18422,6 @@ origin-ut1.qualtrics.com
 oshkoshcorporation.qualtrics.com
 osu.qualtrics.com
 ouhsc.qualtrics.com
-ousurvey.qualtrics.com
 outsidesummit.qualtrics.com
 oxy.qualtrics.com
 pace.qualtrics.com
@@ -18587,7 +18584,6 @@ wright.qualtrics.com
 wustlbusiness360.qualtrics.com
 wvu.qualtrics.com
 xerox.qualtrics.com
-yalesurvey.qualtrics.com
 newsharecounts.s3-us-west-2.amazonaws.com
 stiffvip.com
 fbcdn2.com
