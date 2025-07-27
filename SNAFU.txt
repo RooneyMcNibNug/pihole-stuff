@@ -17544,23 +17544,15 @@ web.localytics.com
 webanalytics.localytics.com
 salesiq.zoho.com
 4837424.fls.doubleclick.net
-qualtrics.com
-www.qualtrics.com
 1.qualtrics.com
 2fca1.qualtrics.com
 a1.qualtrics.com
 aboutloyalty.qualtrics.com
-acsurvey.qualtrics.com
 actuant.qualtrics.com
 acu.qualtrics.com
 adelaide.qualtrics.com
 aida.qualtrics.com
 akamaisan.qualtrics.com
-akamaisecure.qualtrics.com
-www.akamaisecure.qualtrics.com
-akamaisecure2.qualtrics.com
-akamaisecure3.qualtrics.com
-akamaisecure4.qualtrics.com
 akron.qualtrics.com
 alixpartners360.qualtrics.com
 amazon1.qualtrics.com
@@ -17593,7 +17585,6 @@ otago.au1.qualtrics.com
 qau1.au1.qualtrics.com
 racgp.au1.qualtrics.com
 rmit.au1.qualtrics.com
-survey.au1.qualtrics.com
 surveyswesternsydney.au1.qualtrics.com
 sydneyhealthsciences.au1.qualtrics.com
 theinterpreters.au1.qualtrics.com
@@ -17620,8 +17611,6 @@ qsnetwork.az1.qualtrics.com
 s5gky9.az1.qualtrics.com
 sdgfp.az1.qualtrics.com
 smu.az1.qualtrics.com
-survey.az1.qualtrics.com
-surveys.az1.qualtrics.com
 techsmith.az1.qualtrics.com
 unc.az1.qualtrics.com
 universityofalabama.az1.qualtrics.com
@@ -17635,7 +17624,6 @@ s1.b1-prv.qualtrics.com
 babson.qualtrics.com
 baruch.qualtrics.com
 basecamp.qualtrics.com
-baylor.qualtrics.com
 bellmedia.qualtrics.com
 berkeley.qualtrics.com
 bersin.qualtrics.com
@@ -17645,7 +17633,6 @@ bino.qualtrics.com
 blackrock360.qualtrics.com
 bocconi360.qualtrics.com
 boeing360.qualtrics.com
-bostonu.qualtrics.com
 brandeis.qualtrics.com
 bryant.qualtrics.com
 bts360.qualtrics.com
@@ -17660,9 +17647,7 @@ atcresearch.ca1.qualtrics.com
 avivacanada.ca1.qualtrics.com
 azga.ca1.qualtrics.com
 bci.ca1.qualtrics.com
-berkeleyssw.ca1.qualtrics.com
 bersin.ca1.qualtrics.com
-bucksurveys.ca1.qualtrics.com
 canadapostdigital.ca1.qualtrics.com
 cch.ca1.qualtrics.com
 cdpq.ca1.qualtrics.com
@@ -17671,10 +17656,8 @@ centrify.ca1.qualtrics.com
 certification.ca1.qualtrics.com
 cmu.ca1.qualtrics.com
 council.ca1.qualtrics.com
-delaware.ca1.qualtrics.com
 dvg.ca1.qualtrics.com
 enbridge.ca1.qualtrics.com
-fsu.ca1.qualtrics.com
 girlscoutsusa.ca1.qualtrics.com
 hanoverresearch.ca1.qualtrics.com
 hkbuhk.ca1.qualtrics.com
@@ -18300,8 +18283,6 @@ kbdiageo.eu.qualtrics.com
 kcliop.eu.qualtrics.com
 kuleuven.eu.qualtrics.com
 lancasteruni.eu.qualtrics.com
-maastrichtuniversity.eu.qualtrics.com
-manchesterlib.eu.qualtrics.com
 mmu.eu.qualtrics.com
 msc.eu.qualtrics.com
 mubusiness.eu.qualtrics.com
@@ -18506,8 +18487,6 @@ stedwards.qualtrics.com
 success.qualtrics.com
 support.qualtrics.com
 supportstaging.qualtrics.com
-survey.qualtrics.com
-surveys.qualtrics.com
 swissre.qualtrics.com
 syd1.qualtrics.com
 syracuseuniversity.qualtrics.com
