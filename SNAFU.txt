@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 24 July 2025
+# Updated: 27 July 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69201,3 +69201,9 @@ www.adlog.wpp.com
 brandz.wpp.com
 m.wpp.com
 reports.wpp.com
+trk.substackcdn.com
+cookies.www.zonos.com
+cookies.explore.zonos.com
+iframe-delegation.www.zonos.com
+ip.storybook.js.zonos.com
+tr.www.zonos.com
