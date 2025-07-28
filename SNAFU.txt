@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 27 July 2025
+# Updated: 28 July 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69203,3 +69203,24 @@ cookies.explore.zonos.com
 iframe-delegation.www.zonos.com
 ip.storybook.js.zonos.com
 tr.www.zonos.com
+develop.juicer.cc
+dmp.juicer.cc
+develop-mgr.juicer.cc
+juicer.cc
+blog.juicer.cc
+faq.dev.juicer.cc
+card.juicer.cc
+improvement-staging.juicer.cc
+stg-blog.juicer.cc
+juicer-tag-check.juicer.cc
+develop-kitchen-o2u.juicer.cc
+front.juicer.cc
+dev.juicer.cc
+abc.juicer.cc
+blank.juicer.cc
+stg-faq.juicer.cc
+kitchen.juicer.cc
+develop.abc.juicer.cc
+faq.juicer.cc
+blog.dev.juicer.cc
+magazine.juicer.cc
