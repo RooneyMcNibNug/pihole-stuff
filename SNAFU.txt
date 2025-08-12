@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 August 2025
+# Updated: 12 August 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69132,4 +69132,7 @@ develop.abc.juicer.cc
 faq.juicer.cc
 blog.dev.juicer.cc
 magazine.juicer.cc
-
+analytics.givebutter.com
+mail.dndmelectrical.co.za
+sollopromo.com.br
+muyprepaidcenter.com
