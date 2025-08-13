@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 12 August 2025
+# Updated: 13 August 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -43267,6 +43267,7 @@ aw0g9.r.ag.d.sendibm3.com
 bswoe.r.ag.d.sendibm3.com
 b2y1q.r.ag.d.sendibm3.com
 8x1xv.r.ag.d.sendibm3.com
+8x202.r.a.d.sendibm1.com
 bd0ux.r.ag.d.sendibm3.com
 8wipf.r.ag.d.sendibm3.com
 www.sendibm3.com
@@ -69136,3 +69137,5 @@ analytics.givebutter.com
 mail.dndmelectrical.co.za
 sollopromo.com.br
 muyprepaidcenter.com
+metrics.yoast.com
+tracking.yoast.com
