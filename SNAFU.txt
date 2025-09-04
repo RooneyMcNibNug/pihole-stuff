@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 25 August 2025
+# Updated: 4 September 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69271,3 +69271,9 @@ ghrc.io
 www.ghrc.io
 ww38.ghrc.io
 ww25.login.ghrc.io
+applytics.nordvpn.com
+clicks.expressvpn.com
+analytics.torguard.net
+clicks.news.ipvanish.com
+clicks.team.ipvanish.com
+metrics.xvservice.net
