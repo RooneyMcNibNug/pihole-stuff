@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 8 September 2025
+# Updated: 11 September 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69292,3 +69292,5 @@ www.optibase.io
 load.stag.optibase.io
 analytics.vidzflow.com
 analytics2.vidzflow.com
+analytics.waterfox.net
+stats.waterfox.net
