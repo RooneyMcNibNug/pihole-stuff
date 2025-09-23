@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 19 September 2025
+# Updated: 23 September 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45335,6 +45335,16 @@ minecraft-ad-server.intergient.com
 finger-printer.intergient.com
 prebid.intergient.com
 cf-cdn.intergient.com
+prebid.stg.intergient.com
+cf-pageos-dev.intergient.com
+prebid.dev-aws.intergient.com
+prebid.dev.intergient.com
+minecraft-ad-server.prd-aws.intergient.com
+minecraft-ad-server.intergient.com
+revenue-service.prd-aws.intergient.com
+cf-devcdn.intergient.com
+cf-devcdn.intergient.com
+client-ml.dev.intergient.com
 post.spmailtechnolo.com
 us-20920-adswizz.attribution.adswizz.com
 rogers-329-adswizz.attribution.adswizz.com
@@ -69446,3 +69456,4 @@ ipv4.icanhazip.com
 ipv6.icanhazip.com
 status.icanhazip.com
 icanhazip.com
+
