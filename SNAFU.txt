@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 23 September 2025
+# Updated: 26 September 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69456,4 +69456,7 @@ ipv4.icanhazip.com
 ipv6.icanhazip.com
 status.icanhazip.com
 icanhazip.com
-
+analytics.rclone.org
+metrics.newegg.com
+ad.newegg.com
+metrics.reedsy.com
