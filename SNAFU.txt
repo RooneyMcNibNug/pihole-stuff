@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 September 2025
+# Updated: 27 September 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69460,3 +69460,16 @@ analytics.rclone.org
 metrics.newegg.com
 ad.newegg.com
 metrics.reedsy.com
+clicks.panareabread.com
+cint.insightexpressai.com
+global.insightexpressai.com
+poc.insightexpressai.com
+surveys.insightexpressai.com
+your-surveys.insightexpressai.com
+surveys-test.insightexpressai.com
+origin-secure.insightexpressai.com
+aqkt.insightexpressai.com
+insightexpressai.com
+www.insightexpressai.com
+secure-test.insightexpressai.com
+origin-core1.insightexpressai.com
