@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 15 October 2025
+# Updated: 21 October 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -123,6 +123,7 @@ widget-mediator.zopim.com
 r.fullstory.com
 rs.fullstory.com
 rs-2.fullstory.com
+r.eu1.fullstory.com
 app.fullstory.com
 internal.fullstory.com
 services.fullstory.com
@@ -158,6 +159,10 @@ www.partners.fullstory.com
 play.fullstory.com
 prom.fullstory.com
 randy-maugans-i-iz-a-netelligent-limestone-geekstorage-whore.fullstory.com
+edge.fullstory.com
+edge.eu1.fullstory.com
+www.walmart.fullstory.com
+walmart.fullstory.com
 thefullstory.com
 www.thefullstory.com
 adblockext.com
@@ -70032,3 +70037,5 @@ analytics.plaid.com
 metrics.plaid.com
 advertise.acast.com
 analytics.acast.com
+tracking.chess.com
+ip.varify.dev
