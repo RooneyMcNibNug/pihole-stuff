@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 22 October 2025
+# Updated: 28 October 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -70052,3 +70052,6 @@ v.aimerce.ai
 www.aimerce.ai
 studio.aimerce.ai
 e.aimerce.ai
+paragonsolutions.io
+www.paragonsolutions.io
+tracking.usebraintrust.com
