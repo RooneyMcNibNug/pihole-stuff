@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 November 2025
+# Updated: 7 November 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -70680,3 +70680,16 @@ www.geojs.io
 geojs.io
 get.geojs.io
 sg.geojs.io
+email-clicks.blockchain.info
+devinfra.instana.io
+instana.io
+cw-metrics-stream-poc.qainfra.instana.io
+ingress-red-saas.instana.io
+sonarqube.instana.io
+status.instana.io
+twistlock.instana.io
+eum-orange-saas.instana.io
+cw-metricstream.qainfra.instana.io
+eum.instana.io
+ci.instana.io
+teleport-sos-test.dev-account.instana.io
