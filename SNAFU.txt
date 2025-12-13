@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 December 2025
+# Updated: 13 December 2025
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -20522,48 +20522,6 @@ tacobell2.quantifind.com
 www.tacobell2.quantifind.com
 www.www.quantifind.com
 os.fandango.com
-tritondigital.com
-www.tritondigital.com
-adtrek.tritondigital.com
-ampcms.tritondigital.com
-ampcontesting.tritondigital.com
-cm.tritondigital.com
-confluence.tritondigital.com
-es.tritondigital.com
-fr.tritondigital.com
-info.tritondigital.com
-int.tritondigital.com
-iwcm.tritondigital.com
-lt160.tritondigital.com
-lt200.tritondigital.com
-lt201.tritondigital.com
-lt202.tritondigital.com
-www.lt202.tritondigital.com
-lt302.tritondigital.com
-lt500.tritondigital.com
-lt501.tritondigital.com
-lt502.tritondigital.com
-lt503.tritondigital.com
-lt504.tritondigital.com
-mail1.tritondigital.com
-mail2.tritondigital.com
-mail3.tritondigital.com
-mccf.tritondigital.com
-navigator.tritondigital.com
-player.tritondigital.com
-promo.tritondigital.com
-promoapp.tritondigital.com
-proserv.tritondigital.com
-pwav4.tritondigital.com
-smtp1.tritondigital.com
-smtp2.tritondigital.com
-smtp3.tritondigital.com
-tap.tritondigital.com
-tech.tritondigital.com
-wcm2.tritondigital.com
-www2.tritondigital.com
-yesfm.tritondigital.com
-yield-op.tritondigital.com
 ca.mscnet.com
 cc.mscnet.com
 m1.mscnet.com
@@ -71360,3 +71318,4 @@ www.test.bardeen.ai
 static.test.bardeen.ai
 auth.test.bardeen.ai
 cdn.ops-test.bardeen.ai
+
