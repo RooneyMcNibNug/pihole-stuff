@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 January 2026
+# Updated: 27 January 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45277,6 +45277,7 @@ fueled-cdn.alex-testing.fueled.io
 insights.fueled.io
 dev.fueled.io
 demo2.fueled.io
+airbyte2.fueled.io
 hyphensocial-global-attribution-77idhi4p3a-uw.a.run.app
 monitoring.talk.coralproject.net
 telemetry.anytype.io
@@ -72266,3 +72267,35 @@ api.us.clearout.io
 app.test.clearout.io
 app.sandbox.clearout.io
 api.stage.clearout.io
+email-blast.powr.io
+madewith.powr.io
+chameleon.powr.io
+partnerstack.powr.io
+one.powr.io
+hipaapi.powr.io
+community.powr.io
+gke.powr.io
+email-builder.powr.io
+form-builder.powr.io
+workflow.powr.io
+counter.powr.io
+outlet.powr.io
+aresponsesapi.powr.io
+next.powr.io
+cdn.powr.io
+sha-service.powr.io
+heroku.powr.io
+nextgen-email-builder.powr.io
+responsesapi.powr.io
+screenshot.powr.io
+static.powr.io
+assessments.powr.io
+vcdn.powr.io
+bang.powr.io
+openai.powr.io
+share.powr.io
+powr.io
+get.powr.io
+platform.powr.io
+nextgen.powr.io
+www.powr.io
