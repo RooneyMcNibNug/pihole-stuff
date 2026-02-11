@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklis
 https://block.energized.pro/spark/formats/domains.txt
 https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt
 https://raw.githubusercontent.com/mullvad/dns-blocklists/refs/heads/main/lists/doh/privacy/hagezi-tracker-windows
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
 
 ## Anti-Malware/Anti-Phishing/Other Security
 https://mirror1.malwaredomains.com/files/justdomains
