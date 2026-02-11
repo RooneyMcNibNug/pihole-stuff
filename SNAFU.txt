@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 9 February 2026
+# Updated: 11 February 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72330,3 +72330,17 @@ www.spara.co
 dev.spara.co
 clerk.spara.co
 app.spara.co
+api-analytics.revenuehunt.com
+analytics.revenuehunt.com
+sub.staging.gorgias.chat
+config.gorgias.chat
+gorgias.chat
+vicdup-shopify.gorgias.chat
+staging.gorgias.chat
+client-builds.staging.gorgias.chat
+client-builds.gorgias.chat
+client-builds.production.gorgias.chat
+vicdup-headless.gorgias.chat
+production.gorgias.chat
+9gtb.com
+ei.9gtb.com
