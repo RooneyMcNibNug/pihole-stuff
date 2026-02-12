@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 11 February 2026
+# Updated: 12 February 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72344,3 +72344,6 @@ vicdup-headless.gorgias.chat
 production.gorgias.chat
 9gtb.com
 ei.9gtb.com
+click.e.lifetouch.com
+click.em.lifetouch.com
+click.m.lifetouch.com
