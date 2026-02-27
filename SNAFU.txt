@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 February 2026
+# Updated: 27 February 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72701,3 +72701,8 @@ player.beta.smartlook.com
 smartlook.com
 heatmaps.beta.smartlook.com
 billing.alfaz.smartlook.com
+click.e.affirm.com
+click.debit.affirm.com
+ads.octaneai.com
+analysis.octaneai.com
+insights.octaneai.com
