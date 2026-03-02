@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 27 February 2026
+# Updated: 2 March 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72707,3 +72707,11 @@ ads.octaneai.com
 analysis.octaneai.com
 insights.octaneai.com
 metrics.partiful.com
+fbot.me
+api.fbot.me
+kibana2.fbot.me
+ref.fbot.me
+read.fbot.me
+tracking.eu.sezzle.com
+tracking.sezzle.com
+it-analytics.sezzle.com
