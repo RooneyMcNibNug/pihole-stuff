@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 10 March 2026
+# Updated: 12 March 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72756,3 +72756,12 @@ billing-magic.blend-ai.com
 amp.blend-ai.com
 creative-analysis.blend-ai.com
 hello.blend-ai.com
+links.email.character.ai
+observability.bereal.com
+metrics.bereal.com
+analytics.hellotalk.xyz
+l.smore.com
+link.smore.com
+trk.e.etix.com
+analytics.coolify.io
+analytics.example.coolify.io
