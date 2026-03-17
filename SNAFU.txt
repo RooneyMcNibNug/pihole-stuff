@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 12 March 2026
+# Updated: 17 March 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -72765,3 +72765,7 @@ link.smore.com
 trk.e.etix.com
 analytics.coolify.io
 analytics.example.coolify.io
+link.floatplane.com
+click.unsplash.com
+org-ness.life
+id.heytap.com
