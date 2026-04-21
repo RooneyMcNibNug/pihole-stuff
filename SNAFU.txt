@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 20 April 2026
+# Updated: 21 April 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74201,3 +74201,20 @@ www.actonsoftware.com
 li.protechts.net
 stats.koozali.org
 stats-api.koozali.org
+track.sl.subscribe.bylinetimes.com
+applets.ebxcdn.com
+ebxcdn.com
+webflow.flodesk.com
+pf.flodesk.com
+partners.flodesk.com
+ingest.staging.flodesk.com
+mcp.staging.flodesk.com
+www.flodesk.com
+university.flodesk.com
+university.staging.flodesk.com
+updates.flodesk.com
+university-new.flodesk.com
+flometry.flodesk.com
+grain.flodesk.com
+analytics.flodesk.com
+flodesk.com
