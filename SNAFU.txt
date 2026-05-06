@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 5 May 2026
+# Updated: 6 May 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74379,3 +74379,17 @@ bloggg.leadpipe.com
 cdn.leadpipe.com
 business.leadpipe.com
 customer.leadpipe.com
+browser-intake-datadoghq.com
+browser-intake-us1-datadoghq.com
+browser-intake-us2-datadoghq.com
+browser-intake-us3-datadoghq.com
+browser-intake-us4-datadoghq.com
+browser-intake-us5-datadoghq.com
+browser-intake-ap1-datadoghq.com.
+browser-intake-corporateclash.net.
+browser-intake-datad0g.com
+browser-intake-datadoghq.com
+browser-intake-ddog-gov.com
+browser-intake-foxbusiness.com
+browser-intake-interactio.com
+browser-intake-rheaply.com
