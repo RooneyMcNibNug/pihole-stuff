@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 May 2026
+# Updated: 8 May 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74393,3 +74393,15 @@ browser-intake-ddog-gov.com
 browser-intake-foxbusiness.com
 browser-intake-interactio.com
 browser-intake-rheaply.com
+us-west-2.prod15.rlets.com
+capture-rlets-cdn-dev.rlets.com
+can.rlets.com
+us-east-1.prod15.rlets.com
+qa15.rlets.com
+cdn-dev.rlets.com
+dev.rlets.com
+qa.rlets.com
+rlets.com
+prod15.rlets.com
+cdn-qa.rlets.com
+cdn.rlets.com
