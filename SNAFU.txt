@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 19 May 2026
+# Updated: 26 May 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74564,3 +74564,22 @@ cc-cati.americandirections.com
 callgem.americandirections.com
 share2.americandirections.com
 share.americandirections.com
+studio-preview.stg.wknd.ai
+email-api.qa.wknd.ai
+tag.wknd.ai
+coupons-v2.qa.wknd.ai
+assets.wknd.ai
+api.stg.wknd.ai
+assets.stg.wknd.ai
+perf-api.wknd.ai
+api.qa.wknd.ai
+argocd.stg.wknd.ai
+studio-preview.wknd.ai
+coupons-v2.wknd.ai
+ssp.wknd.ai
+api.wknd.ai
+argocd.qa.wknd.ai
+coupons-v2.stg.wknd.ai
+studio-preview.qa.wknd.ai
+tag.stg.wknd.ai
+track.mail.granola.ai
