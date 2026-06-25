@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 18 June 2026
+# Updated: 25 June 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74781,3 +74781,32 @@ gmslb.net
 safernetwork.io 
 tera-home.com
 ninjatech.io
+collect.app.klue.com
+review-insights.app.klue.com
+affiliate.landr.com
+referrals.landr.com
+adapex.io
+cdn.adapex.io
+app-adserving.adapex.io
+img.adapex.io
+www.matrix.adapex.io
+sbill-1.adapex.io
+ssai.adapex.io
+safeads.adapex.io
+api.adapex.io
+salesagent.adapex.io
+m-newrevenuemetric.adapex.io
+pcache.adapex.io
+reporting.adapex.io
+www-stage.adapex.io
+w2.adapex.io
+dfpht.adapex.io
+knowledge.adapex.io
+webapi2.adapex.io
+sellers.adapex.io
+webapi.adapex.io
+adstxt.adapex.io
+www.adapex.io
+hb1.adapex.io
+vast.adapex.io
+matrix.adapex.io
