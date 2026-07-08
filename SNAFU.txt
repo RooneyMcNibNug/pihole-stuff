@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 7 July 2026
+# Updated: 8 July 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74816,3 +74816,30 @@ traefik-metrics.bluettipower.com
 traefik-metrics-de.bluettipower.com
 traefik-metrics-jp.bluettipower.com
 traefik-jp.bluettipower.com
+37.click.tx.remote.co
+click.tx.remote.co
+26.click.mg.remote.co
+29.click.tx.remote.co
+43.click.mg.remote.co
+45.click.tx.remote.co
+20.click.mg.remote.co
+18.click.tx.remote.co
+34.click.tx.remote.co
+27.click.tx.remote.co
+13.click.tx.remote.co
+21.click.mg.remote.co
+33.click.mg.remote.co
+11.click.tx.remote.co
+47.click.mg.remote.co
+23.click.mg.remote.co
+44.click.mg.remote.co
+28.click.mg.remote.co
+27.click.mg.remote.co
+20.click.tx.remote.co
+46.click.tx.remote.co
+25.click.tx.remote.co
+click.mg.remote.co
+33.click.tx.remote.co
+marketing-summit.socialclimb.com
+marketing.socialclimb.com
+trend.socialclimb.com
