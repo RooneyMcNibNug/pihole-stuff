@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 14 July 2026
+# Updated: 21 July 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -74774,3 +74774,18 @@ marketing-summit.socialclimb.com
 marketing.socialclimb.com
 trend.socialclimb.com
 www.click.pocoo.org
+vdd.trinitymedia.ai
+cfdynamic.trinitymedia.ai
+cfstatic.trinitymedia.ai
+trinitymedia.ai
+vd.trinitymedia.ai
+bstatic.trinitymedia.ai
+imasdk.trinitymedia.ai
+media.trinitymedia.ai
+depart.trinitymedia.ai
+rtb.trinitymedia.ai
+imasdk-http.trinitymedia.ai
+amp.trinitymedia.ai
+cdn.trinitymedia.ai
+sp.trinitymedia.ai
+audio.trinitymedia.ai
