@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 21 July 2026
+# Updated: 23 July 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -43417,6 +43417,10 @@ www.vz-cofee.movableink.com
 www.vpn-ord.int.movableink.com
 hummingbird.movableink.com
 try.movableink.com
+track.prod.davinci.movableink.com
+track.davinci.movableink.com
+api.davinci.movableink.com
+davinci.movableink.com
 doorman-staging.movableink.com
 www.amex.movableink.com
 mailrox.movableink.com
