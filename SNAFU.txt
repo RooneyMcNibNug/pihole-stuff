@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 13 August 2026
+# Updated: 14 August 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -25031,6 +25031,11 @@ js.usemessages.com
 mobileanalytics.web.ue1.app.chime.aws
 mobileanalytics.web.ue1.b.app.chime.aws
 mobileanalytics.web.ue1.a.app.chime.aws
+mobileanalytics.web.ue1.g.app.chime.aws
+api.stats.ue1.b.app.chime.aws
+api.stats.ue1.g.app.chime.aws
+api.stats.ue1.a.app.chime.aws
+api.stats.ue1.app.chime.aws
 analytics.indeed.com
 analyticsperf-analytics.indeed.com
 ads.dyn.indeed.com
