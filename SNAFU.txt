@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 3 September 2026
+# Updated: 9 September 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -69949,7 +69949,10 @@ tbox.umeng.com
 analytics.plaid.com
 metrics.plaid.com
 advertise.acast.com
+www2.advertise.acast.com
+sv.advertise.acast.com
 analytics.acast.com
+campaigns.acast.com
 tracking.chess.com
 ip.varify.dev
 2a57j78lztda5joakq20jlljwrivtpe.aimerce.ai
