@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 17 September 2026
+# Updated: 23 September 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -75394,3 +75394,5 @@ auth.stage4.nonprod.alchemer.com
 serviceontario.accessible-parking-permit-online-form-f.alchemer.com
 pcproject.ipcc2023.alchemer.com
 campaignasia.sf-social-7.alchemer.com
+tracking.datasociety.net
+click.e.charitynavigator.org
