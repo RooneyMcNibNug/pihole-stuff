@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 1 October 2026
+# Updated: 5 October 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -75486,3 +75486,5 @@ api.dev.sellwild.com
 ads13.ads.sellwild.com
 ads80.ads.sellwild.com
 ads21.ads.sellwild.com
+stat.coral.coralproject.net
+m-campaigns.bunny.net
