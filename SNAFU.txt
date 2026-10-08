@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 6 October 2026
+# Updated: 8 October 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -75535,3 +75535,25 @@ staging.app-eu.realtime.email
 edge-countdown.realtime.email
 waf.realtime.email
 em-eu.realtime.email
+clicks.toast.app
+data-science-api.ccgateway.net
+adapex.ccgateway.net
+analytics.ccgateway.net
+profiling.ccgateway.net
+api.ccgateway.net
+tag-api-2-0.ccgateway.net
+cdn.ccgateway.net
+adlift.ccgateway.net
+imgur.ccgateway.net
+dm.ccgateway.net
+dm-dev.ccgateway.net
+urlmatch.ccgateway.net
+pixel.ccgateway.net
+ads.ccgateway.net
+clicksco.ccgateway.net
+adiq.ccgateway.net
+categorisation-admin.ccgateway.net
+profile-api.ccgateway.net
+categorisation-api.ccgateway.net
+serve.ccgateway.net
+imgur-categorisation.ccgateway.net
