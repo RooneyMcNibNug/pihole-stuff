@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 13 October 2026
+# Updated: 14 October 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -75613,3 +75613,22 @@ cloud.uppromote.com
 mkp-api.uppromote.com
 api-public.uppromote.com
 api-forward.uppromote.com
+widget.fotomoto.com
+email.17track.com
+www.17track.com
+www-1.17track.com
+cfcdn.17track.com
+comcdn.17track.com
+17track.com
+meow.spot.im
+hbdyn.spot.im
+monetizationapi.spot.im
+vpn.spot.im
+spot.im
+bd.spot.im
+community.spot.im
+hbcdn.spot.im
+info.spot.im
+gateway.spot.im
+monetization.spot.im
+offers.spot.im
