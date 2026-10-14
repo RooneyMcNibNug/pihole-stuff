@@ -75632,3 +75632,6 @@ info.spot.im
 gateway.spot.im
 monetization.spot.im
 offers.spot.im
+track.consensus.app
+metrics.cursor.sh
+count.perplexity.ai
