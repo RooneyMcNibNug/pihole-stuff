@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 26 October 2026
+# Updated: 29 October 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -76156,3 +76156,6 @@ etl-news24-green.stg.sophi.io
 airflow.develop.sophi.io
 sdp-acc-api-chicagotribune.ml.sophi.io
 next-api-red.theglobeandmail.sophi.io
+mgtrk.revize.com
+smetrics.bbb.org
+apptracking.services.dev.corp.lego.com
