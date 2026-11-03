@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 2 November 2026
+# Updated: 3 November 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -76195,3 +76195,7 @@ whatsup.partizan.com
 nocdn.partizan.com
 www.partizan.com
 partizan.com
+lead-recommendation.clay.com
+api.clayrun.dev
+clayrun.dev
+assets.clayrun.dev
