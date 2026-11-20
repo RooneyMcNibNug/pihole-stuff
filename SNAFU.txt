@@ -5,7 +5,7 @@
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 16 November 2026
+# Updated: 20 November 2026
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -45093,6 +45093,8 @@ sts.keap-link015.com
 in.analytics.eu.cultureamp.com
 amplitude.uw2.analytics.cultureamp.com
 in.analytics.cultureamp.com
+analytics.cultureamp.com
+insights.cultureamp.com
 click.emails.paypal.com
 images.ctfassets.com
 s.t.barnesandnoble.com
